@@ -1,0 +1,11 @@
+{
+  "pkg": "@ecomplus/widget-product",
+  "active": true,
+  "desktopOnly": false,
+  "options": {
+    "buyText": "",
+    "buy": "",
+    "lowQuantityToWarn": 12,
+    "maxVariationOptionsBtns": 6
+  }
+}
