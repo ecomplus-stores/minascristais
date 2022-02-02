@@ -1,17 +1,18 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Ver Pedidos "
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Como Comprar"
+      },
+      {
+        "title": "Atacado "
       }
     ],
     "phone_wpp": true,
@@ -20,7 +21,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
