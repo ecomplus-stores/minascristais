@@ -2,5 +2,18 @@
   "title": "Trocas e devoluções",
   "meta_title": "Trocas e devoluções",
   "meta_description": "Trocas e devoluções",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\nTROCAS E DEVOLUÇÕES\n\nTodas as ocorrências que envolvam troca ou devolução devem ser comunicadas nesta página com o assunto TROCA ou DEVOLUÇÃO e com os dados da compra no campo MENSAGEM.\n\nO contato deve ser enviado em até 48 horas após o recebimento dos produtos, trocas ou devoluções não comunicadas ou comunicadas após o prazo não serão efetuadas.\n\nA devolução deve ser feita com a mesma embalagem e cuidados que o produto foi enviado. Se o produto for devolvido sem os cuidados necessários e chegar avariado, a troca ou devolução não será efetuada.\n\nIMPORTANTE: Recuse o recebimento dos produtos em caso de embalagem avariada ou produto em desacordo com o pedido.\n\nSe ainda assim você receber o produto, entre em contato conosco em até 48 horas.\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
