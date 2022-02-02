@@ -2,5 +2,18 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Envio para Todo Brasil e Exterior.\n\nEnvio em até 3 dias úteis após comprovação de pagamento.\n\nFicou com algum dúvida fale conosco pelo whatsapp\n\nNossos contatos:\n\nPor email-atendimento@minascristais.com.br\n\nPor whatsapp - 31 99860- 4393",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
