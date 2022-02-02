@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "link": "https://minascristais.netlify.app/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros"
+    "text": "Parcele em até 3x sem juros",
+    "link": "https://minascristais.netlify.app/pages/entrega"
   },
   "exchange": {
     "show": false,
