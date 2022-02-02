@@ -4,14 +4,61 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "list_pages": false,
+    "title": "Informações",
+    "list": [
+      {
+        "text": "Minas Cristais SWX "
+      },
+      {
+        "text": "Lojas Físicas"
+      },
+      {
+        "text": "Como Comprar"
+      },
+      {
+        "text": "Formas de Envio"
+      },
+      {
+        "text": "Formas de Pagamento"
+      },
+      {
+        "text": "Segurança & Privacidade"
+      },
+      {
+        "text": "Trocas & Devoluções"
+      },
+      {
+        "text": "Catálogo e Loja Atacado"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
-    "list": []
+    "list_categories": false,
+    "title": "Mais ",
+    "list": [
+      {
+        "text": "E-book de Pedras e Cristais"
+      },
+      {
+        "text": "Calendário Astrológico 2022"
+      },
+      {
+        "text": "Significado das Pedras"
+      },
+      {
+        "text": "Como Limpar e Energizar - Pedras e Cristais"
+      },
+      {
+        "text": "As Pedras de Cada Signos"
+      },
+      {
+        "text": "As Pedras de Cada Profissão"
+      },
+      {
+        "text": "Blog Minas Cristais "
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
@@ -27,7 +74,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +82,12 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
