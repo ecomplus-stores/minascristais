@@ -2,5 +2,23 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Parcele suas compras em até 3x sem juros no cartão , para pedidos acima de R$100. \n\nAceitamos Boleto | Pix ou Depósito Bancário.\n\nEscolha a melhor forma de pagamento no final de sua compra.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
+    }
+  ]
 }
