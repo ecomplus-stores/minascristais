@@ -16,7 +16,18 @@
       ]
     },
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/chakras.jpg"
+        },
+        {
+          "img": "/img/uploads/pedrasbrutasbase.jpg"
+        },
+        {
+          "img": "/img/uploads/decoreanimais.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
