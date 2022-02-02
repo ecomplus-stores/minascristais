@@ -6,6 +6,9 @@
   "contacts_stripe": {
     "pages": [
       {
+        "title": "Login"
+      },
+      {
         "title": "Ver Pedidos "
       },
       {
