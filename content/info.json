@@ -7,7 +7,7 @@
   "installments": {
     "show": true,
     "text": "Parcele em até 3x sem juros",
-    "link": "https://minascristais.netlify.app/pages/entrega"
+    "link": "https://minascristais.netlify.app/pages/pagamentos"
   },
   "exchange": {
     "show": false,
