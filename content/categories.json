@@ -1,15 +1,15 @@
 {
   "sections": [
     {
+      "type": "document-banner",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
       "type": "page-title"
-    },
-    {
-      "type": "document-banner",
-      "enabled": true
     },
     {
       "type": "category-retail",
