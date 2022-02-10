@@ -26,9 +26,16 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/cristaisepedras/?Cristais e Pedras",
+      "/acessorios-esotericos/?Acessórios",
+      "/esoterismo/?Esoterismo | Signos",
+      "/cores-e-formatos/?Cores e Formatos ",
+      "/decoracaoeutilidades/?Mais "
+    ],
+    "random": 8,
     "full_width": true
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
