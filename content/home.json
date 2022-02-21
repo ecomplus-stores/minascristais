@@ -17,14 +17,23 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "&#10058; A Maior Variedade de Pedras e Cristais a Pronta Entrega &#10058;",
+      "description": "Confira os Lançamentos do Mês "
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "lowest_price",
-      "title": "",
-      "headless": false,
+      "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "6200356e7963422eeeee599f:categories:Apatita - Pedra do ano 2022:/apatita/",
+      "sort": "news",
+      "title": "&#10058; Apatita -  Pedra do Ano &#10058;"
     },
     {
       "type": "banners-grid",
@@ -44,9 +53,13 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo | Signos:/esoterismo/",
+      "sort": "views",
+      "title": "☯ Pedras dos Chakras | Signos | Esoterismo ☯"
     },
     {
       "type": "info-bar",
