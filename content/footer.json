@@ -42,7 +42,7 @@
     ]
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Mais ",
     "list": [
       {
