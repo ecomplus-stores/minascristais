@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.27beedd3524c9ffd510bbed6176371bc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b13cf65e95d06ddbbfee170b5afea9b3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.44425433da56e71edc82c664416cccb7.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a25d1e28d0d3381040cfdb1a2eef76f9.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.736e1983046d8adf1d2d9b2990cea3c7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Minas Cristais SWX - Loja Virtual de Pedras e Cristais ",
+  "short_name": "Minas Cristais SWX ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de Pedras & Cristais,  envio para Todo Brasil e Exterior. \nVisite também nossas lojas físicas em Sete Lagoas, Curvelo e Belo Horizonte. \nA maior variedade de pedras e cristais a Pronta Entrega de Minas Gerais para o mundo. ",
+  "background_color": "#ffffff",
+  "theme_color": "#08087d"
+}
