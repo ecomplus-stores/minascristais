@@ -1,7 +1,7 @@
 {
   "domain": "minascristais.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#49494a",
+  "primary_color": "#1b1ba6",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
