@@ -17,6 +17,11 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
@@ -37,11 +42,6 @@
           "link": "https://minascristais.netlify.app/animais/"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
     },
     {
       "type": "info-bar",
