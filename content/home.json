@@ -35,7 +35,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "slug"
     },
     {
       "type": "banners-grid",
