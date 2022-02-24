@@ -27,6 +27,10 @@
       "offset": 0
     },
     {
+      "type": "custom-html",
+      "html": "<h2> Confira os Lançamentos do Mês </h2> \n<h4> Pedras Roladas | Cristais em diversos formatos | Decoração e Acessórios </h4>"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
