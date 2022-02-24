@@ -14,7 +14,8 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "Promoções e Cupons - saiba mais ",
+    "link": "https://minascristais.netlify.app/pages/promocoesvigentes"
   }
 }
