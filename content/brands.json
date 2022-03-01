@@ -8,13 +8,13 @@
       "type": "page-title"
     },
     {
-      "type": "document-banner",
-      "enabled": true
-    },
-    {
       "type": "brand-retail",
       "enabled": true,
       "sort": "sales"
+    },
+    {
+      "type": "document-banner",
+      "enabled": true
     },
     {
       "type": "document-description",
