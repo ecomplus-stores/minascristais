@@ -17,39 +17,6 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "A Maior Variedade de Pedras e Cristais a Pronta Entrega ",
-      "description": "Enviamos para Todo Brasil | Parcele suas compras em até 3x sem juros no cartão "
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": ""
-    },
-    {
-      "type": "custom-html",
-      "html": "<h2> Use o cupom : PRIMEIRACOMPRA  e garanta 5% de desconto! </h2> \n<h4> Pedras Roladas | Cristais em diversos formatos | Decoração e Acessórios </h4>"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/chakras.jpg",
-          "link": "https://minascristais.netlify.app/chakras/"
-        },
-        {
-          "img": "/img/uploads/pedrasbrutasbase.jpg",
-          "link": "https://minascristais.netlify.app/pedras-na-base/"
-        },
-        {
-          "img": "/img/uploads/decoreanimais.jpg",
-          "link": "https://minascristais.netlify.app/animais/"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
