@@ -52,7 +52,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/chakras.jpg"
+          "img": "/img/uploads/chakras.jpg",
+          "link": "https://www.minascristais.com.br/chakras/"
         },
         {
           "img": "/img/uploads/decoreanimais.jpg"
