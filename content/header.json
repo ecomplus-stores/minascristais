@@ -6,7 +6,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Login"
+        "title": "Login",
+        "link": "https://www.minascristais.com.br/app/#/account/"
       },
       {
         "title": "Ver Pedidos "
