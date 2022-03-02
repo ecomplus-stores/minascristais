@@ -10,17 +10,19 @@
         "link": "https://www.minascristais.com.br/app/#/account/"
       },
       {
-        "title": "Ver Pedidos "
+        "title": "Ver Pedidos ",
+        "link": "https://www.minascristais.com.br/app/#/account/orders"
       },
       {
-        "title": "Como Comprar"
+        "title": "Como Comprar",
+        "link": "https://minascristais.com.br/pages/faq"
       },
       {
         "title": "Atacado "
       },
       {
         "title": "Lojas Físicas",
-        "link": "https://minascristais.netlify.app/pages/contato"
+        "link": "https://minascristais.com.br/pages/contato"
       }
     ],
     "phone_wpp": true,
