@@ -2,12 +2,12 @@
   "shipping": {
     "show": true,
     "text": "Enviamos para Todo Brasil | Para Exterior Compre via Whatsapp | Lojas Físicas ",
-    "link": "https://minascristais.netlify.app/pages/entrega"
+    "link": "https://minascristais.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
     "text": "Parcele suas compras em até 3x sem juros no cartão | Aceitamos Boleto | PIX ",
-    "link": "https://minascristais.netlify.app/pages/pagamentos"
+    "link": "https://minascristais.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
@@ -16,6 +16,6 @@
   "promo": {
     "show": true,
     "text": "Promoções e Cupons - saiba mais ",
-    "link": "https://minascristais.netlify.app/pages/promocoesvigentes"
+    "link": "https://minascristais.com.br/pages/promocoesvigentes"
   }
 }
