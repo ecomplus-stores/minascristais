@@ -18,8 +18,9 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
+      "limit": 14,
+      "offset": 0,
+      "sort": "name"
     },
     {
       "type": "collection-shelf",
