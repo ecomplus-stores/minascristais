@@ -28,7 +28,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200356e7963422eeeee599f:categories:Apatita - Pedra do ano 2022:/apatita/",
-      "sort": "news",
+      "sort": "sales",
       "title": "Apatita - Pedra do Ano - Confira as Peças a Pronta Entrega",
       "link": "https://www.minascristais.com.br/apatita/"
     },
@@ -38,7 +38,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211bbd67963422eee0eece9:brands:Décor & Objetos:/decor-objetos-cristais",
-      "sort": "views",
+      "sort": "sales",
       "title": "Decoração e Objetos em Pedras e Cristais - veja mais ",
       "link": "https://www.minascristais.com.br/decor-objetos-cristais"
     },
@@ -47,8 +47,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "621416d27963422eee127ca6:brands:Mix Acessórios:/mix-acessorios",
-      "sort": "views",
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios - Minas Cristais:/mix-acessorios",
+      "sort": "sales",
       "title": "Acessórios em Pedras e Cristais , confira ",
       "link": "https://www.minascristais.com.br/mix-acessorios"
     },
