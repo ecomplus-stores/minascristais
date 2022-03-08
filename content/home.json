@@ -23,6 +23,16 @@
       "sort": "name"
     },
     {
+      "type": "page-title",
+      "title": "Na Semana da Mulher 10% de desconto para pagamento via PIX ",
+      "description": "Pedras e Cristais em diversos formatos a Pronta Entrega"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -64,11 +74,6 @@
           "link": "https://www.minascristais.com.br/borboletas-animais"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
     },
     {
       "type": "info-bar",
