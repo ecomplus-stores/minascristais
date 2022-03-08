@@ -5,6 +5,7 @@
   "options": {
     "buyText": "Adicionar ao Carrinho",
     "buy": "",
+    "strHasQuantitySelector": "_",
     "lowQuantityToWarn": 12,
     "maxVariationOptionsBtns": 12
   }
