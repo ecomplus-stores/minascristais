@@ -1,0 +1,28 @@
+{
+  "title": "Significado das Pedras e Cristais + ",
+  "body": "## **[Significado das Pedras e Cristais + Visite Nosso Blog ](https://site.minascristais.com.br/blog)**",
+  "meta_title": "Significado das Pedras e Cristais + Visite Nosso Blog ",
+  "meta_description": "Significado das Pedras e Cristais + Visite Nosso Blog ",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
