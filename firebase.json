@@ -1,6 +1,172 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/sitemap",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/pages",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/searches",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/grids",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+            {
+        "source": "/sitemaps/categories",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/brands",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/products",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/entrar",
+        "destination": "/app/#/account/",
+        "type": 301
+      },
+      {
+        "source": "/conta",
+        "destination": "/app/#/account/",
+        "type": 301
+      },
+      {
+        "source": "/cadastrar",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/carrinho",
+        "destination": "/app/#/cart",
+        "type": 301
+      },
+      {
+        "source": "/pagina/sobre",
+        "destination": "/pages/minas-cristais-swx-sobre-a-empresa",
+        "type": 301
+      },
+      {
+        "source": "/pagina/pagamento",
+        "destination": "/pages/pagamentos",
+        "type": 301
+      },
+      {
+        "source": "/pagina/duvidas",
+        "destination": "/pages/faq",
+        "type": 301
+      },
+      {
+        "source": "/pagina/entrega",
+        "destination": "/pages/entrega",
+        "type": 301
+      },
+      {
+        "source": "/pagina/privacidade",
+        "destination": "/pages/privacidade",
+        "type": 301
+      },
+      {
+        "source": "/pagina/trocas",
+        "destination": "/pages/trocas",
+        "type": 301
+      },
+      {
+        "source": "/azeviche/",
+        "destination": "/cristaisepedras/",
+        "type": 301
+      },
+      {
+        "source": "/berilo",
+        "destination": "/cristaisepedras/",
+        "type": 301
+      },
+      {
+        "source": "/calcita-verde/",
+        "destination": "/cristaisepedras/",
+        "type": 301
+      },
+      {
+        "source": "/epidoto/",
+        "destination": "/cristaisepedras/",
+        "type": 301
+      },
+      {
+        "source": "/madreperola/",
+        "destination": "/cristaisepedras/",
+        "type": 301
+      },
+      {
+        "source": "/topazio/",
+        "destination": "/cristaisepedras/",
+        "type": 301
+      },
+      {
+        "source": "/rubi/",
+        "destination": "/cristaisepedras/",
+        "type": 301
+      },
+      {
+        "source": "/decore-agata/",
+        "destination": "/agata/",
+        "type": 301
+      },
+      {
+        "source": "/pedras-especiais/",
+        "destination": "/pedras-de-colecao/",
+        "type": 301
+      },
+      {
+        "source": "/decorativosemcristais/",
+        "destination": "/decorativosemcristais/",
+        "type": 301
+      },
+      {
+        "source": "/incensarios/",
+        "destination": "/esotericos/",
+        "type": 301
+      },
+      {
+        "source": "/kit-mesa-tabua-para-frios-porta-copos-em-agata",
+        "destination": "/bandeja-agata-3919-mesa-posta",
+        "type": 301
+      },
+      {
+        "source": "/basalto-com-pirita/",
+        "destination": "/basalto/",
+        "type": 301
+      },
+      {
+        "source": "/crisoprasio/",
+        "destination": "/cristaisepedras/",
+        "type": 301
+      },
+      {
+        "source": "/pedras-azuis-obsidiana-azul/",
+        "destination": "/obsidiana-azul-cristal-andara/",
+        "type": 301
+      },
+      {
+        "source": "/busca?b=*",
+        "destination": "/search?term=",
+        "type": 301
+      }
+
     ],
     "public": "dist",
     "ignore": [
