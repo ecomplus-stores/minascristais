@@ -11,9 +11,18 @@
       "type": "page-title"
     },
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "info-bar",
