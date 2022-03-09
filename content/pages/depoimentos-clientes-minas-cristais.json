@@ -1,0 +1,28 @@
+{
+  "title": "Depoimentos Clientes Minas Cristais ",
+  "body": "Depoimentos Clientes Minas Cristais",
+  "meta_title": "Depoimentos Clientes Minas Cristais SWX",
+  "meta_description": "Depoimentos Clientes Minas Cristais SWX",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
