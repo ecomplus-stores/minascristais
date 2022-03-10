@@ -20,13 +20,6 @@
           "img": "/img/uploads/drusas-slide-marco.jpg",
           "alt": "https://www.minascristais.com.br/pages/ofertas-promocoes",
           "mobile_img": "/img/uploads/drusas-slide-marcom.jpg"
-        },
-        {
-          "start": "2022-02-02T01:46:14.483Z",
-          "end": "",
-          "img": "/img/uploads/mesa-posta-agatas-minascristais.jpg",
-          "mobile_img": "/img/uploads/mesa-posta-agatas-minascristaismobile.jpg",
-          "link": "https://www.minascristais.com.br/mesa-posta"
         }
       ]
     },
@@ -57,6 +50,12 @@
       "link": "https://www.minascristais.com.br/apatita/"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/mesa-posta-agatas-minascristais.jpg",
+      "mobile_img": "/img/uploads/mesa-posta-agatas-minascristaismobile.jpg",
+      "link": "https://www.minascristais.com.br/mesa-posta"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -75,19 +74,6 @@
       "sort": "sales",
       "title": "Acessórios em Pedras e Cristais , confira ",
       "link": "https://www.minascristais.com.br/mix-acessorios"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/chakras.jpg",
-          "link": "https://www.minascristais.com.br/chakras/"
-        },
-        {
-          "img": "/img/uploads/decoreanimais.jpg",
-          "link": "https://www.minascristais.com.br/borboletas-animais"
-        }
-      ]
     },
     {
       "type": "info-bar",
