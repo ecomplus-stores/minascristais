@@ -40,6 +40,11 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/compre-e-ganhe.jpg",
+      "link": "https://www.minascristais.com.br/obsidiana-azul-cristal-andara"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -78,11 +83,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/compre-e-ganhe.jpg",
-      "link": "https://www.minascristais.com.br/obsidiana-azul-cristal-andara"
     }
   ]
 }
