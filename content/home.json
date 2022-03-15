@@ -50,6 +50,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+      "title": "Confira as Ofertas do Mês "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "sort": "sales",
       "title": "Os mais vendidos "
     },
