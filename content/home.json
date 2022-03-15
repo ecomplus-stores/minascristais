@@ -8,18 +8,19 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-03-10T18:41:13.871Z",
-          "end": "",
-          "img": "/img/uploads/pontas-slides.jpg",
-          "alt": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "mobile_img": "/img/uploads/pontas-slidesm.jpg"
-        },
-        {
           "start": "2022-03-10T18:41:37.556Z",
           "end": "",
-          "img": "/img/uploads/drusas-slide-marco.jpg",
+          "img": "/img/uploads/especialmarco-pedrascristais20off.jpg",
           "alt": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "mobile_img": "/img/uploads/drusas-slide-marcom.jpg"
+          "mobile_img": "/img/uploads/especialmarco-pedrascristais20offm.jpg"
+        },
+        {
+          "start": "2022-03-10T18:41:13.871Z",
+          "end": "",
+          "img": "/img/uploads/especialmarcodecore.jpg",
+          "alt": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "mobile_img": "/img/uploads/especialmarcodecorem.jpg",
+          "link": "https://www.minascristais.com.br/casa/"
         }
       ]
     },
@@ -40,10 +41,17 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/compre-e-ganhe.jpg",
-      "link": "https://www.minascristais.com.br/obsidiana-azul-cristal-andara",
-      "mobile_img": "/img/uploads/compre-e-ganhem.jpg"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/compreganhedrusa.jpg",
+          "link": "https://www.minascristais.com.br/obsidiana-azul-cristal-andara"
+        },
+        {
+          "img": "/img/uploads/acessorios.jpg",
+          "link": "https://www.minascristais.com.br/acessorios"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -55,6 +63,23 @@
       "title": "Confira as Ofertas do Mês "
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/pontas1.jpg",
+          "link": "https://www.minascristais.com.br/pontas/"
+        },
+        {
+          "img": "/img/uploads/drusas1.jpg",
+          "link": "https://www.minascristais.com.br/drusas/"
+        },
+        {
+          "img": "/img/uploads/esferas.jpg",
+          "link": "https://www.minascristais.com.br/pedrasovais/"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -64,9 +89,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/mesa-posta-agatas-minascristais.jpg",
-      "mobile_img": "/img/uploads/mesa-posta-agatas-minascristaismobile.jpg",
-      "link": "https://www.minascristais.com.br/mesa-posta"
+      "img": "/img/uploads/lojasfisicasd2022.jpg",
+      "link": "https://minascristais.com.br/pages/contato",
+      "mobile_img": "/img/uploads/lojasfisicasd2022m.jpg"
     },
     {
       "type": "info-bar",
