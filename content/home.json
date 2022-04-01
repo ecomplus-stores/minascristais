@@ -41,19 +41,6 @@
       "sort": "news"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/compreganhedrusa.jpg",
-          "link": "https://www.minascristais.com.br/obsidiana-azul-cristal-andara"
-        },
-        {
-          "img": "/img/uploads/acessorios.jpg",
-          "link": "https://www.minascristais.com.br/acessorios"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
