@@ -32,14 +32,14 @@
       "sort": "name"
     },
     {
-      "type": "page-title",
-      "title": "Pedras e Cristais em diversos formatos a Pronta Entrega",
-      "description": "Confira os lançamentos do Mês "
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035557963422eeeee592d:categories:Coração:/coracao/",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/coracao/",
+      "title": "❤ Presentes Especiais de ❤"
     },
     {
       "type": "banners-grid",
@@ -73,6 +73,26 @@
       "collection_id": null
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "✦Acessórios em Pedras & Cristais ✦",
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios - Minas Cristais:/mix-acessorios",
+      "link": "https://www.minascristais.com.br/mix-acessorios"
+    },
+    {
+      "type": "page-title",
+      "title": "Pedras e Cristais em diversos formatos a Pronta Entrega",
+      "description": "Confira os lançamentos do Mês "
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -88,14 +108,6 @@
           "link": "https://www.minascristais.com.br/pedrasovais/"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Os mais vendidos "
     },
     {
       "type": "responsive-banner",
