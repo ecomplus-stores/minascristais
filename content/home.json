@@ -29,7 +29,7 @@
       "type": "brands-carousel",
       "limit": 14,
       "offset": 0,
-      "sort": "name"
+      "sort": null
     },
     {
       "type": "collection-shelf",
