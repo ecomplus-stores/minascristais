@@ -11,27 +11,6 @@
       "type": "page-title"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessoriosbanner.jpg",
-          "link": "https://www.minascristais.com.br/acessorios"
-        },
-        {
-          "img": "/img/uploads/banner-esotericos.jpg",
-          "link": "https://www.minascristais.com.br/esoterismo/"
-        },
-        {
-          "img": "/img/uploads/banner-massageadores.jpg",
-          "link": "https://www.minascristais.com.br/massageadoresdecristais/"
-        },
-        {
-          "img": "/img/uploads/pedraskgbanner.jpg",
-          "link": "https://www.minascristais.com.br/kg-pedras-cristais"
-        }
-      ]
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
