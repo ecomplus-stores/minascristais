@@ -1,14 +1,9 @@
 {
   "title": "♥ O Amor está no Ar  ♥ ",
-  "body": "**O mês do Amor está no ar, separamos produtos mais que especiais para você presentear seu Amor.** \n\n**Use o cupom: amordepresente e ganhe 12% de desconto nas compras a partir de R$100 em produtos.** \n\n**E ainda você ganha 01 lindo pingente em formato de coração, também nas compras a partir de R$100.**",
+  "body": "# **Especial Dia dos Namorados**\n\n**O mês do Amor está no ar, separamos produtos mais que especiais, cheios de significado e energias positivas para você presentear seu Amor** ♥**.** \n\n**Use o cupom: amordepresente e ganhe 12% de desconto nas compras a partir de R$100 em produtos.** \n\n**E ainda você ganha 01 lindo pingente em formato de coração, também nas compras a partir de R$100.**",
   "meta_title": "Presentes Dia dos Namorados - Minas Cristais - Pedras e Cristais ",
   "meta_description": "Cupom Especial : Presentes Dia dos Namorados - Minas Cristais - Pedras e Cristais ",
   "sections": [
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/slide-namorados-especial-junho.jpg",
-      "mobile_img": "/img/uploads/slide-namorados-especial-junh-mobile.jpg"
-    },
     {
       "type": "extra-page",
       "enabled": true
@@ -32,6 +27,11 @@
       "sort": "news",
       "title": "♥ Ametista : a Pedra da Sabedoria ♥",
       "link": "https://www.minascristais.com.br/ametista/"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/slide-namorados-especial-junho.jpg",
+      "mobile_img": "/img/uploads/slide-namorados-especial-junh-mobile.jpg"
     },
     {
       "type": "collection-shelf",
