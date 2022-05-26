@@ -1,0 +1,86 @@
+{
+  "title": "♥ O Amor está no Ar  ♥ ",
+  "body": "**O mês do Amor está no ar, separamos produtos mais que especiais para você presentear seu Amor.** \n\n**Use o cupom: amordepresente e ganhe 12% de desconto nas compras a partir de R$100 em produtos.** \n\n**E ainda você ganha 01 lindo pingente em formato de coração, também nas compras a partir de R$100.**",
+  "meta_title": "Presentes Dia dos Namorados - Minas Cristais - Pedras e Cristais ",
+  "meta_description": "Cupom Especial : Presentes Dia dos Namorados - Minas Cristais - Pedras e Cristais ",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/slide-namorados-especial-junho.jpg",
+      "mobile_img": "/img/uploads/slide-namorados-especial-junh-mobile.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
+      "sort": "highest_price",
+      "title": "♥ Quartzo Rosa : a Pedra do Amor ♥",
+      "link": "https://www.minascristais.com.br/quartzo-rosa/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200356d7963422eeeee599d:categories:Ametista:/ametista/",
+      "sort": "news",
+      "title": "♥ Ametista : a Pedra da Sabedoria ♥",
+      "link": "https://www.minascristais.com.br/ametista/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200356c7963422eeeee5999:categories:Âmbar:/ambar/",
+      "sort": "news",
+      "title": "Âmbar : Amuleto de Boa Sorte, Saúde e Proteção",
+      "link": "https://www.minascristais.com.br/ambar/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios - Minas Cristais:/mix-acessorios",
+      "sort": "views",
+      "title": "Acessórios em Pedras : Alianças, Anéis, Brincos, Colares e Pulseiras ",
+      "link": "https://www.minascristais.com.br/mix-acessorios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62142dd97963422eee12b9d4:brands:As Pedras para Purificação e Energização:/purificacao-energizacao-cristais",
+      "sort": "sales",
+      "title": "A Energia dos Cristais para sua Vida",
+      "link": "https://www.minascristais.com.br/purificacao-energizacao-cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621c94f97963422eee2211cd:brands:Massageadores :/massageadores-pedras-cristais",
+      "sort": "news",
+      "title": "Skincare e Massageadores em Pedras",
+      "link": "https://www.minascristais.com.br/massageadores-pedras-cristais"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
