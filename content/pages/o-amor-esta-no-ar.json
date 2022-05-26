@@ -54,6 +54,11 @@
       "link": "https://www.minascristais.com.br/mix-acessorios"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/slide-brinde-coracao.jpg",
+      "mobile_img": "/img/uploads/slide-brinde-coracao-mobile.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
