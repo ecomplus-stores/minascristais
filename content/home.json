@@ -3,6 +3,33 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais - Sete Lagoas | Curvelo | Belo Horizonte.Loja de Pedras & Cristais,  envio para Todo Brasil e Exterior.  Visite também nossas lojas físicas em Sete Lagoas, Curvelo e Belo Horizonte.  A maior variedade de pedras e cristais a Pronta Entrega de Minas Gerais para o mundo. , ",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-05-26T20:47:08.118Z",
+          "end": "",
+          "img": "/img/uploads/slide-namorados-especial-junho.jpg",
+          "mobile_img": "/img/uploads/slide-namorados-especial-junh-mobile.jpg",
+          "link": "https://www.minascristais.com.br/acessorios"
+        },
+        {
+          "start": "2022-05-26T20:48:12.738Z",
+          "end": "",
+          "img": "/img/uploads/slide-brinde-coracao.jpg",
+          "mobile_img": "/img/uploads/slide-brinde-coracao-mobile.jpg"
+        },
+        {
+          "start": "2022-05-26T20:48:44.873Z",
+          "end": "",
+          "img": "/img/uploads/slide-namorados-acessorios-pedras-cristais.jpg",
+          "link": "https://www.minascristais.com.br/acessorios",
+          "mobile_img": "/img/uploads/slide-namorados-acessorios-pedras-cristais-mobile.jpg"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 14,
       "offset": 0,
@@ -13,27 +40,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Esotéricas:/kitspedras-esotericas",
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-      "title": "Kits de Pedras e Cristais "
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios - Minas Cristais:/mix-acessorios",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "title": "Acessórios em Diversas Pedras e Cristais "
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/pontas1.jpg",
-          "link": "https://www.minascristais.com.br/pontas/"
-        },
-        {
-          "img": "/img/uploads/drusas1.jpg",
-          "link": "https://www.minascristais.com.br/drusas/"
-        },
-        {
-          "img": "/img/uploads/esferas.jpg",
-          "link": "https://www.minascristais.com.br/pedrasovais/"
-        }
-      ]
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "✦Presentes para Decorar e Energizar sua Vida! ✦",
+      "collection_id": "6211bbd67963422eee0eece9:brands:Décor & Objetos:/decor-objetos-cristais",
+      "link": "https://www.minascristais.com.br/decor-objetos-cristais"
     },
     {
       "type": "collection-shelf",
@@ -41,19 +61,9 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "✦Pirâmides e Orgonites ✦",
-      "collection_id": "6200355b7963422eeeee594f:categories:Pirâmides:/piramides/",
-      "link": "https://www.minascristais.com.br/piramides/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/esotericos-minas-cristais",
-      "title": "Pedras Místicas e Esotéricas ",
-      "collection_id": "621748057963422eee191af7:brands:Esotéricos Minas Cristais:/esotericos-minas-cristais"
+      "link": "https://www.minascristais.com.br/aneis/",
+      "title": "Alianças e Anéis em Pedras e Cristais ",
+      "collection_id": "620035ce7963422eeeee5ad7:categories:Anéis:/aneis/"
     },
     {
       "type": "page-title",
