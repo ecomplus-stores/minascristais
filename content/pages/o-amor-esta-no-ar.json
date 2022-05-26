@@ -29,11 +29,6 @@
       "link": "https://www.minascristais.com.br/ametista/"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/slide-namorados-especial-junho.jpg",
-      "mobile_img": "/img/uploads/slide-namorados-especial-junh-mobile.jpg"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -52,11 +47,6 @@
       "sort": "views",
       "title": "Acessórios em Pedras : Alianças, Anéis, Brincos, Colares e Pulseiras ",
       "link": "https://www.minascristais.com.br/mix-acessorios"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/slide-brinde-coracao.jpg",
-      "mobile_img": "/img/uploads/slide-brinde-coracao-mobile.jpg"
     },
     {
       "type": "collection-shelf",
