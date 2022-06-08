@@ -9,9 +9,6 @@
       "enabled": true
     },
     {
-      "type": "page-title"
-    },
-    {
       "type": "extra-page",
       "enabled": true
     },
