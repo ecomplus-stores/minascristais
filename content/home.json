@@ -77,16 +77,6 @@
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais"
     },
     {
-      "type": "page-title",
-      "title": "Pedras e Cristais em diversos formatos a Pronta Entrega",
-      "description": "Confira os lançamentos do Mês "
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
