@@ -87,10 +87,19 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/lojasfisicasd2022.jpg",
-      "link": "https://minascristais.com.br/pages/contato",
-      "mobile_img": "/img/uploads/lojasfisicasd2022m.jpg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-06-09T00:30:24.709Z",
+          "end": "",
+          "img": "/img/uploads/lojasfisicasd2022.jpg",
+          "link": "https://www.minascristais.com.br/pages/contato",
+          "mobile_img": "/img/uploads/lojasfisicasd2022m.jpg",
+          "alt": "Lojas Físicas - Minas Cristais | Sete Lagoas | Curvelo | Belo Horizonte"
+        }
+      ]
     },
     {
       "type": "info-bar",
