@@ -5,6 +5,10 @@
   "meta_description": "Atacado Minas Cristais - Pedras & Cristais - Compre Online - Revenda - 20% desconto",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/atacadobanner.jpg"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
