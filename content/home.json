@@ -117,6 +117,11 @@
       "link": "https://www.minascristais.com.br/montagem-pedras-cristais"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
