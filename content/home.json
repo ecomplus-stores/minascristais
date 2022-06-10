@@ -77,6 +77,26 @@
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621748057963422eee191af7:brands:Esotéricos Minas Cristais:/esotericos-minas-cristais",
+      "sort": "news",
+      "title": "Pedras Místicas e Esotéricas",
+      "link": "https://www.minascristais.com.br/esotericos-minas-cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621c96797963422eee221368:brands:Pedras para Montagem de Peças:/montagem-pedras-cristais",
+      "sort": "news",
+      "title": "Pedras para Montagem de Peças ",
+      "link": "https://www.minascristais.com.br/montagem-pedras-cristais"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
