@@ -19,11 +19,6 @@
       "title": "Confira alguma Ofertas"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
