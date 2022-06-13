@@ -13,20 +13,25 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "62045ce67963422eeef73d5a:categories:Acessórios em Prata:/prata",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/prata",
-      "title": "Acessórios em Prata"
+      "collection_id": null,
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+      "title": "Confira alguma Ofertas"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "collection_id": "620035557963422eeeee592d:categories:Coração:/coracao/",
-      "link": "https://www.minascristais.com.br/coracao/",
-      "title": "\t♥ "
+      "sort": "sales",
+      "collection_id": "620035b57963422eeeee5a87:categories:Obsidiana Verde ( Cristal Andara) :/obsidiana-verde-cristal-andara/",
+      "link": "https://www.minascristais.com.br/obsidiana-verde-cristal-andara/",
+      "title": "✦ Os mais vendidos em  Obsidiana Verde "
     },
     {
       "type": "collection-shelf",
@@ -34,7 +39,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035ce7963422eeeee5ad7:categories:Anéis:/aneis/",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/aneis/",
       "title": "Anéis e Alianças "
     },
@@ -63,10 +68,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "621748057963422eee191af7:brands:Esotéricos Minas Cristais:/esotericos-minas-cristais",
-      "sort": "news",
-      "title": "Pedras Místicas e Esotéricas",
-      "link": "https://www.minascristais.com.br/esotericos-minas-cristais"
+      "collection_id": "6200359d7963422eeeee5a35:categories:Selenita:/selenita/",
+      "sort": "views",
+      "title": "✦ Selenita - Pedra da Limpeza e Energização",
+      "link": "https://www.minascristais.com.br/selenita/"
     },
     {
       "type": "collection-shelf",
@@ -74,14 +79,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "621c96797963422eee221368:brands:Pedras para Montagem de Peças:/montagem-pedras-cristais",
-      "sort": "news",
-      "title": "Pedras para Montagem de Peças ",
+      "sort": "sales",
+      "title": "✦Pedras para Montagem de Peças ✦",
       "link": "https://www.minascristais.com.br/montagem-pedras-cristais"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
     },
     {
       "type": "banner-slider",
