@@ -3,44 +3,6 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais - Sete Lagoas | Curvelo | Belo Horizonte.Loja de Pedras & Cristais,  envio para Todo Brasil e Exterior.  Visite também nossas lojas físicas em Sete Lagoas, Curvelo e Belo Horizonte.  A maior variedade de pedras e cristais a Pronta Entrega de Minas Gerais para o mundo. , ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-05-26T20:47:08.118Z",
-          "end": "",
-          "img": "/img/uploads/slide-namorados-especial-junho0.jpg",
-          "mobile_img": "/img/uploads/slide-namorados-especial-junh-mobil0e.jpg",
-          "link": "https://www.minascristais.com.br/pages/o-amor-esta-no-ar",
-          "alt": "Especial Dia dos Namorados: Cupom 12% de desconto, aproveite! "
-        },
-        {
-          "start": "2022-05-26T22:50:30.116Z",
-          "end": "",
-          "img": "/img/uploads/slide-brinde-coracao1.jpg",
-          "mobile_img": "/img/uploads/slide-brinde-coracao-mobile1.jpg",
-          "link": "https://www.minascristais.com.br/pages/o-amor-esta-no-ar",
-          "alt": "Especial Dia dos Namorados: Ganhe um Lindo Pingente em Formato de Coração"
-        },
-        {
-          "start": "2022-06-09T00:19:05.018Z",
-          "end": "",
-          "img": "/img/uploads/slidesdesktop-atacado1.jpg",
-          "mobile_img": "/img/uploads/slides-mobile-atacado1.jpg",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "Atacado Minas Cristais - Pedras & Cristais - Revenda - Saiba mais "
-        },
-        {
-          "start": "2022-05-26T20:48:44.873Z",
-          "end": "",
-          "img": "/img/uploads/slide-namorados-acessorios-pedras-cristais0.jpg",
-          "link": "https://www.minascristais.com.br/esotericos-minas-cristais",
-          "mobile_img": "/img/uploads/slide-namorados-acessorios-pedras-cristais-mobile0.jpg"
-        }
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 14,
       "offset": 0,
