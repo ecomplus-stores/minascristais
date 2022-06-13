@@ -3,6 +3,27 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais - Sete Lagoas | Curvelo | Belo Horizonte.Loja de Pedras & Cristais,  envio para Todo Brasil e Exterior.  Visite também nossas lojas físicas em Sete Lagoas, Curvelo e Belo Horizonte.  A maior variedade de pedras e cristais a Pronta Entrega de Minas Gerais para o mundo. , ",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-06-13T11:02:15.065Z",
+          "end": "",
+          "img": "/img/uploads/slideacessorios-junho1.jpg",
+          "link": "https://www.minascristais.com.br/mix-acessorios",
+          "mobile_img": "/img/uploads/slideacessorios-junhomobile.jpg"
+        },
+        {
+          "start": "2022-06-13T11:03:14.387Z",
+          "end": "",
+          "img": "/img/uploads/atacadobanner.jpg",
+          "mobile_img": "/img/uploads/slides-mobile-atacado1.jpg",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 14,
       "offset": 0,
