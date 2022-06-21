@@ -42,9 +42,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "title": "Confira Ofertas"
+      "sort": "news",
+      "link": "",
+      "title": "Lançamentos do Mês"
     },
     {
       "type": "collection-shelf",
