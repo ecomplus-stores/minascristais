@@ -8,18 +8,25 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2022-07-13T00:02:57.367Z",
+          "end": "",
+          "img": "/img/uploads/slidehome1.jpg",
+          "link": "https://www.minascristais.com.br/casa/",
+          "mobile_img": "/img/uploads/slidehome-julho-mobile.jpg"
+        },
+        {
+          "start": "2022-06-13T11:03:14.387Z",
+          "end": "",
+          "img": "/img/uploads/slide.jpg",
+          "mobile_img": "/img/uploads/slidemobile-julho.jpg",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
+        },
+        {
           "start": "2022-06-13T11:15:48.915Z",
           "end": "",
           "img": "/img/uploads/slide-orgonites1d.jpg",
           "mobile_img": "/img/uploads/slide-orgonites1m.jpg",
           "link": "https://www.minascristais.com.br/orgonite/"
-        },
-        {
-          "start": "2022-06-13T11:03:14.387Z",
-          "end": "",
-          "img": "/img/uploads/slidesdesktop-atacado1.jpg",
-          "mobile_img": "/img/uploads/slides-mobile-atacado1.jpg",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
         },
         {
           "start": "2022-06-13T11:02:15.065Z",
