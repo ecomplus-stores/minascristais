@@ -8,17 +8,23 @@
       "type": "page-title"
     },
     {
-      "type": "document-banner",
+      "type": "document-description",
       "enabled": true
     },
     {
       "type": "collection-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "views"
     },
     {
-      "type": "document-description",
-      "enabled": true
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo | Signos:/esoterismo/",
+      "link": "https://www.minascristais.com.br/esoterismo/",
+      "title": "Veja mais em Esoterismo"
     },
     {
       "type": "brands-carousel",
