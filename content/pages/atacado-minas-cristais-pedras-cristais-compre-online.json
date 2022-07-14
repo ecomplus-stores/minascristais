@@ -6,7 +6,9 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/atacadobanner.jpg"
+      "img": "/img/uploads/slide.jpg",
+      "mobile_img": "/img/uploads/slidemobile-julho.jpg",
+      "alt": "Revenda Cristais - Atacado Minas Cristais"
     },
     {
       "type": "breadcrumbs",
