@@ -90,10 +90,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/prata",
-      "title": "Acessórios em Prata ",
-      "collection_id": "62045ce67963422eeef73d5a:categories:Acessórios em Prata:/prata"
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/aneis/",
+      "title": "Alianças e Anéis ",
+      "collection_id": "620035ce7963422eeeee5ad7:categories:Anéis:/aneis/"
     },
     {
       "type": "collection-shelf",
