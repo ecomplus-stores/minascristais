@@ -24,6 +24,19 @@
       "sort": "name"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-09-08T01:34:52.234Z",
+          "end": "",
+          "img": "/img/uploads/lojasfisicas-minascristais.jpg",
+          "mobile_img": "/img/uploads/lojasfisicas-minascristais-mobile.jpg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
