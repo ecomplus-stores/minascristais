@@ -8,28 +8,21 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-08-08T20:33:27.090Z",
+          "start": "2022-09-08T00:51:00.451Z",
           "end": "",
-          "img": "/img/uploads/slides-energia-dos-cristais.jpg",
-          "mobile_img": "/img/uploads/slides-energia-dos-cristais-mobile.jpg",
-          "link": "https://www.minascristais.com.br/formatos/",
-          "alt": "Cristais em Diversos Formatos a Pronta Entrega no Varejo e Atacado , veja mais"
-        },
-        {
-          "start": "2022-07-13T00:02:57.367Z",
-          "end": "",
-          "img": "/img/uploads/slidehome1.jpg",
-          "link": "https://www.minascristais.com.br/casa/",
-          "mobile_img": "/img/uploads/slidehome-julho-mobile.jpg"
-        },
-        {
-          "start": "2022-06-13T11:03:14.387Z",
-          "end": "",
-          "img": "/img/uploads/slide.jpg",
-          "mobile_img": "/img/uploads/slidemobile-julho.jpg",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
+          "img": "/img/uploads/especial-mes.jpg",
+          "mobile_img": "/img/uploads/especialmes-mobile.jpg",
+          "link": "https://www.minascristais.com.br/cristaisepedras/",
+          "alt": "Cristais para energizar sua casa e sua vida! Compre Online "
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/live-cliente-desktop.jpg",
+      "mobile_img": "/img/uploads/live-cliente-mobile.jpg",
+      "link": "https://www.instagram.com/minas_cristais",
+      "alt": "Live dia 14 de setembro , te esperamos! "
     },
     {
       "type": "brands-carousel",
@@ -38,14 +31,26 @@
       "sort": null
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/atacado-desktop.jpg",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "mobile_img": "/img/uploads/atacado-mobile.jpg",
+      "alt": "20% off no Atacado - use o cupom e aproveite - Revenda Minas Cristais "
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "title": "Brincos em Cristais ",
-      "collection_id": "620035657963422eeeee5983:categories:Brincos:/bijuteriasesemijoias-brincos/",
-      "link": "https://www.minascristais.com.br/bijuteriasesemijoias-brincos/"
+      "collection_id": "620035497963422eeeee58ed:categories:Formatos:/formatos/",
+      "sort": "sales",
+      "title": "Cristais em diversos formatos, veja aqui.",
+      "link": "https://www.minascristais.com.br/formatos/"
     },
     {
       "type": "collection-shelf",
@@ -53,59 +58,29 @@
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "collection_id": "620035e87963422eeeee5b2b:categories:Orgonite:/orgonite/",
-      "link": "https://www.minascristais.com.br/orgonite/",
-      "title": "✦ Os mais vendidos em Orgonites"
+      "title": "Acessórios em Cristais , veja aqui ",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/casa/",
-      "title": "Decoração & Objetos Para Casa "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/aneis/",
-      "title": "Alianças e Anéis ",
-      "collection_id": "620035ce7963422eeeee5ad7:categories:Anéis:/aneis/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "title": "Aproveite o Desconto"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "✦ Kits de Pedras e Cristais - Esotéricos ✦",
-      "collection_id": "620035e47963422eeeee5b1d:categories:Kits Pedras :/kits-pedras/",
-      "link": "https://www.minascristais.com.br/kits-pedras/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035e77963422eeeee5b28:categories:Chakras:/chakras/",
-      "sort": "views",
-      "title": "✦ Alinhe seus Chakras✦ ",
-      "link": "https://www.minascristais.com.br/chakras/"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/agata-pedra-vitalidade-alegria.jpg",
+          "link": "https://www.minascristais.com.br/agata/",
+          "alt": "Ágatas: Cristal da Proteção, Amizade, Vitalidade, Justiça"
+        },
+        {
+          "img": "/img/uploads/quartzocristal-purificacao-limpeza.jpg",
+          "link": "https://www.minascristais.com.br/cristal/",
+          "alt": "Quartzo Cristal: Purificação e Limpeza "
+        },
+        {
+          "img": "/img/uploads/ametista-sabedoria-cristais.jpg",
+          "link": "https://www.minascristais.com.br/ametista/",
+          "alt": "Ametistas em diversos formatos "
+        }
+      ]
     },
     {
       "type": "banner-slider",
