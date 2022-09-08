@@ -5,14 +5,13 @@
   "meta_description": "Atacado Minas Cristais - Pedras & Cristais - Compre Online - Revenda - 20% desconto",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/slide.jpg",
-      "mobile_img": "/img/uploads/slidemobile-julho.jpg",
-      "alt": "Revenda Cristais - Atacado Minas Cristais"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/atacado-desktop.jpg",
+      "mobile_img": "/img/uploads/atacado-mobile.jpg"
     },
     {
       "type": "extra-page",
@@ -22,6 +21,12 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/slide.jpg",
+      "mobile_img": "/img/uploads/slidemobile-julho.jpg",
+      "alt": "Revenda Cristais - Atacado Minas Cristais"
     },
     {
       "type": "brands-carousel",
