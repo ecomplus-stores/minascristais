@@ -53,16 +53,6 @@
       "link": "https://www.minascristais.com.br/formatos/"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Acessórios em Cristais , veja aqui ",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -81,6 +71,16 @@
           "alt": "Ametistas em diversos formatos "
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Acessórios em Cristais , veja aqui ",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios"
     },
     {
       "type": "banner-slider",
