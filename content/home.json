@@ -18,13 +18,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/live-cliente-desktop.jpg",
-      "mobile_img": "/img/uploads/live-cliente-mobile.jpg",
-      "link": "https://www.instagram.com/minas_cristais",
-      "alt": "Live dia 14 de setembro , te esperamos! "
-    },
-    {
       "type": "brands-carousel",
       "limit": 14,
       "offset": 0,
