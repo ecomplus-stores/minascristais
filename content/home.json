@@ -10,10 +10,18 @@
         {
           "start": "2022-09-08T00:51:00.451Z",
           "end": "",
-          "img": "/img/uploads/especial-mes.jpg",
-          "mobile_img": "/img/uploads/especialmes-mobile.jpg",
+          "img": "/img/uploads/slide_setembro2022.jpg",
+          "mobile_img": "/img/uploads/slide_setembro2022_mobile.jpg",
           "link": "https://www.minascristais.com.br/cristaisepedras/",
           "alt": "Cristais para energizar sua casa e sua vida! Compre Online "
+        },
+        {
+          "start": "2022-09-18T18:41:02.744Z",
+          "end": "",
+          "img": "/img/uploads/slide_semana_cliente.jpg",
+          "mobile_img": "/img/uploads/slide_semana_cliente_mobile1.jpg",
+          "link": "https://www.minascristais.com.br/promocao-semana-minas-cristais",
+          "alt": "15% OFF - SEMANA DO CLIENTE MINAS CRISTAIS "
         }
       ]
     },
@@ -25,9 +33,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/cliente-pag-desktop.jpg",
+      "img": "/img/uploads/capa-destaque-ofertas.jpg",
       "link": "https://www.minascristais.com.br/promocao-semana-minas-cristais",
-      "mobile_img": "/img/uploads/fachada-mobile-clientepag.jpg",
+      "mobile_img": "",
       "alt": "15% de desconto em mais de 50 produtos Minas Cristais vem conferir "
     },
     {
@@ -35,7 +43,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "lowest_price",
       "title": "Semana do Cliente - 15% de desconto em mais de 50 produtos, confira  ",
       "collection_id": "6323164273321213f877ae06:collections:Promoção Semana do Cliente:/promocao-semana-minas-cristais",
       "link": "https://www.minascristais.com.br/promocao-semana-minas-cristais"
@@ -61,14 +69,9 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Acessórios em Cristais , veja aqui ",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios"
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     },
     {
       "type": "responsive-banner",
@@ -76,6 +79,11 @@
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
       "mobile_img": "/img/uploads/atacado-mobile.jpg",
       "alt": "20% off no Atacado - use o cupom e aproveite - Revenda Minas Cristais "
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "banner-slider",
