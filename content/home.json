@@ -33,10 +33,10 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/capa-destaque-ofertas.jpg",
+      "img": "/img/uploads/banner-topo.jpg",
       "link": "https://www.minascristais.com.br/promocao-semana-minas-cristais",
       "mobile_img": "",
-      "alt": "15% de desconto em mais de 50 produtos Minas Cristais vem conferir "
+      "alt": "15% de desconto em mais de 40 produtos Minas Cristais vem conferir "
     },
     {
       "type": "collection-shelf",
@@ -44,7 +44,7 @@
       "limit": 12,
       "page": 1,
       "sort": "lowest_price",
-      "title": "Semana do Cliente - 15% de desconto em mais de 50 produtos, confira  ",
+      "title": "Prorrogada até dia 30 de setembro: Aproveite  15% de desconto em mais de 40 produtos",
       "collection_id": "6323164273321213f877ae06:collections:Promoção Semana do Cliente:/promocao-semana-minas-cristais",
       "link": "https://www.minascristais.com.br/promocao-semana-minas-cristais"
     },
