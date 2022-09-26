@@ -1,11 +1,11 @@
 {
   "pkg": "@ecomplus/widget-analytics",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
     "gaTrackingId": "UA-107592821-1",
-    "googleAdsId": ""
+    "googleAdsId": "AW-775907583"
   },
   "headAppend": "src/append/head"
 }
