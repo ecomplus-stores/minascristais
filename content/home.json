@@ -32,21 +32,9 @@
       "sort": null
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-topo.jpg",
-      "link": "https://www.minascristais.com.br/promocao-semana-minas-cristais",
-      "mobile_img": "",
-      "alt": "15% de desconto em mais de 40 produtos Minas Cristais vem conferir "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "lowest_price",
-      "title": "Prorrogada até dia 30 de setembro: Aproveite  15% de desconto em mais de 40 produtos",
-      "collection_id": "6323164273321213f877ae06:collections:Promoção Semana do Cliente:/promocao-semana-minas-cristais",
-      "link": "https://www.minascristais.com.br/promocao-semana-minas-cristais"
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -71,7 +59,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
@@ -79,11 +67,6 @@
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
       "mobile_img": "/img/uploads/atacado-mobile.jpg",
       "alt": "20% off no Atacado - use o cupom e aproveite - Revenda Minas Cristais "
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
     },
     {
       "type": "banner-slider",
