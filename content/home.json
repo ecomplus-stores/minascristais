@@ -46,6 +46,16 @@
       "title": "CONFIRA PRODUTOS SELECIONADOS - ESPECIAL DIA DO VENDEDOR"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/pedras-cor-rosa/",
+      "title": "OUTUBRO ROSA CHEGOU! VEM CONFERIR NOSSA SEÇÃO DE PEDRAS ROSAS"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -66,9 +76,14 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035607963422eeeee596f:categories:Pedras Brutas:/pedras-brutas/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/pedras-brutas/",
+      "title": "PEDRAS BRUTAS - AS MAIS VENDIDAS"
     },
     {
       "type": "responsive-banner",
