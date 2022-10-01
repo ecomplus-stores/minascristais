@@ -16,12 +16,11 @@
           "alt": "Cristais para energizar sua casa e sua vida! Compre Online "
         },
         {
-          "start": "2022-09-18T18:41:02.744Z",
+          "start": "2022-10-01T02:28:43.292Z",
           "end": "",
-          "img": "/img/uploads/slide_semana_cliente.jpg",
-          "mobile_img": "/img/uploads/slide_semana_cliente_mobile1.jpg",
-          "link": "https://www.minascristais.com.br/promocao-semana-minas-cristais",
-          "alt": "15% OFF - SEMANA DO CLIENTE MINAS CRISTAIS "
+          "img": "/img/uploads/slidefinal-vendedor.jpg",
+          "mobile_img": "/img/uploads/mobile-especial-vendedoor.jpg",
+          "link": "https://www.minascristais.com.br/desconto-especial-atacado"
         }
       ]
     },
@@ -30,6 +29,21 @@
       "limit": 14,
       "offset": 0,
       "sort": null
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/especialvendedor.jpg",
+      "link": "https://www.minascristais.com.br/desconto-especial-atacado"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633774fc73321213f896669c:collections:Especial para Revenda - Dia do Vendedor:/desconto-especial-atacado",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/desconto-especial-atacado",
+      "title": "CONFIRA PRODUTOS SELECIONADOS - ESPECIAL DIA DO VENDEDOR"
     },
     {
       "type": "dynamic-showcase",
@@ -59,7 +73,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "responsive-banner",
