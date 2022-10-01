@@ -46,11 +46,6 @@
       "title": "CONFIRA PRODUTOS SELECIONADOS - ESPECIAL DIA DO VENDEDOR"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -73,7 +68,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "responsive-banner",
@@ -81,6 +76,11 @@
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
       "mobile_img": "/img/uploads/atacado-mobile.jpg",
       "alt": "20% off no Atacado - use o cupom e aproveite - Revenda Minas Cristais "
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
     },
     {
       "type": "banner-slider",
