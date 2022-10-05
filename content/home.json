@@ -102,6 +102,11 @@
       ]
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
