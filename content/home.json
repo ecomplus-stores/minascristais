@@ -92,6 +92,23 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2022-10-05T23:20:39.098Z",
+          "end": "",
+          "img": "/img/uploads/fachadameslancamentoos.jpg"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
           "start": "2022-09-08T01:51:16.880Z",
           "end": "",
           "img": "/img/uploads/lojasfisicas-minas2022.jpg",
@@ -100,11 +117,6 @@
           "alt": "Lojas Físicas - Minas Cristais | Sete Lagoas | Curvelo | Belo Horizonte"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
     },
     {
       "type": "info-bar",
