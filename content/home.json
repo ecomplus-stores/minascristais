@@ -54,32 +54,16 @@
       "title": "CONFIRA PRODUTOS SELECIONADOS - ESPECIAL DIA DO VENDEDOR"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/pedras-cor-rosa/",
-      "title": "OUTUBRO ROSA CHEGOU! VEM CONFERIR NOSSA SEÇÃO DE PEDRAS ROSAS"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
         {
-          "img": "/img/uploads/agata-pedra-vitalidade-alegria.jpg",
-          "link": "https://www.minascristais.com.br/agata/",
-          "alt": "Ágatas: Cristal da Proteção, Amizade, Vitalidade, Justiça"
-        },
-        {
-          "img": "/img/uploads/quartzocristal-purificacao-limpeza.jpg",
-          "link": "https://www.minascristais.com.br/cristal/",
-          "alt": "Quartzo Cristal: Purificação e Limpeza "
-        },
-        {
-          "img": "/img/uploads/ametista-sabedoria-cristais.jpg",
-          "link": "https://www.minascristais.com.br/ametista/",
-          "alt": "Ametistas em diversos formatos "
+          "start": "2022-10-05T23:04:09.135Z",
+          "end": "",
+          "img": "/img/uploads/chamada-home-outubro-rosa.jpg",
+          "link": "https://www.minascristais.com.br/descontos-do-mes",
+          "alt": "15% DE DESCONTO EM PRODUTOS SELECIONADOS VEM CONFERIR"
         }
       ]
     },
@@ -88,17 +72,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035607963422eeeee596f:categories:Pedras Brutas:/pedras-brutas/",
+      "collection_id": "633e053f73321213f89e19fd:collections:Outubro Rosa:/descontos-do-mes",
       "sort": "sales",
-      "link": "https://www.minascristais.com.br/pedras-brutas/",
-      "title": "PEDRAS BRUTAS - AS MAIS VENDIDAS"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/atacado-desktop.jpg",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-      "mobile_img": "/img/uploads/atacado-mobile.jpg",
-      "alt": "20% off no Atacado - use o cupom e aproveite - Revenda Minas Cristais "
+      "title": "OUTUBRO ROSA - 15% DE DESCONTO EM PRODUTOS SELECIONADOS VEM APROVEITAR! ",
+      "link": "https://www.minascristais.com.br/descontos-do-mes"
     },
     {
       "type": "banner-slider",
