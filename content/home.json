@@ -22,13 +22,6 @@
           "mobile_img": "/img/uploads/slide_setembro2022_mobile.jpg",
           "link": "https://www.minascristais.com.br/cristaisepedras/",
           "alt": "Cristais para energizar sua casa e sua vida! Compre Online "
-        },
-        {
-          "start": "2022-10-01T02:28:43.292Z",
-          "end": "",
-          "img": "/img/uploads/slidefinal-vendedor-1.jpg",
-          "mobile_img": "/img/uploads/mobile-especial-vendedoor.jpg",
-          "link": "https://www.minascristais.com.br/desconto-especial-atacado"
         }
       ]
     },
@@ -68,30 +61,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-10-05T23:06:33.633Z",
-          "end": "",
-          "img": "/img/uploads/especialvendedor.jpg",
-          "link": "https://www.minascristais.com.br/desconto-especial-atacado",
-          "alt": "35% DE DESCONTO CUPOM DIADOVENDEDOR"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "633774fc73321213f896669c:collections:Especial para Revenda - Dia do Vendedor:/desconto-especial-atacado",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/desconto-especial-atacado",
-      "title": "CONFIRA PRODUTOS SELECIONADOS - ESPECIAL DIA DO VENDEDOR"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
           "start": "2022-10-05T23:20:39.098Z",
           "end": "",
           "img": "/img/uploads/fachadameslancamentoos.jpg"
@@ -102,6 +71,26 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Esotéricas:/kitspedras-esotericas",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/kitspedras-esotericas",
+      "title": "Kits Esotéricos , veja mais "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
+      "sort": "sales",
+      "title": "Kits para Revenda ",
+      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
     },
     {
       "type": "banner-slider",
