@@ -93,6 +93,16 @@
       "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
+      "title": "Pedras e Cristais por Kilo"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
