@@ -26,6 +26,20 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-10-21T23:30:44.278Z",
+          "end": "2022-10-27T23:30:44.317Z",
+          "img": "/img/uploads/livehal.png",
+          "mobile_img": "/img/uploads/liveh.png",
+          "link": "https://www.instagram.com/minas_cristais"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 16,
       "offset": 0,
@@ -39,9 +53,10 @@
         {
           "start": "2022-10-05T23:04:09.135Z",
           "end": "",
-          "img": "/img/uploads/chamada-home-outubro-rosa.jpg",
+          "img": "/img/uploads/ofertaoutubro.png",
           "link": "https://www.minascristais.com.br/descontos-do-mes",
-          "alt": "15% DE DESCONTO EM PRODUTOS SELECIONADOS VEM CONFERIR"
+          "alt": "15% DE DESCONTO EM PRODUTOS SELECIONADOS VEM CONFERIR",
+          "mobile_img": "/img/uploads/ofertas-out.png"
         }
       ]
     },
@@ -63,7 +78,9 @@
         {
           "start": "2022-10-05T23:20:39.098Z",
           "end": "",
-          "img": "/img/uploads/fachadameslancamentoos.jpg"
+          "img": "/img/uploads/novidades-ut.png",
+          "mobile_img": "/img/uploads/nov-ut.png",
+          "link": "https://www.minascristais.com.br/cristaisepedras/"
         }
       ]
     },
