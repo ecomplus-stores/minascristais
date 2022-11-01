@@ -8,14 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-10-05T22:59:43.118Z",
-          "end": "",
-          "img": "/img/uploads/slide-oficialoutubro-rosa.jpg",
-          "mobile_img": "/img/uploads/mobile-outubro-rosa.jpg",
-          "link": "https://www.minascristais.com.br/descontos-do-mes",
-          "alt": "15% off em produtos selecionados vem conferir"
-        },
-        {
           "start": "2022-09-08T00:51:00.451Z",
           "end": "",
           "img": "/img/uploads/slide_setembro2022.jpg",
@@ -30,45 +22,6 @@
       "limit": 16,
       "offset": 0,
       "sort": null
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-05T23:04:09.135Z",
-          "end": "",
-          "img": "/img/uploads/ofertaoutubro.png",
-          "link": "https://www.minascristais.com.br/descontos-do-mes",
-          "alt": "15% DE DESCONTO EM PRODUTOS SELECIONADOS VEM CONFERIR",
-          "mobile_img": "/img/uploads/ofertas-out.png"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "633e053f73321213f89e19fd:collections:Outubro Rosa:/descontos-do-mes",
-      "sort": "sales",
-      "title": "OUTUBRO ROSA - 15% DE DESCONTO EM PRODUTOS SELECIONADOS VEM APROVEITAR! ",
-      "link": "https://www.minascristais.com.br/descontos-do-mes"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-05T23:20:39.098Z",
-          "end": "",
-          "img": "/img/uploads/novidades-ut.png",
-          "mobile_img": "/img/uploads/nov-ut.png",
-          "link": "https://www.minascristais.com.br/cristaisepedras/"
-        }
-      ]
     },
     {
       "type": "dynamic-showcase",
