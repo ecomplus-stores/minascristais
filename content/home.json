@@ -64,6 +64,16 @@
       "title": "Cristais e Pedras Esotéricas, confira "
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
+      "sort": "news",
+      "title": "Kits para Revenda , veja mais ",
+      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
