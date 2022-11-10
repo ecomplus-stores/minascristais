@@ -42,6 +42,23 @@
       "title": "35% de desconto em produtos selecionados - veja todos"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/7-pacotes-100g-chakras.jpg",
+          "link": "https://www.minascristais.com.br/kit-7-pacotes-de-100g-de-pedras-roladas---as-pedras-chakras-25-a-4-cm"
+        },
+        {
+          "img": "/img/uploads/kit-obsidianas.jpg",
+          "link": "https://www.minascristais.com.br/kit-30-pcs-obsidiana-negra-obsidiana-verde-azul-cristal-andara"
+        },
+        {
+          "img": "/img/uploads/pingentecorrente.jpg",
+          "link": "https://www.minascristais.com.br/kit-10-pingentes-mini-cabochao-com-corrente-dourado-c365"
+        }
+      ]
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
