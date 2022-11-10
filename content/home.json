@@ -18,6 +18,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 3,
+      "collection_id": "633e053f73321213f89e19fd:collections:Black November:/descontos-do-mes",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/descontos-do-mes",
+      "title": "35% de desconto em produtos selecionados - veja todos"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
