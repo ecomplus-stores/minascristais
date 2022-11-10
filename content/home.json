@@ -35,7 +35,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
-      "page": 3,
+      "page": 2,
       "collection_id": "633e053f73321213f89e19fd:collections:Black November:/descontos-do-mes",
       "sort": "news",
       "link": "https://www.minascristais.com.br/descontos-do-mes",
@@ -74,6 +74,16 @@
           "link": "https://www.minascristais.com.br/pedrinhas-roladas-1cm-1kg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633e053f73321213f89e19fd:collections:Black November:/descontos-do-mes",
+      "sort": "news",
+      "title": "35% de desconto em produtos selecionados - veja todos",
+      "link": "https://www.minascristais.com.br/descontos-do-mes"
     },
     {
       "type": "banner-slider",
