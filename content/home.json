@@ -59,6 +59,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/sodalita.jpg",
+          "link": "https://www.minascristais.com.br/pedra-rolada-sodalita-1kg"
+        },
+        {
+          "img": "/img/uploads/drusa-extra-de-ametista-unidade-.jpg",
+          "link": "https://www.minascristais.com.br/drusa-extra-de-ametista-unidade"
+        },
+        {
+          "img": "/img/uploads/pacte-1kg.jpg",
+          "link": "https://www.minascristais.com.br/pedrinhas-roladas-1cm-1kg"
+        }
+      ]
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
