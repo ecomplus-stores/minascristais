@@ -55,6 +55,10 @@
         {
           "img": "/img/uploads/pingentecorrente.jpg",
           "link": "https://www.minascristais.com.br/kit-10-pingentes-mini-cabochao-com-corrente-dourado-c365"
+        },
+        {
+          "img": "/img/uploads/esferas.jpg",
+          "link": "https://www.minascristais.com.br/kit-6-pulseiras-esferas"
         }
       ]
     },
@@ -72,6 +76,10 @@
         {
           "img": "/img/uploads/pacte-1kg.jpg",
           "link": "https://www.minascristais.com.br/pedrinhas-roladas-1cm-1kg"
+        },
+        {
+          "img": "/img/uploads/vogel.jpg",
+          "link": "https://www.minascristais.com.br/vogel-de-citrino-biterminado"
         }
       ]
     },
@@ -84,6 +92,27 @@
       "sort": "news",
       "title": "35% de desconto em produtos selecionados - veja todos",
       "link": "https://www.minascristais.com.br/descontos-do-mes"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/colar-ametista.jpg",
+          "link": "https://www.minascristais.com.br/colar-drusa-de-ametista"
+        },
+        {
+          "img": "/img/uploads/lua.jpg",
+          "link": "https://www.minascristais.com.br/lua-de-pedra"
+        },
+        {
+          "img": "/img/uploads/tercos.jpg",
+          "link": "https://www.minascristais.com.br/tercos-em-pedras-diversas"
+        },
+        {
+          "img": "/img/uploads/rolo-masssageador.jpg",
+          "link": "https://www.minascristais.com.br/rolo-massageador-facial-rose-gold"
+        }
+      ]
     },
     {
       "type": "banner-slider",
