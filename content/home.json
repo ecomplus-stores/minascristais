@@ -115,6 +115,15 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "Veja mais Lançamentos"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
