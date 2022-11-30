@@ -115,6 +115,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$4,99:/pedras-cristais-unidade",
+      "sort": "news",
+      "title": "Pedras Brutas e Roladas Unidade a partir de R$4,99",
+      "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
+    },
+    {
       "type": "page-title",
       "title": "Veja mais Lançamentos"
     },
