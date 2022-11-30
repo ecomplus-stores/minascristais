@@ -134,6 +134,14 @@
       "sort": "news"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Os mais procurados nesse mês "
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
