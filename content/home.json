@@ -10,109 +10,54 @@
         {
           "start": "2022-09-08T00:51:00.451Z",
           "end": "",
-          "img": "/img/uploads/black-november-35-off-desktop.jpg",
-          "mobile_img": "/img/uploads/black-november-35-off-mobile2.jpg",
-          "link": "https://www.minascristais.com.br/descontos-do-mes",
-          "alt": "Cristais para energizar sua casa e sua vida! Compre Online "
+          "img": "/img/uploads/pingentes.jpg",
+          "mobile_img": "/img/uploads/pingentesmobile.jpg",
+          "link": "https://www.minascristais.com.br/pingentes-pedras/",
+          "alt": "Pingentes em pedras e cristais a partir de R$6,99 cada "
         },
         {
           "start": "2022-11-10T22:39:49.301Z",
           "end": "",
-          "img": "/img/uploads/black-november-35-off-desktop.2.jpg",
-          "mobile_img": "/img/uploads/black-november-35-off-mobile.jpg",
-          "link": "https://www.minascristais.com.br/descontos-do-mes"
+          "img": "/img/uploads/porta-incenso.jpg",
+          "mobile_img": "/img/uploads/porta-incensomobile.jpg",
+          "link": "https://www.minascristais.com.br/porta-incenso",
+          "alt": "Lançamento Porta Incensos de Pedras "
         },
         {
           "start": "2022-11-10T23:12:42.566Z",
           "end": "",
-          "img": "/img/uploads/black-november-35-off-desktop-3.jpg",
-          "mobile_img": "/img/uploads/black-november-35-off-mobile-3.jpg",
-          "link": "https://www.minascristais.com.br/descontos-do-mes"
+          "img": "/img/uploads/vasocascalhinho.jpg",
+          "mobile_img": "/img/uploads/vasomobile.jpg",
+          "link": "https://www.minascristais.com.br/vasos-de-cascalhinho/",
+          "alt": "Dica de Presentes - Vasos de Cascalhinhos"
         }
       ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 2,
-      "collection_id": "633e053f73321213f89e19fd:collections:Black November:/descontos-do-mes",
+      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$29,99:/presentes-pedra-cristais",
       "sort": "news",
-      "link": "https://www.minascristais.com.br/descontos-do-mes",
-      "title": "35% de desconto em produtos selecionados - veja todos"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/7-pacotes-100g-chakras.jpg",
-          "link": "https://www.minascristais.com.br/kit-7-pacotes-de-100g-de-pedras-roladas---as-pedras-chakras-25-a-4-cm"
-        },
-        {
-          "img": "/img/uploads/kit-obsidianas.jpg",
-          "link": "https://www.minascristais.com.br/kit-30-pcs-obsidiana-negra-obsidiana-verde-azul-cristal-andara"
-        },
-        {
-          "img": "/img/uploads/pingentecorrente.jpg",
-          "link": "https://www.minascristais.com.br/kit-10-pingentes-mini-cabochao-com-corrente-dourado-c365"
-        },
-        {
-          "img": "/img/uploads/esferas.jpg",
-          "link": "https://www.minascristais.com.br/kit-6-pulseiras-esferas"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/sodalita.jpg",
-          "link": "https://www.minascristais.com.br/pedra-rolada-sodalita-1kg"
-        },
-        {
-          "img": "/img/uploads/drusa-extra-de-ametista-unidade-.jpg",
-          "link": "https://www.minascristais.com.br/drusa-extra-de-ametista-unidade"
-        },
-        {
-          "img": "/img/uploads/pacte-1kg.jpg",
-          "link": "https://www.minascristais.com.br/pedrinhas-roladas-1cm-1kg"
-        },
-        {
-          "img": "/img/uploads/vogel.jpg",
-          "link": "https://www.minascristais.com.br/vogel-de-citrino-biterminado"
-        }
-      ]
+      "link": "https://www.minascristais.com.br/presentes-pedra-cristais",
+      "title": "Dica de Presentes até R$29,99 , vem conferir "
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "633e053f73321213f89e19fd:collections:Black November:/descontos-do-mes",
+      "collection_id": "6200354c7963422eeeee58fb:categories:Esotéricos:/esotericos/",
       "sort": "news",
-      "title": "35% de desconto em produtos selecionados - veja todos",
-      "link": "https://www.minascristais.com.br/descontos-do-mes"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/colar-ametista.jpg",
-          "link": "https://www.minascristais.com.br/colar-drusa-de-ametista"
-        },
-        {
-          "img": "/img/uploads/lua.jpg",
-          "link": "https://www.minascristais.com.br/lua-de-pedra"
-        },
-        {
-          "img": "/img/uploads/tercos.jpg",
-          "link": "https://www.minascristais.com.br/tercos-em-pedras-diversas"
-        },
-        {
-          "img": "/img/uploads/rolo-masssageador.jpg",
-          "link": "https://www.minascristais.com.br/rolo-massageador-facial-rose-gold"
-        }
-      ]
+      "title": "Acessórios em Pedras e Cristais, veja aqui",
+      "link": "https://www.minascristais.com.br/acessorios"
     },
     {
       "type": "collection-shelf",
@@ -140,12 +85,6 @@
       "page": 1,
       "sort": "sales",
       "title": "Os mais procurados nesse mês "
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
     },
     {
       "type": "banner-slider",
