@@ -70,6 +70,16 @@
       "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Obsidiana Negra seu amuleto protetor , veja peças ",
+      "link": "https://www.minascristais.com.br/obsidiana-negra/",
+      "collection_id": "620035917963422eeeee5a0c:categories:Obsidiana Negra:/obsidiana-negra/"
+    },
+    {
       "type": "page-title",
       "title": "Veja mais Lançamentos"
     },
