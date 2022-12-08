@@ -88,6 +88,26 @@
       "collection_id": "620035917963422eeeee5a0c:categories:Obsidiana Negra:/obsidiana-negra/"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/esotericos.jpg",
+          "link": "https://www.minascristais.com.br/esoterismo/",
+          "alt": "Pedras Esotéricas e Produtos esotéricos confira "
+        },
+        {
+          "img": "/img/uploads/aneis.jpg",
+          "link": "https://www.minascristais.com.br/aneis/",
+          "alt": "Anéis em Pedras Diversas com os melhores preços, vem ver!"
+        },
+        {
+          "img": "/img/uploads/kitspedras.jpg",
+          "link": "https://www.minascristais.com.br/kits-pedras/",
+          "alt": "Kits de Pedras Esotéricas Varejo e Revenda "
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": "Veja mais Lançamentos"
     },
