@@ -48,6 +48,21 @@
       "sort": null
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-12-08T17:20:47.763Z",
+          "end": "",
+          "img": "/img/uploads/fretedesktp.gif",
+          "mobile_img": "/img/uploads/fmbile.gif",
+          "link": "",
+          "alt": "APROVEITE POR TEMPO LIMITADO FRETE GRÁTIS "
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
