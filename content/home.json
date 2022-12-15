@@ -93,26 +93,6 @@
       "link": "https://www.minascristais.com.br/ate-80-reais"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__esotericos.webp",
-          "link": "https://www.minascristais.com.br/esoterismo/",
-          "alt": "Pedras Esotéricas e Produtos esotéricos confira "
-        },
-        {
-          "img": "/img/uploads/__aneis.webp",
-          "link": "https://www.minascristais.com.br/aneis/",
-          "alt": "Anéis em Pedras Diversas com os melhores preços, vem ver!"
-        },
-        {
-          "img": "/img/uploads/__kitspedras.webp",
-          "link": "https://www.minascristais.com.br/kits-pedras/",
-          "alt": "Kits de Pedras Esotéricas Varejo e Revenda "
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
