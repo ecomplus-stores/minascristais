@@ -142,6 +142,16 @@
       "link": "https://www.minascristais.com.br/orgonite/"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "620035957963422eeeee5a1a:categories:Opalina ( Pedra da Lua) :/pedra-da-lua/",
+      "title": "Opalina ( Pedra da Lua) para um 2023 cheio de energia! ",
+      "link": "https://www.minascristais.com.br/pedra-da-lua/"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
