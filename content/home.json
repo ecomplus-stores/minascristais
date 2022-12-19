@@ -68,7 +68,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$29,99:/presentes-pedra-cristais",
-      "sort": "sales",
+      "sort": "lowest_price",
       "title": "Dicas de Presentes até R$29,99, veja aqui",
       "link": "https://www.minascristais.com.br/presentes-pedra-cristais"
     },
