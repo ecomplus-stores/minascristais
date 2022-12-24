@@ -83,13 +83,6 @@
       "title": "♊Gêmeos : Talismã 2023 Coruja, Fortalece seu corpo, emocional e mente com Olho de Tigre e Ágatas."
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/atacado-desktop.jpg",
-      "mobile_img": "/img/uploads/atacado-mobile.jpg",
-      "alt": "Quer revender nossos produtos, saiba mais ",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
