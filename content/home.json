@@ -106,6 +106,33 @@
       "sort": "news"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__atacado.webp",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "ATACADO MINAS CRISTAIS "
+        },
+        {
+          "img": "/img/uploads/__reveenda.webp",
+          "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
+          "alt": "KITS PARA REVENDAS PEÇAS EM CRISTAIS E PEDRAS ESOTÉRICAS"
+        },
+        {
+          "img": "/img/uploads/__pecas.webp",
+          "link": "https://www.minascristais.com.br/montagem-pedras-cristais",
+          "alt": "PEÇAS PARA MONTAGEM "
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
