@@ -10,34 +10,26 @@
         {
           "start": "2022-12-08T05:50:13.076Z",
           "end": "",
-          "img": "/img/uploads/__pix-desktop.webp",
-          "mobile_img": "/img/uploads/__pix.webp",
-          "link": "https://www.minascristais.com.br/ate-80-reais",
-          "alt": "Garanta 10% de desconto para pagamento via PIX "
+          "img": "/img/uploads/__pedra-do-ano.webp",
+          "mobile_img": "/img/uploads/__mobile.webp",
+          "link": "https://www.minascristais.com.br/calcita-optica-pedra-de-2023",
+          "alt": "CALCITA ÓPTICA BRANCA PEDRA DE 2023"
         },
         {
           "start": "2022-09-08T00:51:00.451Z",
           "end": "",
-          "img": "/img/uploads/_pingentes.webp",
-          "mobile_img": "/img/uploads/__pingentesmobile.webp",
-          "link": "https://www.minascristais.com.br/pingentes-pedras/",
-          "alt": "Pingentes em pedras e cristais a partir de R$6,99 cada "
+          "img": "/img/uploads/__lua.webp",
+          "mobile_img": "/img/uploads/__lua-mobile.webp",
+          "link": "https://www.minascristais.com.br/lua-planeta-2023",
+          "alt": "LUA PLANETA REGENTE DE 2023 "
         },
         {
           "start": "2022-11-10T22:39:49.301Z",
           "end": "",
-          "img": "/img/uploads/__porta-incenso.webp",
-          "mobile_img": "/img/uploads/__porta-incensomobile.webp",
-          "link": "https://www.minascristais.com.br/porta-incenso",
-          "alt": "Lançamento Porta Incensos de Pedras "
-        },
-        {
-          "start": "2022-11-10T23:12:42.566Z",
-          "end": "",
-          "img": "/img/uploads/__vasocascalhinho.webp",
-          "mobile_img": "/img/uploads/__vasomobile.webp",
-          "link": "https://www.minascristais.com.br/vasos-de-cascalhinho/",
-          "alt": "Dica de Presentes - Vasos de Cascalhinhos"
+          "img": "/img/uploads/__pedra-da-lua.webp",
+          "mobile_img": "/img/uploads/__pedradaluambile.webp",
+          "link": "https://www.minascristais.com.br/pedra-da-lua/",
+          "alt": "OPALINA - PEDRA DA LUA - 2023"
         }
       ]
     },
@@ -48,17 +40,22 @@
       "sort": null
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "2022-12-20T21:15:36.997Z",
-          "end": "",
-          "img": "/img/uploads/calcita-otica-pedra-de-2023_1.jpg",
-          "mobile_img": "/img/uploads/calcita-otica-pedra-de-2023.jpg",
-          "link": "https://www.minascristais.com.br/calcita-optica-pedra-de-2023",
-          "alt": "Calcita Ótica - Pedra do ano de 2023 - compre a sua!"
+          "img": "/img/uploads/__banner1.webp",
+          "link": "https://www.minascristais.com.br/esferas-piramides-minas-cristais",
+          "alt": "CALCITA ÓPTICA BRANCA - PEDRA DO ANO 2023"
+        },
+        {
+          "img": "/img/uploads/__signos.webp",
+          "link": "https://www.minascristais.com.br/pages/signos",
+          "alt": "ENCONTRE CRISTAIS POR SIGNO"
+        },
+        {
+          "img": "/img/uploads/__kits.webp",
+          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
+          "alt": "KITS DE PEDRAS ESOTÉRICAS E CRISTAIS "
         }
       ]
     },
@@ -67,60 +64,46 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$29,99:/presentes-pedra-cristais",
-      "sort": "lowest_price",
-      "title": "Dicas de Presentes até R$29,99, veja aqui",
-      "link": "https://www.minascristais.com.br/presentes-pedra-cristais"
+      "sort": "sales"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "639b494a4834634f73129e6d:collections:Presentes de R$30 a R$80:/ate-80-reais",
-      "sort": "views",
-      "title": "Presentes até R$80 ",
-      "link": "https://www.minascristais.com.br/ate-80-reais"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/queridinhos.png",
+          "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+          "alt": "OS MAIS VENDIDOS MINAS CRISTAIS "
+        },
+        {
+          "img": "/img/uploads/aneis.png",
+          "link": "https://www.minascristais.com.br/aneis/",
+          "alt": "ANÉIS E ALIANÇAS EM PEDRAS MÍSTICAS E CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/citrino.png",
+          "link": "https://www.minascristais.com.br/citrino/",
+          "alt": "PEÇAS EM CITRINO PRONTA ENTREGA"
+        },
+        {
+          "img": "/img/uploads/ametista.png",
+          "link": "https://www.minascristais.com.br/ametista/",
+          "alt": "ENCONTRE AMETISTA A PRONTA ENTREGA"
+        },
+        {
+          "img": "/img/uploads/vogel.png",
+          "link": "https://www.minascristais.com.br/cristal-vogel",
+          "alt": "CRISTAL VOGEL A PRONTA ENTREGA"
+        }
+      ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$4,99:/pedras-cristais-unidade",
-      "sort": "lowest_price",
-      "title": "Pedras Brutas e Roladas a partir de R$4,99, confira ",
-      "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
+      "type": "page-title",
+      "title": "ACABARAM DE CHEGAR"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Esotéricas:/kitspedras-esotericas",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-      "title": "Kits de Pedras Esotéricas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
-      "sort": "sales",
-      "title": "Decore e Celebre nesse Fim de Ano",
-      "link": "https://www.minascristais.com.br/casa/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035527963422eeeee5917:categories:Árvores:/arvores/",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/arvores/",
-      "title": "Árvores de Pedras Roladas "
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "banner-slider",
