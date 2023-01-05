@@ -64,7 +64,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales"
+      "sort": "sales",
+      "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
+      "title": "Os queridinhos em pedras e cristais ",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
       "type": "page-title",
@@ -100,7 +103,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views"
+      "sort": "sales",
+      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
+      "title": "Especial para Revenda ",
+      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
     },
     {
       "type": "banner-slider",
