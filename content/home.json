@@ -119,6 +119,16 @@
       "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621c96797963422eee221368:brands:Pedras para Montagem de Peças:/montagem-pedras-cristais",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/montagem-pedras-cristais",
+      "title": "Crie suas Peças com Produtos Minas Cristais "
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
