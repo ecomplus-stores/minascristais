@@ -24,6 +24,36 @@
       "alt": "Whatsapp Atacado"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
+      "title": "Kits Especiais para Revenda"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais",
+      "sort": "sales",
+      "title": "Pedras por kg ",
+      "link": "https://www.minascristais.com.br/kg-pedras-cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621c96797963422eee221368:brands:Pedras para Montagem de Peças:/montagem-pedras-cristais",
+      "sort": "sales",
+      "title": "Peças para Montagem",
+      "link": "https://www.minascristais.com.br/montagem-pedras-cristais"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
