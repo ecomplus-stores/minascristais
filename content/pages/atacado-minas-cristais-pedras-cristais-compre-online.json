@@ -54,6 +54,10 @@
       "link": "https://www.minascristais.com.br/montagem-pedras-cristais"
     },
     {
+      "type": "page-title",
+      "title": "ACABARAM DE CHEGAR "
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
