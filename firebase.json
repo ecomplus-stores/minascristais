@@ -165,8 +165,302 @@
         "source": "/busca?b=*",
         "destination": "/search?term=",
         "type": 301
-      }
+      },
+      {
+        "source": "/pontas-de-cristal-gerador-peca-de-5-a-6-kg",
+        "destination": "/pontas/",
+        "type": 301
+      },
 
+{
+        "source": "/pontas-de-ametista-xevron-4-kgs",
+        "destination": "/pontas/",
+        "type": 301
+      },
+
+{
+        "source": "/ponta-de-quartzo-aura",
+        "destination": "/pontas/",
+        "type": 301
+      },
+
+{
+        "source": "/ponta-de-cristal-com-inclusao",
+        "destination": "/pontas/",
+        "type": 301
+      },
+
+{
+        "source": "/ponta-de-agata-natural-420g-c901",
+        "destination": "/pontas/",
+        "type": 301
+      },
+
+{
+        "source": "/ponta-de-agata-natural-1474-kg",
+        "destination": "/pontas/",
+        "type": 301
+      },
+
+{
+        "source": "/ambar-com-inseto",
+        "destination": "/ambar/",
+        "type": 301
+      },
+
+{
+        "source": "/mesa-de-agata-53x33x5",
+        "destination": "/mesa-posta",
+        "type": 301
+      },
+
+{
+        "source": "/mesa-de-agata",
+        "destination": "/mesa-posta",
+        "type": 301
+      },
+
+{
+        "source": "/mesa-de-agata-36x23cm",
+        "destination": "/mesa-posta",
+        "type": 301
+      },
+
+{
+        "source": "/merkaba-de-cristal-10cm",
+        "destination": "/cristal/",
+        "type": 301
+      },
+
+{
+        "source": "/kit-prosperidade-p",
+        "destination": "/decor-objetos-cristais",
+        "type": 301
+      },
+
+{
+        "source": "/kit-hideograma-reiki",
+        "destination": "/kitspedras-esotericas",
+        "type": 301
+      },
+
+{
+        "source": "/ima-borboleta-de-agata",
+        "destination": "/decor-objetos-cristais",
+        "type": 301
+      },
+
+
+{
+        "source": "/icosaedro-de-cristal-25-a-40-cm",
+        "destination": "/icosaedro-de-cristal",
+        "type": 301
+      },
+
+{
+        "source": "/fonte-em-pedra-sabao-84x63cm",
+        "destination": "/fontes/",
+        "type": 301
+      },
+
+
+{
+        "source": "/flecha-de-selenita",
+        "destination": "/selenita/",
+        "type": 301
+      },
+
+
+{
+        "source": "/feldspato-laranja-com-mica-peca-unica",
+        "destination": "/pedras-de-colecao/",
+        "type": 301
+      },
+
+{
+        "source": "/escultura-de-cavalo-de-biotita",
+        "destination": "/decor-objetos-cristais ",
+        "type": 301
+      },
+{
+        "source": "/escolecita-1",
+        "destination": "/pedras-de-colecao/",
+        "type": 301
+      },
+{
+        "source": "/escolecita-3",
+        "destination": "/pedras-de-colecao/",
+        "type": 301
+      },
+
+{
+        "source": "/drusa-de-quartzo-aura-bruta",
+        "destination": "/drusas/",
+        "type": 301
+      },
+
+{
+        "source": "/cristais-de-bismuto-pecas-de-3-a-4-cm",
+        "destination": "/bismuto/",
+        "type": 301
+      },
+
+{
+        "source": "/cristais-de-bismuto-pecas-de-2-a-3-cm",
+        "destination": "/bismuto/",
+        "type": 301
+      },
+
+{
+        "source": "/cristais-de-bismuto-pecas-de-1-a-2-cm",
+        "destination": "/bismuto/",
+        "type": 301
+      },
+
+{
+        "source": "/chapa-de-agata-unidade-m",
+        "destination": "/agata/",
+        "type": 301
+      },
+
+{
+        "source": "/chapa-de-agata-unidade",
+        "destination": "/agata/",
+        "type": 301
+      },
+
+{
+        "source": "/casal-garca-de-quartzo-rosa",
+        "destination": "/decor-objetos-cristais",
+        "type": 301
+      },
+
+{
+        "source": "/cacique-de-pedra",
+        "destination": "/decor-objetos-cristais",
+        "type": 301
+      },
+
+{
+        "source": "/pingente-espiral-ametista-prateado",
+        "destination": "/pingentes-pedras/",
+        "type": 301
+      },
+
+{
+        "source": "/brinco-de-capim-dourado-com-pedra-de-quartzo-verde",
+        "destination": "/bijuteriasesemijoias-brincos/ ",
+        "type": 301
+      },
+
+{
+        "source": "/bastao-de-cristal-dos-7-chakras",
+        "destination": "/esotericos-minas-cristais",
+        "type": 301
+      },
+
+{
+        "source": "/bandeja-de-agata-natural-tabua-de-frios",
+        "destination": "/mesa-posta",
+        "type": 301
+      },
+
+{
+        "source": "/bandeja-de-agata-tabua-de-frios",
+        "destination": "/mesa-posta",
+        "type": 301
+      },
+
+{
+        "source": "/anel-retangular-ajustavel-banhado-a-ouro-flash",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-de-selenita",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-ajustavel-formato-gota-quartzo-branco",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-de-flourita-oval-prata",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+
+{
+        "source": "/anel-ajustavel-selenita-com-turmalina-negra",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-ajustavel-mini-quadrado-pedra-estrela",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-ajustavel-mini-quadrado-agata-de-fogo",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-ajustavel-mini-quadrado-cristal",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-ajustavel-gota-jaspe-policromo-unidade",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-quadrado-ajustavel-banhado-a-ouro-flash-c960",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/anel-quadrado-ajustavel-banhado-a-ouro-flash-c960",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/alianca-fina-de-hematita",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/alianca-obsidiana-negra-g",
+        "destination": "/aneis/",
+        "type": 301
+      },
+
+{
+        "source": "/arvore-de-pedra-roladas-14galhos-unitaria",
+        "destination": "/arvores/",
+        "type": 301
+      },
+
+{
+        "source": "/agua-marinha-natural-peca-unica",
+        "destination": "/agua-marinha/",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
