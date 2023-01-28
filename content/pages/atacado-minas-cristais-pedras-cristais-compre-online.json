@@ -54,6 +54,15 @@
       "link": "https://www.minascristais.com.br/montagem-pedras-cristais"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Em Promoção, aproveite! ",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
+    },
+    {
       "type": "page-title",
       "title": "ACABARAM DE CHEGAR "
     },
