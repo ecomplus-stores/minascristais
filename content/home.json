@@ -80,6 +80,15 @@
       "title": "Pedras Roladas e Brutas a partir de R$4,99 cada "
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Descontos em Pedras e Cristais, vem aproveitar!",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
+    },
+    {
       "type": "page-title",
       "title": "ACABARAM DE CHEGAR"
     },
