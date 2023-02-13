@@ -64,6 +64,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "sort": "offers",
+      "title": "Descontos em Pedras e Cristais, vem aproveitar!",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "sort": "sales",
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
       "title": "Os queridinhos em pedras e cristais ",
@@ -74,19 +83,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$4,99:/pedras-cristais-unidade",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
-      "title": "Pedras Roladas e Brutas a partir de R$4,99 cada "
+      "collection_id": "62045ce67963422eeef73d5a:categories:Acessórios em Prata:/prata",
+      "sort": "views",
+      "title": "Acessórios em Prata ",
+      "link": "https://www.minascristais.com.br/prata"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "title": "Descontos em Pedras e Cristais, vem aproveitar!",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
+      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$4,99:/pedras-cristais-unidade",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
+      "title": "Pedras Roladas e Brutas a partir de R$4,99 cada "
     },
     {
       "type": "page-title",
