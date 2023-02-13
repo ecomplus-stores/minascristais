@@ -1,6 +1,6 @@
 {
   "title": "Atacado Minas Cristais - Pedras & Cristais - Compre Online ",
-  "body": "# **Atacado Minas Cristais - Pedras & Cristais**\n\n## **Como Funciona?**\n\nUse o cupom : **ATACADO** no carrinho do seu pedido. \n\nSerá descontado **20%** do valor de sua compra. \n\nVálido para **pedido mínimo de R$1.000 (mil reais) em produtos**. \n\nSem quantidade mínima, você pode escolher os produtos direto aqui na loja. \n\n* ***Produtos não inclusos no Atacado: Almofariz*** \n\nExceto os produtos descritos acima , qualquer produto da loja você ganha **20% de desconto nas compras a partir R$1.000 (mil reais)** , independente da quantidade de produtos, podendo variar suas peças para revender nossos produtos. \n\nO **prazo e valor do frete** é calculado também no seu carrinho e você define qual forma de frete prefere. \n\n**Boas Compras!**",
+  "body": "# **Atacado Minas Cristais - Pedras & Cristais**\n\n## **Como Funciona?**\n\n**ESPECIAL ATACADO** no mês de fevereiro **Garanta 20% de desconto** nas compras a partir de **R$500** \n\nUse o cupom : ATACADOESPECIAL  no carrinho do seu pedido. \n\nSerá descontado **20%** do valor de sua compra. \n\nVálido para **pedido mínimo de R$500 (quinhentos reais) em produtos**. \n\nSem quantidade mínima, você pode escolher os produtos direto aqui na loja. \n\n* ***Produtos não inclusos no Atacado: Almofariz, Pistilo e Kits de Revenda*** \n\nExceto os produtos descritos acima , qualquer produto da loja você ganha **20% de desconto nas compras a partir R$500 (quinhentos reais)** , independente da quantidade de produtos, podendo variar suas peças para revender nossos produtos. \n\nO **prazo e valor do frete** é calculado também no seu carrinho e você define qual forma de frete prefere. \n\n**Boas Compras!**",
   "meta_title": "Atacado Minas Cristais - Pedras & Cristais - Compre Online ",
   "meta_description": "Atacado Minas Cristais - Pedras & Cristais - Compre Online - Revenda - 20% desconto",
   "sections": [
@@ -10,7 +10,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/atacado-desktop.jpg",
+      "img": "/img/uploads/__atacadoespecialfev.webp",
       "mobile_img": "/img/uploads/atacado-mobile.jpg"
     },
     {
@@ -28,30 +28,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
-      "title": "Kits Especiais para Revenda"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais",
       "sort": "sales",
       "title": "Pedras por kg ",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "621c96797963422eee221368:brands:Pedras para Montagem de Peças:/montagem-pedras-cristais",
-      "sort": "sales",
-      "title": "Peças para Montagem",
-      "link": "https://www.minascristais.com.br/montagem-pedras-cristais"
     },
     {
       "type": "collection-shelf",
@@ -63,6 +43,16 @@
       "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621c96797963422eee221368:brands:Pedras para Montagem de Peças:/montagem-pedras-cristais",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/montagem-pedras-cristais",
+      "title": "Peças para Montagem "
+    },
+    {
       "type": "page-title",
       "title": "ACABARAM DE CHEGAR "
     },
@@ -70,12 +60,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/slide.jpg",
-      "mobile_img": "/img/uploads/slidemobile-julho.jpg",
-      "alt": "Revenda Cristais - Atacado Minas Cristais"
     },
     {
       "type": "brands-carousel",
