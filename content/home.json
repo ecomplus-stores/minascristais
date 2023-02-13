@@ -140,10 +140,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais",
       "sort": "sales",
-      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
-      "title": "Especial para Revenda ",
-      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
+      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
+      "title": "Pedras por KG, veja aqui"
     },
     {
       "type": "collection-shelf",
@@ -154,6 +154,16 @@
       "sort": "sales",
       "link": "https://www.minascristais.com.br/montagem-pedras-cristais",
       "title": "Crie suas Peças com Produtos Minas Cristais "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
+      "title": "Especial para Revenda ",
+      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
     },
     {
       "type": "banner-slider",
