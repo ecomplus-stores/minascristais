@@ -72,9 +72,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "title": "Descontos em Pedras e Cristais, vem aproveitar!",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
+      "sort": "sales",
+      "title": "Primeira vez por aqui? Use o cupom : PRIMEIRACOMPRA e ganhe 5% de desconto ",
+      "link": "https://www.minascristais.com.br/mistica-esoterica",
+      "collection_id": "62d0a10deb85911216887956:collections:Carnaval 2023:/mistica-esoterica"
     },
     {
       "type": "collection-shelf",
