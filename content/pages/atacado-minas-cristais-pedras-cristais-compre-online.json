@@ -54,12 +54,12 @@
     },
     {
       "type": "page-title",
-      "title": "ACABARAM DE CHEGAR "
+      "title": "Os mais vendidos"
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "brands-carousel",
