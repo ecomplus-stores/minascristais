@@ -108,15 +108,6 @@
       "title": "Pedras Roladas e Brutas a partir de R$4,99 cada "
     },
     {
-      "type": "page-title",
-      "title": "ACABARAM DE CHEGAR"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
