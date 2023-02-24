@@ -74,8 +74,8 @@
       "page": 1,
       "sort": "sales",
       "title": "Primeira vez por aqui? Use o cupom : PRIMEIRACOMPRA e ganhe 5% de desconto ",
-      "link": "https://www.minascristais.com.br/mistica-esoterica",
-      "collection_id": "62d0a10deb85911216887956:collections:Carnaval 2023:/mistica-esoterica"
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+      "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais"
     },
     {
       "type": "collection-shelf",
@@ -83,9 +83,9 @@
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
-      "title": "Os queridinhos em pedras e cristais ",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+      "collection_id": "621748057963422eee191af7:brands:CHAKRAS & ALINHAMENTO:/esotericos-minas-cristais",
+      "title": "EQUILÍBRIO & ENERGIA DOS CRISTAIS ",
+      "link": "https://www.minascristais.com.br/esotericos-minas-cristais"
     },
     {
       "type": "collection-shelf",
@@ -133,7 +133,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais",
       "title": "Pedras por KG, veja aqui"
     },
