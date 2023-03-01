@@ -72,7 +72,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "lowest_price",
       "title": "Primeira vez por aqui? Use o cupom : PRIMEIRACOMPRA e ganhe 5% de desconto ",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais"
@@ -82,7 +82,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "views",
       "collection_id": "621748057963422eee191af7:brands:CHAKRAS & ALINHAMENTO:/esotericos-minas-cristais",
       "title": "EQUILÍBRIO & ENERGIA DOS CRISTAIS ",
       "link": "https://www.minascristais.com.br/esotericos-minas-cristais"
@@ -92,10 +92,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "62045ce67963422eeef73d5a:categories:Acessórios em Prata:/prata",
-      "sort": "views",
-      "title": "Acessórios em Prata ",
-      "link": "https://www.minascristais.com.br/prata"
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "sort": "news",
+      "title": "Acessórios",
+      "link": "https://www.minascristais.com.br/acessorios"
     },
     {
       "type": "collection-shelf",
@@ -133,7 +133,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais",
       "title": "Pedras por KG, veja aqui"
     },
@@ -143,7 +143,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "621c96797963422eee221368:brands:Pedras para Montagem de Peças:/montagem-pedras-cristais",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/montagem-pedras-cristais",
       "title": "Crie suas Peças com Produtos Minas Cristais "
     },
@@ -152,7 +152,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
       "title": "Especial para Revenda ",
       "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
