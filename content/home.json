@@ -34,8 +34,8 @@
         {
           "start": "2023-02-13T18:33:17.217Z",
           "end": "",
-          "img": "/img/uploads/__atacadoespecial.webp",
-          "mobile_img": "/img/uploads/__atacadoespecial-mobile.webp",
+          "img": "/img/uploads/atacado-marco.webp",
+          "mobile_img": "/img/uploads/atacado-marco-mobile.webp",
           "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
           "alt": "USE O CUPOM: ATACADOESPECIAL E GARANTA SEU DESCONTO"
         }
@@ -111,7 +111,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/_atacadohome.webp",
+          "img": "/img/uploads/atacadohome1.webp",
           "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
           "alt": "ATACADO MINAS CRISTAIS "
         },
