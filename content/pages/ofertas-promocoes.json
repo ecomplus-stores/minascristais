@@ -22,12 +22,13 @@
     {
       "type": "brands-carousel",
       "limit": 24,
-      "offset": 0
+      "offset": 0,
+      "sort": null
     },
     {
       "type": "info-bar",
       "enabled": true
     }
   ],
-  "body": "# **Aproveite Pedras e Cristais em Ofertas & Promoções**"
+  "body": "# **Aproveite Pedras e Cristais em Ofertas & Promoções**\n\n[N﻿o Mês de Março Ganhe 01 Coração de Quartzo Rosa (2,5cm) nas compras a partir de R$100](https://www.minascristais.com.br/coracao-quartzo-rosa-2cm)"
 }
