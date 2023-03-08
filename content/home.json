@@ -8,6 +8,14 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2023-03-08T20:21:05.938Z",
+          "end": "",
+          "img": "/img/uploads/__slidebrinde-mulher-marco.webp",
+          "mobile_img": "/img/uploads/_slidebrinde-mulher-marco-mobile.webp",
+          "link": "https://www.minascristais.com.br/coracao-quartzo-rosa-2cm",
+          "alt": "Especial Mês da Mulher "
+        },
+        {
           "start": "2023-02-13T16:05:28.444Z",
           "end": "",
           "img": "/img/uploads/__chakras-fev.webp",
@@ -72,7 +80,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "title": "Primeira vez por aqui? Use o cupom : PRIMEIRACOMPRA e ganhe 5% de desconto ",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais"
@@ -82,7 +90,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "collection_id": "621748057963422eee191af7:brands:CHAKRAS & ALINHAMENTO:/esotericos-minas-cristais",
       "title": "EQUILÍBRIO & ENERGIA DOS CRISTAIS ",
       "link": "https://www.minascristais.com.br/esotericos-minas-cristais"
@@ -103,7 +111,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$4,99:/pedras-cristais-unidade",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
       "title": "Pedras Roladas e Brutas a partir de R$4,99 cada "
     },
