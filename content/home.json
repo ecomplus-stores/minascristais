@@ -135,6 +135,16 @@
       "title": "Decor & Objetos "
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "title": "Acessórios em Pedras e Cristais "
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
