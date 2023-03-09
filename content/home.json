@@ -99,7 +99,17 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6211bbd67963422eee0eece9:brands:Décor & Objetos:/decor-objetos-cristais",
       "sort": "news",
+      "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+      "title": "Decor & Objetos "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
       "collection_id": "63af82384834634f73244446:brands:DRUSAS & PEDRAS NA BASE:/drusas-pedras-na-base-minas-cristais",
       "title": "Drusas e Pedras na Base ",
       "link": "https://www.minascristais.com.br/drusas-pedras-na-base-minas-cristais"
@@ -109,30 +119,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "news",
-      "title": "Acessórios",
-      "link": "https://www.minascristais.com.br/acessorios"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$4,99:/pedras-cristais-unidade",
-      "sort": "views",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
       "title": "Pedras Roladas e Brutas a partir de R$4,99 cada "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211bbd67963422eee0eece9:brands:Décor & Objetos:/decor-objetos-cristais",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/decor-objetos-cristais",
-      "title": "Decor & Objetos "
     },
     {
       "type": "collection-shelf",
