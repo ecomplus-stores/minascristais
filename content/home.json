@@ -60,13 +60,13 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Acabaram de Chegar "
+      "type": "custom-content",
+      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/pages/ofertas-promocoes\">\n\n**Confira as Ofertas do Mês**\n\n</a></h4>"
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "news"
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
