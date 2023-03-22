@@ -73,7 +73,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "title": "Primeira vez por aqui? Use o cupom : PRIMEIRACOMPRA e ganhe 5% de desconto ",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais"
@@ -84,7 +84,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211bbd67963422eee0eece9:brands:Décor & Objetos:/decor-objetos-cristais",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/decor-objetos-cristais",
       "title": "Decor & Objetos "
     },
@@ -93,7 +93,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "collection_id": "63af82384834634f73244446:brands:DRUSAS & PEDRAS NA BASE:/drusas-pedras-na-base-minas-cristais",
       "title": "Drusas e Pedras na Base ",
       "link": "https://www.minascristais.com.br/drusas-pedras-na-base-minas-cristais"
@@ -104,7 +104,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$4,99:/pedras-cristais-unidade",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
       "title": "Pedras Roladas e Brutas a partir de R$4,99 cada "
     },
@@ -114,7 +114,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/acessorios",
       "title": "Acessórios em Pedras e Cristais "
     },
@@ -144,7 +144,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais",
       "title": "Pedras por KG, veja aqui"
     },
@@ -153,7 +153,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
       "title": "Especial para Revenda ",
       "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
