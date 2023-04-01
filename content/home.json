@@ -21,7 +21,7 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "sort": null
+      "sort": "name"
     },
     {
       "type": "banners-grid",
@@ -87,7 +87,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "621748057963422eee191af7:brands:CHAKRAS & ALINHAMENTO:/esotericos-minas-cristais",
+      "collection_id": "621748057963422eee191af7:brands:Chakras Minas Cristais:/esotericos-minas-cristais",
       "sort": "views",
       "link": "https://www.minascristais.com.br/esotericos-minas-cristais",
       "title": "Alinhe seus Chakras "
@@ -103,31 +103,11 @@
       "title": "Acessórios em Pedras e Cristais "
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/atacadohome1.webp",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "ATACADO MINAS CRISTAIS "
-        },
-        {
-          "img": "/img/uploads/__reveenda.webp",
-          "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
-          "alt": "KITS PARA REVENDAS PEÇAS EM CRISTAIS E PEDRAS ESOTÉRICAS"
-        },
-        {
-          "img": "/img/uploads/__pecas.webp",
-          "link": "https://www.minascristais.com.br/montagem-pedras-cristais",
-          "alt": "PEÇAS PARA MONTAGEM "
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kg de Pedras:/kg-pedras-cristais",
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
       "sort": "views",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais",
       "title": "Pedras por KG, veja aqui"
@@ -137,8 +117,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
-      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Especial Revenda:/kits-especiais-revenda-atacado",
+      "sort": "sales",
+      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Revenda Minas Cristais:/kits-especiais-revenda-atacado",
       "title": "Especial para Revenda ",
       "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
     },
