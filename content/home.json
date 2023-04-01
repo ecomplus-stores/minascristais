@@ -24,15 +24,6 @@
       "sort": "name"
     },
     {
-      "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\">\n\n**Os mais pedidos**\n\n</a></h4>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -41,6 +32,15 @@
       "title": "Primeira vez por aqui? Use o cupom : PRIMEIRACOMPRA e ganhe 5% de desconto ",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<h4 class=\"products-carousel__title\">\n\n**Os mais pedidos**\n\n</a></h4>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
