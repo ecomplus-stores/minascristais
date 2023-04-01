@@ -24,26 +24,6 @@
       "sort": "name"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__banner1.webp",
-          "link": "https://www.minascristais.com.br/esferas-piramides-minas-cristais",
-          "alt": "CALCITA ÓPTICA BRANCA - PEDRA DO ANO 2023"
-        },
-        {
-          "img": "/img/uploads/__signos.webp",
-          "link": "https://www.minascristais.com.br/pages/signos",
-          "alt": "ENCONTRE CRISTAIS POR SIGNO"
-        },
-        {
-          "img": "/img/uploads/__kits.webp",
-          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-          "alt": "KITS DE PEDRAS ESOTÉRICAS E CRISTAIS "
-        }
-      ]
-    },
-    {
       "type": "custom-content",
       "markdown": "<h4 class=\"products-carousel__title\">\n\n**Os mais pedidos**\n\n</a></h4>"
     },
