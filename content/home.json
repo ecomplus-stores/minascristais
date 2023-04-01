@@ -8,22 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-03-08T20:21:05.938Z",
-          "end": "",
-          "img": "/img/uploads/__marco2023.webp",
-          "mobile_img": "/img/uploads/__marcomobile.webp",
-          "link": "https://www.minascristais.com.br/coracao-quartzo-rosa-2cm",
-          "alt": "Especial Mês da Mulher "
-        },
-        {
-          "start": "2023-02-13T16:05:28.444Z",
-          "end": "",
-          "img": "/img/uploads/__atcadomarc.webp",
-          "mobile_img": "/img/uploads/__atcadomobile-marc.webp",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "Alinhe seus Chakras "
-        },
-        {
           "start": "2023-02-13T16:05:22.935Z",
           "end": "",
           "img": "/img/uploads/__kitcristais.webp",
@@ -61,12 +45,12 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/pages/ofertas-promocoes\">\n\n**Confira as Ofertas do Mês**\n\n</a></h4>"
+      "markdown": "<h4 class=\"products-carousel__title\">\n\n**Os mais pedidos**\n\n</a></h4>"
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "offers"
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
