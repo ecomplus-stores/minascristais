@@ -10,10 +10,18 @@
         {
           "start": "2023-02-13T16:05:22.935Z",
           "end": "",
-          "img": "/img/uploads/__kitcristais.webp",
-          "mobile_img": "/img/uploads/__kitcristaismobile.webp",
-          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-          "alt": "Kits de Pedras confira mais "
+          "img": "/img/uploads/atacado-abril.webp",
+          "mobile_img": "/img/uploads/atacado-abril-mobile.webp",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "Cupom Atacado 50% de desconto nas compras a partir de R$1.000 "
+        },
+        {
+          "start": "2023-04-05T03:53:43.167Z",
+          "end": "",
+          "img": "/img/uploads/decore-abril.webp",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+          "alt": "Decore com Cristais ",
+          "mobile_img": "/img/uploads/decore-abril-mobile.webp"
         }
       ]
     },
