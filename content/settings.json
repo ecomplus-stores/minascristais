@@ -1,7 +1,7 @@
 {
   "domain": "www.minascristais.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#08087d",
+  "primary_color": "#19194c",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/fav1.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#21488b",
+  "secondary_color": "#0643ae",
   "icon": "/img/uploads/minascristais-s.webp",
   "store_id": 35519,
   "description": "Loja de Pedras & Cristais,  envio para Todo Brasil e Exterior. \nVisite também nossas lojas físicas em Sete Lagoas, Curvelo e Belo Horizonte. \nVarejo e Atacado. A maior variedade de pedras e cristais a Pronta Entrega de Minas Gerais para o mundo. ",
