@@ -36,6 +36,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+      "title": "Aproveite as Ofertas do Mês! "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "sort": "views",
       "title": "Primeira vez por aqui? Use o cupom : PRIMEIRACOMPRA e ganhe 5% de desconto ",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
