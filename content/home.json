@@ -36,7 +36,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "offers",
       "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
       "title": "Aproveite as Ofertas do Mês! "
     },
@@ -64,20 +64,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/casa/",
-      "title": "Decor & Objetos - Mesa Posta e mais para casa vem conferir "
+      "collection_id": "6200359d7963422eeeee5a35:categories:Selenita:/selenita/",
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/massageadores-pedras-cristais",
+      "title": "Vocês pediram elas voltaram com desconto, confira "
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "collection_id": "63af82384834634f73244446:brands:DRUSAS & PEDRAS NA BASE:/drusas-pedras-na-base-minas-cristais",
-      "title": "Drusas e Pedras na Base ",
-      "link": "https://www.minascristais.com.br/drusas-pedras-na-base-minas-cristais"
+      "sort": "offers",
+      "collection_id": "621c94f97963422eee2211cd:brands:Massageadores Minas Cristais:/massageadores-pedras-cristais",
+      "title": "Descontos nos Massageadores, vem aproveitar ",
+      "link": "https://www.minascristais.com.br/massageadores-pedras-cristais"
     },
     {
       "type": "collection-shelf",
