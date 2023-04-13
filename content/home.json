@@ -36,7 +36,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
       "title": "Aproveite as Ofertas do Mês! "
     },
