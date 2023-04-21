@@ -41,7 +41,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\">\n\n**Os mais pedidos**\n\n</a></h4>"
+      "markdown": "<h4 class=\"products-carousel__title\">\n\n**A﻿s novidades do mês**\n\n</a></h4>"
     },
     {
       "type": "dynamic-showcase",
