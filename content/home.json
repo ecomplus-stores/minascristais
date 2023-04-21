@@ -52,15 +52,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__atacadomini.webp"
+          "img": "/img/uploads/__atacadomini.webp",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "Atacado pedido mínimo R$1000"
         },
         {
           "img": "/img/uploads/__30off.webp",
-          "link": "https://www.minascristais.com.br/pages/dia-das-maes"
+          "link": "https://www.minascristais.com.br/pages/dia-das-maes",
+          "alt": "Especial dia das Mães"
         },
         {
           "img": "/img/uploads/__primeiracompra.webp",
-          "alt": "Válido para primeira compra na loja "
+          "alt": "Válido para primeira compra na loja ",
+          "link": "https://www.minascristais.com.br/cristaisepedras/"
         }
       ]
     },
