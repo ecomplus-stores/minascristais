@@ -40,25 +40,6 @@
       "sort": "name"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "title": "Aproveite as Ofertas do Mês! "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Primeira vez por aqui? Use o cupom : PRIMEIRACOMPRA e ganhe 15% de desconto ",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais"
-    },
-    {
       "type": "custom-content",
       "markdown": "<h4 class=\"products-carousel__title\">\n\n**Os mais pedidos**\n\n</a></h4>"
     },
@@ -68,24 +49,20 @@
       "sort": "sales"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200359d7963422eeeee5a35:categories:Selenita:/selenita/",
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/massageadores-pedras-cristais",
-      "title": "Vocês pediram elas voltaram com desconto, confira "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "collection_id": "621c94f97963422eee2211cd:brands:Massageadores Minas Cristais:/massageadores-pedras-cristais",
-      "title": "Descontos nos Massageadores, vem aproveitar ",
-      "link": "https://www.minascristais.com.br/massageadores-pedras-cristais"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__atacadomini.webp"
+        },
+        {
+          "img": "/img/uploads/__30off.webp",
+          "link": "https://www.minascristais.com.br/pages/dia-das-maes"
+        },
+        {
+          "img": "/img/uploads/__primeiracompra.webp",
+          "alt": "Válido para primeira compra na loja "
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -93,29 +70,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "639b494a4834634f73129e6d:collections:Presentes até R$100:/pecas-presentes-minas-cristais",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pages/especial-presentes",
-      "title": "Peças e Produtos até R$100, confira "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "title": "Acessórios em Pedras e Cristais "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
-      "title": "Pedras por KG, veja aqui"
+      "title": "Presentes até R$100 "
     },
     {
       "type": "collection-shelf",
@@ -123,9 +80,43 @@
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Revenda Minas Cristais:/kits-especiais-revenda-atacado",
-      "title": "Especial para Revenda ",
-      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado"
+      "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
+      "title": "Decoração e Presentes ",
+      "link": "https://www.minascristais.com.br/casa/"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__ofertasmaio.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "Ofertas do mês"
+        },
+        {
+          "img": "/img/uploads/__aneis-maio.webp",
+          "link": "https://www.minascristais.com.br/aneis/",
+          "alt": "Anéis em Diversos Cristais "
+        },
+        {
+          "img": "/img/uploads/__pingentesmaio.webp",
+          "link": "https://www.minascristais.com.br/pingentes-pedras/",
+          "alt": "Pingentes Diversas pedras e Cristais "
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__depoimentos.webp",
+          "mobile_img": "/img/uploads/__depoimentosmobile.webp",
+          "alt": "Depoimentos #gratidao"
+        }
+      ]
     },
     {
       "type": "banner-slider",
