@@ -41,7 +41,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\">\n\n**Pedras & Cristais entrega rápida e segura**</h4>\n\n<div><p>\n\nOs mais pedidos\n\nveja mais <a>https://www.minascristais.com.br/os-queridinhos-minas-cristais\n\n</a>\n\n</p>\n\n<!--EndFragment-->"
+      "markdown": "<h4 class=\"products-carousel__title\">\n\n**Pedras & Cristais entrega rápida e segura**</h4>\n\n\n\n<!--EndFragment-->"
     },
     {
       "type": "dynamic-showcase",
@@ -49,13 +49,15 @@
       "sort": "views"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
+      "title": "Especial Dia das Mães - Use o cupom:presente e ganhe 30% de desconto",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+      "limit": 12,
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
-      "sort": "sales",
-      "headless": true
+      "sort": "views"
     },
     {
       "type": "banners-grid",
