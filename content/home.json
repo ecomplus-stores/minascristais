@@ -41,12 +41,12 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\">\n\n**Pedras & Cristais entrega rápida e segura**</h4>\n\n\n\n<!--EndFragment-->"
+      "markdown": "<h4 class=\"products-carousel__title\">Purpurita,  amais buscada da semana, conheça essa poderosa Pedra de Proteção Psíquica \n\n</h4>\n\n<!--EndFragment-->"
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "page": 1,
