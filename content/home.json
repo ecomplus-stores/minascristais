@@ -8,10 +8,18 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__purpurita.webp",
+          "mobile_img": "/img/uploads/__purpuritamob.webp",
+          "link": "https://www.minascristais.com.br/pedra-purpurita",
+          "alt": "Purpurita a Pedra da Proteção Psíquica, compre online"
+        },
+        {
           "start": "2023-04-21T20:16:46.734Z",
           "end": "",
-          "img": "/img/uploads/__diadasmaes.webp",
-          "mobile_img": "/img/uploads/__diadasmaes_mobile.webp",
+          "img": "/img/uploads/__maessl.webp",
+          "mobile_img": "/img/uploads/__maesmob.webp",
           "link": "https://www.minascristais.com.br/pages/dia-das-maes",
           "alt": "cupom:presente 30% off"
         },
