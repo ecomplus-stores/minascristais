@@ -54,11 +54,11 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "news"
+      "sort": "views"
     },
     {
       "page": 1,
-      "title": "Especial Dia das Mães - Use o cupom:presente e ganhe 30% de desconto",
+      "title": "Os mais pedidos do mês! ",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
