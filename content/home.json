@@ -16,14 +16,6 @@
           "alt": "Purpurita a Pedra da Proteção Psíquica, compre online"
         },
         {
-          "start": "2023-04-21T20:16:46.734Z",
-          "end": "",
-          "img": "/img/uploads/__maessl.webp",
-          "mobile_img": "/img/uploads/__maesmob.webp",
-          "link": "https://www.minascristais.com.br/pages/dia-das-maes",
-          "alt": "cupom:presente 30% off"
-        },
-        {
           "start": "2023-02-13T16:05:22.935Z",
           "end": "",
           "img": "/img/uploads/atacado-abril.webp",
@@ -66,26 +58,6 @@
       "limit": 12,
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
       "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__atacadomini.webp",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "Atacado pedido mínimo R$1000"
-        },
-        {
-          "img": "/img/uploads/__30off.webp",
-          "link": "https://www.minascristais.com.br/pages/dia-das-maes",
-          "alt": "Especial dia das Mães"
-        },
-        {
-          "img": "/img/uploads/__primeiracompra.webp",
-          "alt": "Válido para primeira compra na loja ",
-          "link": "https://www.minascristais.com.br/cristaisepedras/"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
