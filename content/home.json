@@ -50,7 +50,7 @@
     },
     {
       "page": 1,
-      "title": "Os mais pedidos do mês! ",
+      "title": "Os queridinhos dos clientes ",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
@@ -64,10 +64,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
-      "sort": "sales",
-      "title": "Pedras Brutas e Roladas a partir de R$ 6,99 cada ",
-      "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
+      "collection_id": null,
+      "sort": "offers",
+      "title": "Aproveite as Ofertas",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
     },
     {
       "type": "banner-slider",
