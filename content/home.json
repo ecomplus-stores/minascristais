@@ -64,46 +64,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "639b494a4834634f73129e6d:collections:Presentes até R$100:/pecas-presentes-minas-cristais",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/pages/especial-presentes",
-      "title": "💙Presentes com Significado e a Energia dos Cristais - até R$ 100"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
-      "title": "✨Decoração e Presentes os mais pedidos",
-      "link": "https://www.minascristais.com.br/casa/"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__ofertasmaio.webp",
-          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "Ofertas do mês"
-        },
-        {
-          "img": "/img/uploads/__aneis-maio.webp",
-          "link": "https://www.minascristais.com.br/aneis/",
-          "alt": "Anéis em Diversos Cristais "
-        },
-        {
-          "img": "/img/uploads/__pingentesmaio.webp",
-          "link": "https://www.minascristais.com.br/pingentes-pedras/",
-          "alt": "Pingentes Diversas pedras e Cristais "
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
       "sort": "sales",
       "title": "Pedras Brutas e Roladas a partir de R$ 6,99 cada ",
