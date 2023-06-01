@@ -1,9 +1,31 @@
 {
   "title": "♥ O Amor está no Ar  ♥ ",
-  "body": "# **O amor está no ar - Mês dos Namorados**",
+  "body": "# **O amor está no ar - Mês dos Namorados**\n\nR﻿echeado de presentes pra você! \n\nU﻿se o **cupom: presente** e garanta **20% de desconto** em sua compra ( a partir de R$180) \n\n\\*﻿exceto nos kits e almofariz. Válido somente para compras online\n\nE﻿ mais na compra de **peças em prata** ganhe **um lindo mini coração de quartzo rosa** ( a pedra do amor) \n\nV﻿em escolher seu presente!",
   "meta_title": "Presentes Dia dos Namorados - Minas Cristais - Pedras e Cristais ",
   "meta_description": "Presentes Dia dos Namorados - Minas Cristais - Pedras e Cristais ",
   "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2023-06-01T01:06:04.656Z",
+          "end": "",
+          "img": "/img/uploads/amorjunho.png",
+          "mobile_img": "/img/uploads/amormob-1-.png",
+          "alt": "use o cupom: presente e garanta 20% off em suas compras a partir de R$180"
+        },
+        {
+          "start": "2023-06-01T01:07:26.169Z",
+          "end": "",
+          "img": "/img/uploads/pratajunho-1-.png",
+          "mobile_img": "/img/uploads/pratamob-1-.png",
+          "alt": "Ganhe 01 mini coração quartzo rosa na compra de uma peça em prata",
+          "link": "https://www.minascristais.com.br/prata"
+        }
+      ]
+    },
     {
       "type": "extra-page",
       "enabled": true
@@ -33,45 +55,46 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200356d7963422eeeee599d:categories:Ametista:/ametista/",
+      "collection_id": "62045ce67963422eeef73d5a:categories:Acessórios em Prata:/prata",
       "sort": "news",
-      "title": "♥ Ametista : a Pedra da Sabedoria ♥",
-      "link": "https://www.minascristais.com.br/ametista/"
+      "title": "♥ Compre 01 peça em prata e Ganhe 01 lindo mini coração de Quartzo Rosa ♥",
+      "link": "https://www.minascristais.com.br/prata"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200356c7963422eeeee5999:categories:Âmbar:/ambar/",
+      "collection_id": "6211c7cc7963422eee0ef5b3:categories:Purpurita:/pedra-purpurita",
       "sort": "news",
-      "title": "Âmbar : Amuleto de Boa Sorte, Saúde e Proteção",
-      "link": "https://www.minascristais.com.br/ambar/"
+      "title": "Purpurita : A Pedra da Proteção Psíquica",
+      "link": "https://www.minascristais.com.br/pedra-purpurita"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "621416d27963422eee127ca6:brands:Acessórios - Minas Cristais:/mix-acessorios",
+      "collection_id": "620035ee7963422eeeee5b3c:categories:Sungita | Shungita | Shungite:/sungita-shungita-shungite/",
       "sort": "news",
-      "title": "Acessórios em Pedras : Alianças, Anéis, Brincos, Colares e Pulseiras ",
-      "link": "https://www.minascristais.com.br/mix-acessorios"
+      "title": "Shungita: A Pedra Poderosa que Purifica, Equilibra e Protege",
+      "link": "https://www.minascristais.com.br/sungita-shungita-shungite/"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "62142dd97963422eee12b9d4:brands:As Pedras para Purificação e Energização:/purificacao-energizacao-cristais",
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
       "sort": "sales",
-      "title": "A Energia dos Cristais para sua Vida",
-      "link": "https://www.minascristais.com.br/purificacao-energizacao-cristais"
+      "title": "Acessórios em Pedras e Cristais ",
+      "link": "https://www.minascristais.com.br/mix-acessorios"
     },
     {
       "type": "brands-carousel",
       "limit": 24,
-      "offset": 0
+      "offset": 0,
+      "sort": "name"
     },
     {
       "type": "info-bar",
