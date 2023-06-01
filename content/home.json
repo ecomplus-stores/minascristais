@@ -8,12 +8,28 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2023-06-01T01:21:14.095Z",
+          "end": "",
+          "img": "/img/uploads/amorjunho.png",
+          "mobile_img": "/img/uploads/amormob-1-.png",
+          "link": "https://www.minascristais.com.br/pages/o-amor-esta-no-ar",
+          "alt": "20% off use o cupom:presente, veja mais "
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/__purpurita.webp",
           "mobile_img": "/img/uploads/__purpuritamob.webp",
           "link": "https://www.minascristais.com.br/pedra-purpurita",
           "alt": "Purpurita a Pedra da Proteção Psíquica, compre online"
+        },
+        {
+          "start": "2023-06-01T01:22:38.585Z",
+          "end": "",
+          "img": "/img/uploads/pratajunho-1-.png",
+          "mobile_img": "/img/uploads/pratamob-1-.png",
+          "link": "https://www.minascristais.com.br/prata",
+          "alt": "Ganhe 01 mini coração de quartzo rosa comprando 01 peça de prata"
         },
         {
           "start": "2023-02-13T16:05:22.935Z",
@@ -30,22 +46,6 @@
           "link": "https://www.minascristais.com.br/decor-objetos-cristais",
           "alt": "Decore com Cristais ",
           "mobile_img": "/img/uploads/decore-abril-mobile.webp"
-        },
-        {
-          "start": "2023-06-01T01:21:14.095Z",
-          "end": "",
-          "img": "/img/uploads/amorjunho.png",
-          "mobile_img": "/img/uploads/amormob-1-.png",
-          "link": "https://www.minascristais.com.br/pages/o-amor-esta-no-ar",
-          "alt": "20% off use o cupom:presente, veja mais "
-        },
-        {
-          "start": "2023-06-01T01:22:38.585Z",
-          "end": "",
-          "img": "/img/uploads/pratajunho-1-.png",
-          "mobile_img": "/img/uploads/pratamob-1-.png",
-          "link": "https://www.minascristais.com.br/prata",
-          "alt": "Ganhe 01 mini coração de quartzo rosa comprando 01 peça de prata"
         }
       ]
     },
