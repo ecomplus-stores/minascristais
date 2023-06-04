@@ -45,10 +45,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
+      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$50:/presentes-pedra-cristais",
       "sort": "news",
-      "title": "♥ Quartzo Rosa : a Pedra do Amor ♥",
-      "link": "https://www.minascristais.com.br/quartzo-rosa/"
+      "title": "♥ Presentes até R$50 ",
+      "link": "https://www.minascristais.com.br/presentes-pedra-cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211c7cc7963422eee0ef5b3:categories:Purpurita:/pedra-purpurita",
+      "sort": "news",
+      "title": "Purpurita : A Pedra da Proteção Psíquica",
+      "link": "https://www.minascristais.com.br/pedra-purpurita"
     },
     {
       "type": "collection-shelf",
@@ -65,10 +75,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6211c7cc7963422eee0ef5b3:categories:Purpurita:/pedra-purpurita",
+      "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
       "sort": "news",
-      "title": "Purpurita : A Pedra da Proteção Psíquica",
-      "link": "https://www.minascristais.com.br/pedra-purpurita"
+      "title": "♥ Quartzo Rosa : a Pedra do Amor ♥",
+      "link": "https://www.minascristais.com.br/quartzo-rosa/"
     },
     {
       "type": "collection-shelf",
