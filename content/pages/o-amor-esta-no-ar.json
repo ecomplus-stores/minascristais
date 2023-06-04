@@ -95,6 +95,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "639b494a4834634f73129e6d:collections:Presentes até R$100:/pecas-presentes-minas-cristais",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
+      "title": "♥Presentes de R$100 a R$300 "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
       "sort": "sales",
       "title": "Acessórios em Pedras e Cristais ",
