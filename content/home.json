@@ -83,6 +83,16 @@
       "alt": "na compra de peças em prata ganhe um lindo mini coração de quartzo rosa ( a pedra do amor)"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$50:/presentes-pedra-cristais",
+      "sort": "news",
+      "title": "♥Presentes até R$50",
+      "link": "https://www.minascristais.com.br/presentes-pedra-cristais"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
