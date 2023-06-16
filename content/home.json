@@ -164,10 +164,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<script>\n   const llPopupId=\"1A982032CCDE4240AE37AC50DDF79A50\";\n   var llP = document.createElement(\"script\");\n   llP.setAttribute(\"src\", \"https://pagina.group/scripts/capture/capture-popup.js\");\n   document.addEventListener(\"DOMContentLoaded\", function() {\n      document.body.appendChild(llP);\n   });\n</script>"
     }
   ]
 }
