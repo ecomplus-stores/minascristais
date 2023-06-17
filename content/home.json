@@ -97,10 +97,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "collection_id": "639b494a4834634f73129e6d:collections:Presentes de R$100 a R$300:/pecas-presentes-minas-cristais",
-      "title": "♥Presentes de R$100 a R$300 ",
-      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais"
+      "sort": "news",
+      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
+      "title": "Pedras e Cristais por unidade",
+      "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
     },
     {
       "type": "banners-grid",
