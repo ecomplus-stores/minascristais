@@ -62,18 +62,17 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "sales"
     },
     {
-      "page": 1,
-      "title": "Os queridinhos dos clientes ",
-      "shuffle": false,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+      "shuffle": false,
       "limit": 12,
+      "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
-      "sort": "news"
+      "sort": "sales",
+      "link": "ttps://www.minascristais.com.br/os-queridinhos-minas-cristais",
+      "title": "Os mais pedidos do mês"
     },
     {
       "type": "responsive-banner",
@@ -87,17 +86,17 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$50:/presentes-pedra-cristais",
-      "sort": "sales",
-      "title": "♥Presentes até R$50",
-      "link": "https://www.minascristais.com.br/presentes-pedra-cristais"
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "sort": "news",
+      "title": "♥Acessórios ",
+      "link": "https://www.minascristais.com.br/acessorios"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
       "title": "Pedras e Cristais por unidade",
       "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
