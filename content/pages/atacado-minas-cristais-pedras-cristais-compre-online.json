@@ -37,12 +37,19 @@
       "html": "<p>No<b> mês do revendedor</b> ganhe <b>20 pingentes de pedrinha rolada</b> em sua compra. <br>\nAdicione a partir de <b>R$1000</b> em produtos no  seu carrinho coloque o cupom :<b>atacado</b> e pronto, você garante o <b>50% de desconto</b> e já ganha o brinde no seu carrinho! <br>\n<b>Válido por tempo limitado, aproveite! </b>\n"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__revenda1.webp",
+      "mobile_img": "/img/uploads/__revendam.webp",
+      "link": "https://www.minascristais.com.br/kit-com-20-pingentes-de-pedrinha-rolada-revenda",
+      "alt": "Ganhe 20 pingentes de pedrinha rolada"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
+      "sort": "views",
       "title": "Pedras por kg ",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais"
     },
@@ -52,9 +59,9 @@
       "limit": 12,
       "page": 1,
       "sort": "views",
-      "title": "Pirâmides e Orgonites, veja aqui",
-      "link": "https://www.minascristais.com.br/piramides-orgonites",
-      "collection_id": "63af7f934834634f73244349:brands:Pirâmides Minas Cristais:/piramides-orgonites"
+      "title": "Pedras Roladas, Brutas , Lapidadas em diversos formatos",
+      "link": "https://www.minascristais.com.br/cores-e-formatos/",
+      "collection_id": "620035497963422eeeee58ed:categories:Formatos:/formatos/"
     },
     {
       "type": "collection-shelf",
@@ -62,8 +69,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "621747bd7963422eee191ac6:brands:Pontas Minas Cristais:/drusas-pontas-minas-cristais",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/drusas-pontas-minas-cristais",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pontas/",
       "title": "Pontas e Obeliscos "
     },
     {
@@ -72,8 +79,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
+      "load_more": false,
+      "sort": "views"
     },
     {
       "type": "brands-carousel",
