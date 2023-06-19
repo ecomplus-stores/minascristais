@@ -33,6 +33,10 @@
       "alt": "Whatsapp Atacado"
     },
     {
+      "type": "custom-html",
+      "html": "<p>No<b> mês do revendedor</b> ganhe <b>20 pingentes de pedrinha rolada</b> em sua compra. <br>\nAdicione a partir de <b>R$1000</b> em produtos no  seu carrinho coloque o cupom :<b>atacado</b> e pronto, você garante o <b>50% de desconto</b> e já ganha o brinde no seu carrinho! <br>\n<b>Válido por tempo limitado, aproveite! </b>\n"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
