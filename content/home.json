@@ -65,6 +65,13 @@
       "sort": "sales"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__revenda1.webp",
+      "mobile_img": "/img/uploads/__revendam.webp",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "alt": "Ganhe Brinde super especial no dia do revendedor"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
