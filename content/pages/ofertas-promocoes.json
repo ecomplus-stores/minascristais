@@ -15,23 +15,9 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/amorjunho.png",
-      "mobile_img": "/img/uploads/amormob-1-.png",
-      "link": "https://www.minascristais.com.br/pages/o-amor-esta-no-ar",
-      "alt": "Especial do mês: Cupom - 20% off"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/pratajunho-1-.png",
-      "mobile_img": "/img/uploads/pratamob-1-.png",
-      "link": "https://www.minascristais.com.br/prata",
-      "alt": "Ganhe 01 lindo mini coração de quartzo rosa na compra de 01 peça em prata"
     },
     {
       "type": "brands-carousel",
@@ -44,5 +30,5 @@
       "enabled": true
     }
   ],
-  "body": "# **Aproveite Pedras e Cristais em Ofertas & Promoções**\n\nO amor está no ar - Mês dos Namorados\nR﻿echeado de presentes pra você!\n\nU﻿se o **cupom: presente** e garanta **20% de desconto** em sua compra ( a partir de R$180)\n\n*\\*﻿exceto nos kits e almofariz. Válido somente para compras online*\n\nE﻿ mais **na compra de peças em prata ganhe um lindo mini coração de quartzo rosa** ( a pedra do amor)\n\nV﻿em escolher seu presente!"
+  "body": "# **Aproveite Pedras e Cristais em Ofertas & Promoções**"
 }
