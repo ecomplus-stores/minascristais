@@ -8,28 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-06-01T01:21:14.095Z",
-          "end": "",
-          "img": "/img/uploads/amorjunho.png",
-          "mobile_img": "/img/uploads/amormob-1-.png",
-          "link": "https://www.minascristais.com.br/pages/o-amor-esta-no-ar",
-          "alt": "20% off use o cupom:presente, veja mais "
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/__purpurita.webp",
           "mobile_img": "/img/uploads/__purpuritamob.webp",
           "link": "https://www.minascristais.com.br/pedra-purpurita",
           "alt": "Purpurita a Pedra da Proteção Psíquica, compre online"
-        },
-        {
-          "start": "2023-06-01T01:22:38.585Z",
-          "end": "",
-          "img": "/img/uploads/pratajunho-1-.png",
-          "mobile_img": "/img/uploads/pratamob-1-.png",
-          "link": "https://www.minascristais.com.br/prata",
-          "alt": "Ganhe 01 mini coração de quartzo rosa comprando 01 peça de prata"
         },
         {
           "start": "2023-02-13T16:05:22.935Z",
@@ -57,12 +41,42 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/pages/o-amor-esta-no-ar\">Especial Mês do Amor: </a></h4><center> Use o cupom \"presente\" e ganhe 20% OFF em compras acima de R$180!</center>"
+      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/os-queridinhos-minas-cristais\">Vem conferir </a></h4><center>Ganhe 5% de desconto na sua primeira compra use o cupom: primeiracompra</center>"
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "sales"
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/cristaisepedras/",
+      "title": "Tem novidades"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
+      "sort": "sales",
+      "title": "Leve a energia das pedras ",
+      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
+      "title": "Kits de Pedras e Cristais para começar o mês vibrando lá em cima",
+      "link": "https://www.minascristais.com.br/kitspedras-esotericas"
     },
     {
       "type": "responsive-banner",
@@ -76,67 +90,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
       "sort": "sales",
-      "link": "ttps://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "Os mais pedidos do mês"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/pratajunho-1-.png",
-      "mobile_img": "/img/uploads/pratamob-1-.png",
-      "link": "https://www.minascristais.com.br/prata",
-      "alt": "na compra de peças em prata ganhe um lindo mini coração de quartzo rosa ( a pedra do amor)"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "news",
-      "title": "♥Acessórios ",
-      "link": "https://www.minascristais.com.br/acessorios"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
-      "title": "Pedras e Cristais por unidade",
-      "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/primeiracompram-1-.png",
-          "link": "https://www.minascristais.com.br/cristaisepedras/",
-          "alt": "15% off na sua primeira compra, use o cupom"
-        },
-        {
-          "img": "/img/uploads/cupomjunho-1-.png",
-          "link": "https://www.minascristais.com.br/pages/o-amor-esta-no-ar",
-          "alt": "20% off - use o cupom, veja as regras"
-        },
-        {
-          "img": "/img/uploads/atcadomob-1-.png",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "Atacado e Revenda - 50% off - veja as regras"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo | Signos:/esoterismo/",
-      "sort": "news",
-      "title": "Leve para sua vida a energia das pedras e cristais",
-      "link": "https://www.minascristais.com.br/esoterismo/"
+      "title": "Atacado: 50% de desconto, confira as regras",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
     {
       "type": "banner-slider",
