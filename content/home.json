@@ -44,11 +44,6 @@
       "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/os-queridinhos-minas-cristais\">Vem conferir </a></h4><center>Ganhe 5% de desconto na sua primeira compra use o cupom: primeiracompra</center>"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
