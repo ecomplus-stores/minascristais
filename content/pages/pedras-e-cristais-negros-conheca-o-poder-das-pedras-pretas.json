@@ -60,26 +60,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620036007963422eeeee5b83:categories:Basalto:/basalto/",
-      "sort": "views",
-      "title": "Basalto: Pedra Vulcânica -Pedra de Saúde e Proteção.",
-      "link": "https://www.minascristais.com.br/basalto/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "collection_id": "620035a27963422eeeee5a48:categories:Turmalina Negra:/turmalina-negra/",
+      "sort": "sales",
+      "title": "Turmalina Negra: Contra a negatividade. Talismã de Proteção",
+      "link": "https://www.minascristais.com.br/turmalina-negra/"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035a27963422eeeee5a48:categories:Turmalina Negra:/turmalina-negra/",
-      "sort": "sales",
-      "title": "Turmalina Negra: Contra a negatividade. Talismã de Proteção",
-      "link": "https://www.minascristais.com.br/turmalina-negra/"
+      "collection_id": "620036007963422eeeee5b83:categories:Basalto:/basalto/",
+      "sort": "views",
+      "title": "Basalto: Pedra Vulcânica -Pedra de Saúde e Proteção.",
+      "link": "https://www.minascristais.com.br/basalto/"
     },
     {
       "type": "collection-shelf",
