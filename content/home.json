@@ -78,6 +78,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Revenda Minas Cristais:/kits-especiais-revenda-atacado",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
+      "title": "Kits Especiais de Revenda - confira *desconto não cumulativo"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "sort": "sales",
       "collection_id": "620035467963422eeeee58e0:categories:Esoterismo | Signos:/esoterismo/",
       "title": "Kits de Pedras e Cristais para começar o mês vibrando lá em cima",
@@ -92,22 +102,6 @@
       "sort": "sales",
       "title": "Atacado: 50% de desconto, confira as regras",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "633774fc73321213f896669c:collections:Especial para Revenda - Dia do Vendedor:/desconto-especial-atacado",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
-      "title": "Kits Especiais de Revenda - confira *desconto não cumulativo"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
     },
     {
       "type": "banner-slider",
