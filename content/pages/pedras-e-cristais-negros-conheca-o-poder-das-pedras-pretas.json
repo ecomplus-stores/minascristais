@@ -34,6 +34,66 @@
       "sort": "news",
       "title": "Hematita: A Pedra do Equilíbrio e Energia Positiva",
       "link": "https://www.minascristais.com.br/hematita/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035947963422eeeee5a16:categories:Ônix:/onix/",
+      "sort": "sales",
+      "title": "Ônix: A Pedra do Poder ",
+      "link": "https://www.minascristais.com.br/onix/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035757963422eeeee59b3:categories:Cianita Vassoura de Bruxa:/cianita-vassoura-de-bruxa/",
+      "sort": "views",
+      "title": "Cianita Preta (Vassoura de Bruxa):Pedra da Limpeza Energética da Aura e de Ambientes",
+      "link": "https://www.minascristais.com.br/cianita-vassoura-de-bruxa/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620036007963422eeeee5b83:categories:Basalto:/basalto/",
+      "sort": "views",
+      "title": "Basalto: Pedra Vulcânica -Pedra de Saúde e Proteção.",
+      "link": "https://www.minascristais.com.br/basalto/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035a27963422eeeee5a48:categories:Turmalina Negra:/turmalina-negra/",
+      "sort": "sales",
+      "title": "Turmalina Negra: Contra a negatividade. Talismâ de Proteção",
+      "link": "https://www.minascristais.com.br/turmalina-negra/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035df7963422eeeee5b0a:categories:Biotita:/biotita/",
+      "sort": "views",
+      "title": "Biotita: Pedra para Limpeza ativação do Chakra do Terceiro Olho.",
+      "link": "https://www.minascristais.com.br/biotita/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
