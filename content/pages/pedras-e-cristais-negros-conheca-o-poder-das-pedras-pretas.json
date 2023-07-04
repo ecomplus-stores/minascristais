@@ -69,10 +69,16 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
       "page": 1,
       "collection_id": "620035a27963422eeeee5a48:categories:Turmalina Negra:/turmalina-negra/",
       "sort": "sales",
-      "title": "Turmalina Negra: Contra a negatividade. Talismâ de Proteção",
+      "title": "Turmalina Negra: Contra a negatividade. Talismã de Proteção",
       "link": "https://www.minascristais.com.br/turmalina-negra/"
     },
     {
@@ -84,12 +90,6 @@
       "sort": "news",
       "title": "Biotita: Pedra para Limpeza ativação do Chakra do Terceiro Olho.",
       "link": "https://www.minascristais.com.br/biotita/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
     },
     {
       "type": "info-bar",
