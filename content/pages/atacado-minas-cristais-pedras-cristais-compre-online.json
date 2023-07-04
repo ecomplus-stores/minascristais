@@ -33,17 +33,6 @@
       "alt": "Whatsapp Atacado"
     },
     {
-      "type": "custom-html",
-      "html": "<p>No<b> mês do revendedor</b> ganhe <b>20 pingentes de pedrinha rolada</b> em sua compra. <br>\nAdicione a partir de <b>R$1000</b> em produtos no  seu carrinho coloque o cupom :<b>atacado</b> e pronto, você garante o <b>50% de desconto</b> e já ganha o brinde no seu carrinho! <br>\n<b>Válido por tempo limitado, aproveite! </b>\n"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__revenda1.webp",
-      "mobile_img": "/img/uploads/__revendam.webp",
-      "link": "https://www.minascristais.com.br/kit-com-20-pingentes-de-pedrinha-rolada-revenda",
-      "alt": "Ganhe 20 pingentes de pedrinha rolada"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -72,6 +61,46 @@
       "sort": "views",
       "link": "https://www.minascristais.com.br/pontas/",
       "title": "Pontas e Obeliscos "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "6200355b7963422eeeee594f:categories:Pirâmides:/piramides/",
+      "link": "https://www.minascristais.com.br/piramides/",
+      "title": "Pirâmides em Pedras Diversas, confira"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035557963422eeeee592d:categories:Coração:/coracao/",
+      "sort": "news",
+      "title": "Coração em Diversas Pedras",
+      "link": "https://www.minascristais.com.br/coracao/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620036057963422eeeee5b98:categories:Grutas | Capelas:/grutas-capelas/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/grutas-capelas/",
+      "title": "Grutas e Capelas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035527963422eeeee5917:categories:Árvores:/arvores/",
+      "sort": "sales",
+      "title": "Árvores de Pedras - veja mais",
+      "link": "https://www.minascristais.com.br/arvores/"
     },
     {
       "type": "page-title",
