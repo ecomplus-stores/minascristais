@@ -94,6 +94,22 @@
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633774fc73321213f896669c:collections:Especial para Revenda - Dia do Vendedor:/desconto-especial-atacado",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
+      "title": "Kits Especiais de Revenda - confira *desconto não cumulativo"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
