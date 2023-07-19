@@ -49,7 +49,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
-      "sort": "sales",
+      "sort": "news",
       "title": "Os mais vistos ",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
@@ -69,7 +69,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
-      "sort": "news",
+      "sort": "sales",
       "title": "Tem novidades, confira ",
       "link": "https://www.minascristais.com.br/cristaisepedras/"
     },
