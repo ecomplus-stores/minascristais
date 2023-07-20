@@ -40,38 +40,54 @@
       "sort": "name"
     },
     {
-      "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/os-queridinhos-minas-cristais\">Vem conferir </a></h4><center>Ganhe 5% de desconto na sua primeira compra use o cupom: primeiracompra</center>"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida",
+      "title": "Descubra o encanto das Pedras Rosas e mergulhe na energia do amor e afeto."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Os Queridinhos:/os-queridinhos-minas-cristais",
-      "sort": "news",
-      "title": "Os mais vistos ",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+      "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/quartzo-rosa/",
+      "title": "Quartzo Rosa : A Pedra do Amor"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035d47963422eeeee5ae8:categories:Pedras Pretas:/pedra-cor-preta/",
+      "collection_id": "64b8aba75e606903706b7c84:categories:Ágata Rosa:/agata-rosa",
       "sort": "news",
-      "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas",
-      "title": "Descubra o Poder das Pedras Pretas: Pedras e Cristais Negros"
+      "title": "Ágata Rosa : Afeto e Harmonia",
+      "link": "https://www.minascristais.com.br/agata-rosa"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
+      "collection_id": "620035e17963422eeeee5b12:categories:Turmalina Rosa:/turmalina-rosa/",
       "sort": "news",
-      "title": "Tem novidades, confira ",
-      "link": "https://www.minascristais.com.br/cristaisepedras/"
+      "title": "Turmalina Rosa / Rubelita : Paixão pela Vida",
+      "link": "https://www.minascristais.com.br/turmalina-rosa/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "title": "Acessórios em Pedras ",
+      "link": "https://www.minascristais.com.br/acessorios"
     },
     {
       "type": "collection-shelf",
@@ -79,7 +95,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6338a0e373321213f8975b9d:brands:Kits Revenda Minas Cristais:/kits-especiais-revenda-atacado",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
       "title": "Kits Especiais de Revenda - confira *desconto não cumulativo"
     },
@@ -88,18 +104,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo | Signos:/esoterismo/",
-      "title": "Kits de Pedras e Cristais para começar o mês vibrando lá em cima",
-      "link": "https://www.minascristais.com.br/pages/signos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
+      "sort": "views",
       "title": "Atacado: 50% de desconto, confira as regras",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
