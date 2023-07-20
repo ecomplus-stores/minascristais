@@ -61,6 +61,16 @@
       "sort": "sales",
       "title": "Pedras Rosas : Amor e afeto ",
       "link": "https://www.minascristais.com.br/pedras-cor-rosa/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64b8aba75e606903706b7c84:categories:Ágata Rosa:/agata-rosa",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/agata-rosa",
+      "title": "Ágata Rosa: Afeto e Harmonia"
     }
   ]
 }
