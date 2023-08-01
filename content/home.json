@@ -40,13 +40,14 @@
       "sort": "name"
     },
     {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/os-queridinhos-minas-cristais\">Novidades do mês</a></h4><center> </center>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
+      "sort": "news",
+      "title": "Novidades do Mês ",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
       "type": "collection-shelf",
