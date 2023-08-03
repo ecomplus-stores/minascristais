@@ -10,26 +10,33 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/__purpurita.webp",
-          "mobile_img": "/img/uploads/__purpuritamob.webp",
+          "img": "/img/uploads/__purpurita_agosto.webp",
+          "mobile_img": "/img/uploads/__purpurita_agosto-m.webp",
           "link": "https://www.minascristais.com.br/pedra-purpurita",
           "alt": "Purpurita a Pedra da Proteção Psíquica, compre online"
         },
         {
           "start": "2023-02-13T16:05:22.935Z",
           "end": "",
-          "img": "/img/uploads/atacado-abril.webp",
-          "mobile_img": "/img/uploads/atacado-abril-mobile.webp",
+          "img": "/img/uploads/__atacado-agosto.webp",
+          "mobile_img": "/img/uploads/__atacado-agosto_m.webp",
           "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
           "alt": "Cupom Atacado 50% de desconto nas compras a partir de R$1.000 "
         },
         {
           "start": "2023-04-05T03:53:43.167Z",
           "end": "",
-          "img": "/img/uploads/decore-abril.webp",
+          "img": "/img/uploads/decor.png",
           "link": "https://www.minascristais.com.br/decor-objetos-cristais",
           "alt": "Decore com Cristais ",
-          "mobile_img": "/img/uploads/decore-abril-mobile.webp"
+          "mobile_img": "/img/uploads/decor-m.png"
+        },
+        {
+          "start": "2023-08-03T04:10:27.401Z",
+          "end": "",
+          "img": "/img/uploads/__formatos.webp",
+          "link": "https://www.minascristais.com.br/cristaisepedras/",
+          "mobile_img": "/img/uploads/__formatos-m.webp"
         }
       ]
     },
@@ -54,30 +61,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
+      "collection_id": "639b494a4834634f73129e6d:collections:Presentes de R$100 a R$300:/pecas-presentes-minas-cristais",
       "sort": "sales",
-      "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida",
-      "title": "Descubra o encanto das Pedras Rosas e mergulhe na energia do amor e afeto."
+      "title": "Presentes Especiais ",
+      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "title": "Acessórios em Pedras ",
-      "link": "https://www.minascristais.com.br/acessorios"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6338a0e373321213f8975b9d:brands:Kits Revenda Minas Cristais:/kits-especiais-revenda-atacado",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
-      "title": "Kits Especiais de Revenda - confira *desconto não cumulativo"
+      "type": "responsive-banner",
+      "img": "/img/uploads/__atacado-agosto.webp",
+      "mobile_img": "/img/uploads/__atacado-agosto_m.webp",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
     {
       "type": "collection-shelf",
@@ -100,21 +93,6 @@
           "img": "/img/uploads/__depoimentos.webp",
           "mobile_img": "/img/uploads/__depoimentosmobile.webp",
           "alt": "Depoimentos #gratidao"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-09-08T01:51:16.880Z",
-          "end": "",
-          "img": "/img/uploads/lojasfisicas-minas2022.jpg",
-          "link": "https://www.minascristais.com.br/pages/contato",
-          "mobile_img": "/img/uploads/lojasfisicas-minascristais-mobile.jpg",
-          "alt": "Lojas Físicas - Minas Cristais | Sete Lagoas | Curvelo | Belo Horizonte"
         }
       ]
     },
