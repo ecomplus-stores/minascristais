@@ -20,6 +20,11 @@
       "offset": 0
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
