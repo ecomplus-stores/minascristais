@@ -14,7 +14,7 @@
     {
       "type": "collection-retail",
       "enabled": true,
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "info-bar",
