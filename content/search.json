@@ -11,6 +11,11 @@
       "sort": "name"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
