@@ -63,6 +63,26 @@
       "link": "https://www.minascristais.com.br/pedras-cor-rosa/"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/anel-ajustavel-losango-dourado.jpg",
+          "link": "https://www.minascristais.com.br/aneis/",
+          "alt": "Anéis"
+        },
+        {
+          "img": "/img/uploads/coracao-de-quartzo-rosa-extra-.jpg",
+          "alt": "https://www.minascristais.com.br/coracao/",
+          "link": "Corações"
+        },
+        {
+          "img": "/img/uploads/1684870071638-8e4da8577268419a2ffad8d5106a2540awsaccesskeyidakiatclmsgfx4j7tu445expires1685474858signatureypu2ixjbdnhg36vtp2n2r0edavq3d.jpg",
+          "alt": "https://www.minascristais.com.br/quartzo-aura-titanio/",
+          "link": "Quartzo Aura "
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -71,6 +91,16 @@
       "sort": "views",
       "link": "https://www.minascristais.com.br/agata-rosa",
       "title": "Ágata Rosa: Afeto e Harmonia"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
