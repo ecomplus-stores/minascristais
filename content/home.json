@@ -63,8 +63,27 @@
       "page": 1,
       "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
       "sort": "sales",
-      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
+      "link": "https://www.minascristais.com.br/pages/especial-presentes",
       "title": "Presentes Especiais "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+      "title": "Ofertas do Mês"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida",
+      "title": "Descubra o encanto das Pedras Rosas e mergulhe na energia do amor e afeto."
     },
     {
       "type": "collection-shelf",
@@ -75,6 +94,16 @@
       "sort": "news",
       "title": "Descubra o poder das Pedras Negras!",
       "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d07963422eeeee5adb:categories:Busque por Signos:/busque-por-signos/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pages/signos",
+      "title": "E﻿ncontre Pedras do Signos"
     },
     {
       "type": "responsive-banner",
