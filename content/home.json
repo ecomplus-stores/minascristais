@@ -136,6 +136,21 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__lojasfisicas-minascristais_2023.webp",
+          "mobile_img": "/img/uploads/__lojasfisicas-minascristais_2023.-m.webp",
+          "link": "https://minascristais.com.br/pages/contato",
+          "alt": "Visite nossas lojas físicas"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
