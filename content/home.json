@@ -136,6 +136,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -149,10 +153,6 @@
           "alt": "Visite nossas lojas físicas"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
