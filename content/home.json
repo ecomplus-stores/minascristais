@@ -86,6 +86,16 @@
       "title": "Em Oferta, vem aproveitar!"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d07963422eeeee5adb:categories:Busque por Signos:/busque-por-signos/",
+      "link": "https://www.minascristais.com.br/pages/signos",
+      "title": "Busque por Signo",
+      "sort": "views"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/__atacado-agosto.webp",
       "mobile_img": "/img/uploads/__atacado-agosto_m.webp",
