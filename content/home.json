@@ -77,6 +77,15 @@
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+      "title": "Em Oferta, vem aproveitar!"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/__atacado-agosto.webp",
       "mobile_img": "/img/uploads/__atacado-agosto_m.webp",
