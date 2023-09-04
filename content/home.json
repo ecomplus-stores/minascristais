@@ -51,30 +51,30 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035bb7963422eeeee5a98:categories:Pingentes:/pingentes-pedras/",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/pingentes-pedras/",
-      "title": "Pingentes em Diversas Pedras  "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
+      "collection_id": "620035d77963422eeeee5af0:categories:Pedras Amarelas | Laranjas:/pedras-cor-amarelo-alaranjado/",
       "sort": "news",
-      "title": "Os mais vendidos em Kits de Pedras e Cristais",
-      "link": "https://www.minascristais.com.br/kitspedras-esotericas"
+      "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
+      "title": "Pedras Amarelas : Conectadas à energia solar,disposição e foco."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "sales",
-      "title": "Os mais vendidos do mês",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
+      "sort": "news",
+      "title": "Compre por unidade variedade em cristais em diversos formatos",
+      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d47963422eeeee5ae8:categories:Pedras Pretas:/pedra-cor-preta/",
+      "sort": "news",
+      "title": "Descubra o poder das Pedras Negras!",
+      "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas"
     },
     {
       "type": "collection-shelf",
