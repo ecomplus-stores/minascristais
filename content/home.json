@@ -3,11 +3,19 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais no Varejo e Atacado envio para Todo Brasil e Exterior. LojasFísicas: Sete Lagoas, Curvelo e BH. Pronta Entrega.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__pedrasamarelas-dek-minascristais.webp",
-      "mobile_img": "/img/uploads/__pedrasamarelas-dek-minascristais_m.webp",
-      "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
-      "alt": "Pedras Amarelas : Conectadas à energia solar,disposição e foco."
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__pedrasamarelas-dek-minascristais.webp",
+          "mobile_img": "/img/uploads/__pedrasamarelas-dek-minascristais_m.webp",
+          "alt": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
+          "link": "Pedras Amarelas : Conectadas à energia solar,disposição e foco."
+        }
+      ]
     },
     {
       "type": "brands-carousel",
