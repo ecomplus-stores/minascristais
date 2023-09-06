@@ -3,42 +3,11 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais no Varejo e Atacado envio para Todo Brasil e Exterior. LojasFísicas: Sete Lagoas, Curvelo e BH. Pronta Entrega.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/__purpurita_agosto.webp",
-          "mobile_img": "/img/uploads/__purpurita_agosto-m.webp",
-          "link": "https://www.minascristais.com.br/pedra-purpurita",
-          "alt": "Purpurita a Pedra da Proteção Psíquica, compre online"
-        },
-        {
-          "start": "2023-02-13T16:05:22.935Z",
-          "end": "",
-          "img": "/img/uploads/__atacado-agosto.webp",
-          "mobile_img": "/img/uploads/__atacado-agosto_m.webp",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "Cupom Atacado 50% de desconto nas compras a partir de R$1.000 "
-        },
-        {
-          "start": "2023-04-05T03:53:43.167Z",
-          "end": "",
-          "img": "/img/uploads/decor.png",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
-          "alt": "Decore com Cristais ",
-          "mobile_img": "/img/uploads/decor-m.png"
-        },
-        {
-          "start": "2023-08-03T04:10:27.401Z",
-          "end": "",
-          "img": "/img/uploads/__formatos.webp",
-          "link": "https://www.minascristais.com.br/cristaisepedras/",
-          "mobile_img": "/img/uploads/__formatos-m.webp"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/__pedrasamarelas-dek-minascristais.webp",
+      "mobile_img": "/img/uploads/__pedrasamarelas-dek-minascristais_m.webp",
+      "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
+      "alt": "Pedras Amarelas : Conectadas à energia solar,disposição e foco."
     },
     {
       "type": "brands-carousel",
@@ -55,6 +24,21 @@
       "sort": "news",
       "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
       "title": "Pedras Amarelas : Conectadas à energia solar,disposição e foco."
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/pedras-cristais-minas-cristais-novidades.png",
+          "link": "https://www.minascristais.com.br/cristaisepedras/",
+          "alt": "Pedras e Cristais em diversos formatos com os melhores preços"
+        },
+        {
+          "img": "/img/uploads/__pedras-cristais-minas-cristais-descontos.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "Ofertas e Descontos em Pedras e Cristais"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -91,25 +75,30 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "title": "Em Oferta, vem aproveitar!"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "620035d07963422eeeee5adb:categories:Busque por Signos:/busque-por-signos/",
       "link": "https://www.minascristais.com.br/pages/signos",
       "title": "Busque por Signo",
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__atacado-agosto.webp",
-      "mobile_img": "/img/uploads/__atacado-agosto_m.webp",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__atacado-minascristais.webp",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "Atacado Minas Cristais"
+        },
+        {
+          "img": "/img/uploads/__kits-revenda-minascristais.webp",
+          "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
+          "alt": "Kits Revenda , desconto de até 30% em pedras e cristais"
+        },
+        {
+          "img": "/img/uploads/__pedras-cristais-compre-por-kg-minascristais.webp",
+          "link": "https://www.minascristais.com.br/kg-pedras-cristais",
+          "alt": "Pedras e Cristais em Diversos Formatos por KG"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
