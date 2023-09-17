@@ -90,7 +90,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
-      "sort": "news",
+      "sort": "sales",
       "title": "Compre por unidade : Variedade de Cristais em Diversos Formatos",
       "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
     },
@@ -100,7 +100,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035d47963422eeeee5ae8:categories:Pedras Pretas:/pedra-cor-preta/",
-      "sort": "sales",
+      "sort": "lowest_price",
       "title": "Descubra o poder das Pedras Negras!",
       "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas"
     },
@@ -112,7 +112,7 @@
       "collection_id": "620035d07963422eeeee5adb:categories:Busque por Signos:/busque-por-signos/",
       "link": "https://www.minascristais.com.br/pages/signos",
       "title": "Busque por Signo",
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -140,7 +140,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "views",
+      "sort": "sales",
       "title": "Atacado: 50% de desconto, confira as regras",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
