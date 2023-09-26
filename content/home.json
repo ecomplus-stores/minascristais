@@ -60,21 +60,6 @@
       "title": "Os mais pedidos do mês "
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/pedras-cristais-minas-cristais-novidades.png",
-          "link": "https://www.minascristais.com.br/cristaisepedras/",
-          "alt": "Pedras e Cristais em diversos formatos com os melhores preços"
-        },
-        {
-          "img": "/img/uploads/__pedras-cristais-minas-cristais-descontos.webp",
-          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "Ofertas e Descontos em Pedras e Cristais"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
