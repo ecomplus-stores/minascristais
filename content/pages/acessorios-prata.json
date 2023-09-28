@@ -1,0 +1,77 @@
+{
+  "title": "Acessórios & Prata",
+  "body": "**Acessórios & Prata**\n\nE﻿m diversas pedras naturais e cristais com os melhores preços para compor looks incríveis com a energia dos cristais.\n\nA﻿néis Ajustáveis, Brincos, Alianças de Pedras, Braceletes, Pulseiras e diversos pingentes.\n\nC﻿onfira e monte seu look.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035ce7963422eeeee5ad7:categories:Anéis:/aneis/",
+      "sort": "news",
+      "title": "Anéis diversos confira ",
+      "link": "https://www.minascristais.com.br/aneis/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035657963422eeeee5983:categories:Brincos:/bijuteriasesemijoias-brincos/",
+      "sort": "sales",
+      "title": "Brincos vem ver ",
+      "link": "https://www.minascristais.com.br/bijuteriasesemijoias-brincos/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200354b7963422eeeee58f5:categories:Braceletes e Pulseiras:/pulseiras/",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/pulseiras/",
+      "title": "Braceletes e Pulseiras"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200361e7963422eeeee5bea:categories:Correntes e Cordões:/correntes-e-cordoes/",
+      "sort": "views",
+      "title": "Cordões & Correntes",
+      "link": "https://www.minascristais.com.br/correntes-e-cordoes/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035bb7963422eeeee5a98:categories:Pingentes:/pingentes-pedras/",
+      "sort": "news",
+      "title": "Pingentes vem escolher ",
+      "link": "https://www.minascristais.com.br/pingentes-pedras/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
+      "sort": "sales",
+      "title": "Os queridinhos confira ",
+      "link": "https://www.minascristais.com.br/mix-acessorios"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    }
+  ],
+  "meta_title": "Acessórios & Prata ✨📿 Anéis, Brincos, Pulseiras e mais!",
+  "meta_description": " Acessórios em pedras naturais e cristais para um look cheio de energia e estilo. Anéis, brincos, pulseiras e mais!"
+}
