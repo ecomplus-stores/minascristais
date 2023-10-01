@@ -28,16 +28,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "title": " ✨Últimos dias! Peças com até 50% + 🎁brinde especial."
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
       "sort": "news",
       "link": "https://www.minascristais.com.br/pages/acessorios-prata",
