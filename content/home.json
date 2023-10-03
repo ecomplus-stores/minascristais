@@ -44,16 +44,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/pages/acessorios-prata",
-      "title": "Acessórios & Prata ✨📿 Anéis, Brincos, Pulseiras e mais!"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
       "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
@@ -64,10 +54,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
+      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
       "sort": "sales",
-      "title": "💎Compre por unidade: Variedade de Cristais em Diversos Formatos. Escolha os seus favoritos!",
-      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
+      "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida",
+      "title": "Pedras Rosas: Beleza e Energia 💖#outubrorosa"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/pages/acessorios-prata",
+      "title": "Acessórios & Prata ✨📿 Anéis, Brincos, Pulseiras e mais!"
     },
     {
       "type": "collection-shelf",
@@ -75,9 +75,19 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035d47963422eeeee5ae8:categories:Pedras Pretas:/pedra-cor-preta/",
-      "sort": "offers",
+      "sort": "news",
       "title": "Descubra o poder das Pedras Negras! 🖤✨",
       "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
+      "sort": "sales",
+      "title": "💎Compre por unidade: Variedade de Cristais em Diversos Formatos. Escolha os seus favoritos!",
+      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
     },
     {
       "type": "collection-shelf",
