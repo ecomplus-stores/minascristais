@@ -8,6 +8,22 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2023-10-03T16:51:46.785Z",
+          "end": "",
+          "img": "/img/uploads/__outrosa.webp",
+          "mobile_img": "/img/uploads/__outrosa_m.webp",
+          "alt": "Compre e Ganhe um Lindo Mini Coração de Quartzo Rosa",
+          "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+        },
+        {
+          "start": "2023-10-03T16:51:34.214Z",
+          "end": "",
+          "img": "/img/uploads/__vendedorout.webp",
+          "mobile_img": "/img/uploads/__vendedorout_m.webp",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "Revenda com 40% de desconto "
+        },
+        {
           "start": "2023-09-15T02:32:28.021Z",
           "end": "",
           "img": "/img/uploads/__purpurita_agosto.webp",
@@ -39,9 +55,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "😍🛍️Confira os queridinhos do mês! "
+      "title": "😍🛍️Compre e Ganhe #outubrorosa "
     },
     {
       "type": "collection-shelf",
@@ -49,7 +65,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
-      "sort": "views",
+      "sort": "sales",
       "title": "💎Compre por unidade: Variedade de Cristais em Diversos Formatos. Escolha os seus favoritos!",
       "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
     },
