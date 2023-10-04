@@ -4,6 +4,11 @@
   "meta_description": "Pedras e Cristais em Ofertas & Promoções ",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__outrosa.webp",
+      "mobile_img": "/img/uploads/__outrosa_m.webp"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
