@@ -37,7 +37,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "🎃15% OFF por tempo limitado 🔮"
     },
@@ -47,7 +47,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
-      "sort": "news",
+      "sort": "lowest_price",
       "link": "https://www.minascristais.com.br/pages/acessorios-prata",
       "title": "Acessórios & Prata ✨📿 Anéis, Brincos, Pulseiras e mais!"
     },
