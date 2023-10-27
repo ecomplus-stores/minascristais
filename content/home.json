@@ -39,17 +39,7 @@
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
       "sort": "sales",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "😍🛍️Compre e Ganhe #outubrorosa "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida",
-      "title": "Pedras Rosas: Beleza e Energia 💖#outubrorosa"
+      "title": "🎃15% OFF por tempo limitado 🔮"
     },
     {
       "type": "collection-shelf",
@@ -67,8 +57,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035d47963422eeeee5ae8:categories:Pedras Pretas:/pedra-cor-preta/",
-      "sort": "sales",
-      "title": "Descubra o poder das Pedras Negras! 🖤✨",
+      "sort": "lowest_price",
+      "title": "🧙🏻Descubra o poder das Pedras Negras! 🖤✨",
       "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas"
     },
     {
@@ -77,8 +67,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
-      "sort": "views",
-      "title": "💎Compre por unidade: Variedade de Cristais em Diversos Formatos. Escolha os seus favoritos!",
+      "sort": "lowest_price",
+      "title": "🎃💎Compre por unidade: Variedade de Cristais em Diversos Formatos. Escolha os seus favoritos!",
       "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
     },
     {
@@ -86,10 +76,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
+      "collection_id": "620035c87963422eeeee5ac2:categories:♏ Escorpião:/escorpiao/",
       "link": "https://www.minascristais.com.br/pages/signos",
-      "title": "Busque por Signo 🔮",
-      "sort": "offers"
+      "title": "🌔Busque por Signo 🔮",
+      "sort": "views"
     },
     {
       "type": "banners-grid",
