@@ -131,6 +131,50 @@
       "sort": "views",
       "link": "https://www.minascristais.com.br/grutas-capelas/",
       "title": "Grutas e Capelas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200355a7963422eeeee5945:categories:Ovais | Bolas | Esferas:/pedrasovais/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pedrasovais/",
+      "title": "Pedras Ovais  Bolas  Esferas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200355b7963422eeeee594f:categories:Pirâmides:/piramides/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/piramides/",
+      "title": "Pirâmides"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200355c7963422eeeee5958:categories:Pontas:/pontas/",
+      "sort": "views",
+      "title": "Pontas",
+      "link": "https://www.minascristais.com.br/pontas/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620036207963422eeeee5bee:categories:Pedras na Base:/pedras-na-base/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pedras-na-base/",
+      "title": "Pedras na Base"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
