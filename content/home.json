@@ -8,20 +8,20 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-10-03T16:51:46.785Z",
+          "start": "2023-11-01T02:00:30.213Z",
           "end": "",
-          "img": "/img/uploads/__d-diadasbruxas.webp",
-          "mobile_img": "/img/uploads/__mobile-diadasbruxas.webp",
-          "alt": "Compre e Ganhe um Lindo Mini Coração de Quartzo Rosa",
-          "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+          "img": "/img/uploads/__acessorios-nov.webp",
+          "link": "https://www.minascristais.com.br/acessorios",
+          "alt": "Acessórios em Pedras Naturais e Cristais ",
+          "mobile_img": "/img/uploads/__acessorios-nov-m.webp"
         },
         {
-          "start": "2023-09-15T02:32:28.021Z",
+          "start": "2023-11-01T02:01:24.356Z",
           "end": "",
-          "img": "/img/uploads/__purpurita_agosto.webp",
-          "mobile_img": "/img/uploads/__purpurita_agosto-m.webp",
-          "link": "https://www.minascristais.com.br/pedra-purpurita",
-          "alt": "até 50% de desconto nas Purpuritas"
+          "img": "/img/uploads/__destaquesmes.webp",
+          "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+          "alt": "Destaques do Mês Minas Cristais",
+          "mobile_img": "/img/uploads/__destaquesmes-m.webp"
         }
       ]
     },
@@ -36,68 +36,68 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "🎃15% OFF por tempo limitado 🔮"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
-      "sort": "lowest_price",
-      "link": "https://www.minascristais.com.br/pages/acessorios-prata",
-      "title": "Acessórios & Prata ✨📿 Anéis, Brincos, Pulseiras e mais!"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035d47963422eeeee5ae8:categories:Pedras Pretas:/pedra-cor-preta/",
-      "sort": "lowest_price",
-      "title": "🧙🏻Leve para sua casa o poder das Pedras Negras! 🖤✨",
-      "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
-      "sort": "lowest_price",
-      "title": "🎃💎Compre por unidade: Variedade de Cristais em Diversos Formatos. Escolha os seus favoritos!",
-      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035c87963422eeeee5ac2:categories:♏ Escorpião:/escorpiao/",
-      "link": "https://www.minascristais.com.br/pages/signos",
-      "title": "🌔Busque por Signo 🔮",
-      "sort": "views"
+      "collection_id": null,
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+      "title": "Descontos do Mês "
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__atacado-minascristais.webp",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "Atacado Minas Cristais"
-        },
-        {
-          "img": "/img/uploads/__kits-revenda-minascristais.webp",
-          "link": "https://www.minascristais.com.br/kits-especiais-revenda-atacado",
-          "alt": "Kits Revenda , desconto de até 30% em pedras e cristais"
-        },
-        {
-          "img": "/img/uploads/__pedras-cristais-compre-por-kg-minascristais.webp",
+          "img": "/img/uploads/__minascristais-kilo.webp",
           "link": "https://www.minascristais.com.br/kg-pedras-cristais",
-          "alt": "Pedras e Cristais em Diversos Formatos por KG"
+          "alt": "Pedras Naturais e Cristais por Kilo"
+        },
+        {
+          "img": "/img/uploads/__atacadominascristais.webp",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "50% Atacado e Revenda Minas Cristais"
+        },
+        {
+          "img": "/img/uploads/__formatos-minascristais.webp",
+          "link": "https://www.minascristais.com.br/formatos/",
+          "alt": "Busque por Formatos"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
+      "sort": "views",
+      "title": "Destaques do Mês",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035667963422eeeee5986:categories:Decoração e Objetos:/decor-objetos-cristais/",
+      "sort": "sales",
+      "title": "Decoração em Pedras e Cristais ",
+      "link": "https://www.minascristais.com.br/decor-objetos-cristais"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__corminascristais.webp",
+          "link": "https://www.minascristais.com.br/busque-por-cor/",
+          "alt": "Pedras e Cristais busque por cor "
+        },
+        {
+          "img": "/img/uploads/__ofertasminas.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "Ofertas Minas Cristais "
+        },
+        {
+          "img": "/img/uploads/__signominascristais.webp",
+          "link": "https://www.minascristais.com.br/pages/signos",
+          "alt": "Pedras e Cristais Busque por Signos"
         }
       ]
     },
@@ -112,26 +112,12 @@
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/__depoimentos.webp",
-          "mobile_img": "/img/uploads/__depoimentosmobile.webp",
-          "alt": "Depoimentos #gratidao"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "full_width": true,
       "slides": [
         {
