@@ -30,10 +30,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "title": "Descontos do Mês "
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "title": "Acessórios"
     },
     {
       "type": "collection-shelf",
