@@ -1,4 +1,78 @@
 {
-  "title": "Cadastro Recebido",
-  "body": "Cadastro Recebido"
+  "title": "Ofertas que Brilham - Minas Cristais - Black Friday 2023 ",
+  "body": "## **Ofertas que Brilham - Minas Cristais - Black Friday 2023** \n\n\n\nA﻿ partir de 19 de novembro de 2023. As melhores ofertas peças de qualidade Minas Cristais.",
+  "meta_title": "Ofertas que Brilham - Minas Cristais - Black Friday 2023 ",
+  "meta_description": "Ofertas que Brilham - Minas Cristais - Black Friday 2023 ",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "654ec3ca2cd6b65959a1c333:collections:10% OFF -Ofertas que Brilham:/10-off-ofertas-que-brilham",
+      "sort": "offers",
+      "title": "10% OFF - Ofertas que Brilham - Black Friday 2023 ",
+      "link": "https://www.minascristais.com.br/10-off-ofertas-que-brilham"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "654ecf602cd6b65959a1d3a9:collections:30% OFF - Ofertas que Brilham:/30-off-ofertas-que-brilham",
+      "sort": "offers",
+      "title": "30% OFF - Ofertas que Brilham veja todas",
+      "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "654ed20d2cd6b65959a1d658:collections:50% OFF - Ofertas que brilham:/50-off-ofertas-que-brilham",
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/50-off-ofertas-que-brilham",
+      "title": "50% OFF - Ofertas que Brilham "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
+      "sort": "offers",
+      "title": "Acessórios com até 50% de desconto ",
+      "link": "https://www.minascristais.com.br/acessorios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6514ef302cd6b65959610dee:brands:Corações:/coracoes-pedras",
+      "sort": "offers",
+      "title": "Corações com até 30% de desconto ",
+      "link": "https://www.minascristais.com.br/coracoes-pedras"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/pages/ofertas-promocoes\">Veja todas as ofertas</a></h4>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
+    }
+  ]
 }
