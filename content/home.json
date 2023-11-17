@@ -26,6 +26,12 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -44,11 +50,6 @@
       "sort": "news",
       "link": "https://www.minascristais.com.br/acessorios",
       "title": "Acessórios"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
     },
     {
       "type": "banners-grid",
