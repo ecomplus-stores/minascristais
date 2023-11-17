@@ -20,6 +20,23 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__acessorios.webp",
+          "link": "https://www.minascristais.com.br/acessorios"
+        },
+        {
+          "img": "/img/uploads/__massageadores.webp",
+          "link": "https://www.minascristais.com.br/massageadores-pedras-cristais"
+        },
+        {
+          "img": "/img/uploads/__coracoes.webp",
+          "link": "https://www.minascristais.com.br/coracoes-pedras"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
