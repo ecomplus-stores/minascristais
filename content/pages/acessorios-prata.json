@@ -70,6 +70,10 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ],
   "meta_title": "Acessórios & Prata ✨📿 Anéis, Brincos, Pulseiras e mais!",
