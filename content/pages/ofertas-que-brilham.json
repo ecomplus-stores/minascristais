@@ -96,6 +96,12 @@
       "sort": "offers"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/__unidades.webp",
       "mobile_img": "/img/uploads/__unidadesmobile.webp",
