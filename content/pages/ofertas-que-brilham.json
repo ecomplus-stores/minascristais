@@ -94,6 +94,16 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__unidades.webp",
+      "mobile_img": "/img/uploads/__unidadesmobile.webp",
+      "link": "https://minascristais.com.br/pages/contato"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
