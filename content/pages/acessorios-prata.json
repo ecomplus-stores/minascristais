@@ -12,7 +12,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035ce7963422eeeee5ad7:categories:Anéis:/aneis/",
-      "sort": "news",
+      "sort": "offers",
       "title": "Anéis diversos confira ",
       "link": "https://www.minascristais.com.br/aneis/"
     },
@@ -22,7 +22,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035657963422eeeee5983:categories:Brincos:/bijuteriasesemijoias-brincos/",
-      "sort": "sales",
+      "sort": "offers",
       "title": "Brincos vem ver ",
       "link": "https://www.minascristais.com.br/bijuteriasesemijoias-brincos/"
     },
@@ -32,7 +32,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200354b7963422eeeee58f5:categories:Braceletes e Pulseiras:/pulseiras/",
-      "sort": "news",
+      "sort": "offers",
       "link": "https://www.minascristais.com.br/pulseiras/",
       "title": "Braceletes e Pulseiras"
     },
@@ -42,7 +42,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200361e7963422eeeee5bea:categories:Correntes e Cordões:/correntes-e-cordoes/",
-      "sort": "views",
+      "sort": "offers",
       "title": "Cordões & Correntes",
       "link": "https://www.minascristais.com.br/correntes-e-cordoes/"
     },
@@ -52,7 +52,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035bb7963422eeeee5a98:categories:Pingentes:/pingentes-pedras/",
-      "sort": "news",
+      "sort": "offers",
       "title": "Pingentes vem escolher ",
       "link": "https://www.minascristais.com.br/pingentes-pedras/"
     },
@@ -62,7 +62,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
-      "sort": "sales",
+      "sort": "offers",
       "title": "Os queridinhos confira ",
       "link": "https://www.minascristais.com.br/mix-acessorios"
     },
