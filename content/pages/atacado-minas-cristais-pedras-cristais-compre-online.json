@@ -38,7 +38,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
+      "sort": "views",
       "title": "Pedras por kg ",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais"
     },
@@ -48,26 +48,26 @@
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "title": "Pedras Roladas, Brutas , Lapidadas em diversos formatos",
-      "link": "https://www.minascristais.com.br/cores-e-formatos/",
-      "collection_id": "620035497963422eeeee58ed:categories:Formatos:/formatos/"
+      "title": "Pedras Roladas",
+      "link": "https://www.minascristais.com.br/pedras-roladas/",
+      "collection_id": "620035637963422eeeee597a:categories:Pedras Roladas:/pedras-roladas/"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "621747bd7963422eee191ac6:brands:Pontas Minas Cristais:/drusas-pontas-minas-cristais",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/pontas/",
-      "title": "Pontas e Obeliscos "
+      "collection_id": "620035607963422eeeee596f:categories:Pedras Brutas:/pedras-brutas/",
+      "sort": "lowest_price",
+      "link": "https://www.minascristais.com.br/pedras-brutas/",
+      "title": "Pedras Brutas"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "collection_id": "6200355b7963422eeeee594f:categories:Pirâmides:/piramides/",
       "link": "https://www.minascristais.com.br/piramides/",
       "title": "Pirâmides em Pedras Diversas, confira"
@@ -87,6 +87,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6200355c7963422eeeee5958:categories:Pontas:/pontas/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pontas/",
+      "title": "Pontas veja aqui"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "620036057963422eeeee5b98:categories:Grutas | Capelas:/grutas-capelas/",
       "sort": "views",
       "link": "https://www.minascristais.com.br/grutas-capelas/",
@@ -98,7 +108,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035527963422eeeee5917:categories:Árvores:/arvores/",
-      "sort": "sales",
+      "sort": "views",
       "title": "Árvores de Pedras - veja mais",
       "link": "https://www.minascristais.com.br/arvores/"
     },
@@ -108,13 +118,19 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
+      "load_more": true,
+      "sort": "views"
     },
     {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__unidades.webp",
+      "mobile_img": "/img/uploads/__unidadesmobile.webp",
+      "link": "https://minascristais.com.br/pages/contato"
     },
     {
       "type": "info-bar",
