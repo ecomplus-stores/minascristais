@@ -23,7 +23,9 @@
     "pontas/",
     "formatos/",
     "casa/",
-    "decoracaoeutilidades/"
+    "decoracaoeutilidades/",
+    "tercos/",
+    "arvores/"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
