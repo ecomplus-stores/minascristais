@@ -5,6 +5,10 @@
   "meta_description": "Ofertas que Brilham - Minas Cristais - Black Friday 2023 ",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__bf-dd23.webp"
+    },
+    {
       "type": "page-title"
     },
     {
