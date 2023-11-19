@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "document-banner",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
