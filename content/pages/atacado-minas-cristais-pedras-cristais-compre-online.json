@@ -6,7 +6,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "full_width": true,
       "slides": [
         {
