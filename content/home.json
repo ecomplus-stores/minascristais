@@ -10,20 +10,54 @@
         {
           "start": "2023-11-01T02:01:24.356Z",
           "end": "",
-          "img": "/img/uploads/__destaquesmes.webp",
-          "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-          "alt": "Destaques do Mês Minas Cristais",
-          "mobile_img": "/img/uploads/__destaquesmes-m.webp"
-        },
-        {
-          "start": "2023-11-01T02:00:30.213Z",
-          "end": "",
-          "img": "/img/uploads/__acessorios-nov.webp",
-          "link": "https://www.minascristais.com.br/acessorios",
-          "alt": "Acessórios em Pedras Naturais e Cristais ",
-          "mobile_img": "/img/uploads/__acessorios-nov-m.webp"
+          "img": "/img/uploads/__bf2023-minascristais.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
+          "alt": "Ofertas que Brilham Minas Cristais",
+          "mobile_img": "/img/uploads/__bf2023-mobile.webp"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/colecao10-.png",
+          "link": "https://www.minascristais.com.br/10-off-ofertas-que-brilham",
+          "alt": "10% OFF - Ofertas que Brilham - Black Friday 2023"
+        },
+        {
+          "img": "/img/uploads/__30-colecao.webp",
+          "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham",
+          "alt": "Vem conferir nossas peças selecionadas com 30% de desconto"
+        },
+        {
+          "img": "/img/uploads/__colecao50-.webp",
+          "link": "https://www.minascristais.com.br/50-off-ofertas-que-brilham",
+          "alt": "Black Week da Minas Cristais! "
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__ofertasgeral.webp",
+      "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
+      "alt": "As melhores ofertas peças de qualidade Minas Cristais.",
+      "mobile_img": "/img/uploads/__ofertasgeral-mobile.webp"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "654ed20d2cd6b65959a1d658:collections:50% OFF - Ofertas que brilham:/50-off-ofertas-que-brilham",
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
+      "title": "Ofertas que Brilham com até 50% off, confira"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
     },
     {
       "type": "brands-carousel",
@@ -32,94 +66,27 @@
       "sort": "name"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035d67963422eeeee5aed:categories:Pedras Azuis:/pedra-cor-azul/",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais",
-      "title": "Descubra o Poder do Azul: Equilíbrio e Autoconhecimento.Medite, equilibre e transforme."
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "title": "Acessórios"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__minascristais-kilo.webp",
-          "link": "https://www.minascristais.com.br/kg-pedras-cristais",
-          "alt": "Pedras Naturais e Cristais por Kilo"
+          "img": "/img/uploads/acessorios.png",
+          "link": "https://www.minascristais.com.br/pages/acessorios-prata"
         },
         {
-          "img": "/img/uploads/__atacadominascristais.webp",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "50% Atacado e Revenda Minas Cristais"
+          "img": "/img/uploads/__massageadores.webp",
+          "link": "https://www.minascristais.com.br/massageadores-pedras-cristais"
         },
         {
-          "img": "/img/uploads/__formatos-minascristais.webp",
-          "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos",
-          "alt": "Busque por Formatos"
+          "img": "/img/uploads/__coracoes.webp",
+          "link": "https://www.minascristais.com.br/coracoes-pedras"
         }
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "views",
-      "title": "Destaques do Mês",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035667963422eeeee5986:categories:Decoração e Objetos:/decor-objetos-cristais/",
-      "sort": "views",
-      "title": "Decoração em Pedras e Cristais ",
-      "link": "https://www.minascristais.com.br/decor-objetos-cristais"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__corminascristais.webp",
-          "link": "https://www.minascristais.com.br/busque-por-cor/",
-          "alt": "Pedras e Cristais busque por cor "
-        },
-        {
-          "img": "/img/uploads/__ofertasminas.webp",
-          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "Ofertas Minas Cristais "
-        },
-        {
-          "img": "/img/uploads/__signominascristais.webp",
-          "link": "https://www.minascristais.com.br/pages/signos",
-          "alt": "Pedras e Cristais Busque por Signos"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "news",
-      "title": "🌟Revenda nossos produtos: Atacado com 50% de desconto! Confira as regras.",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
+      "type": "responsive-banner",
+      "img": "/img/uploads/__atacado.webp",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "mobile_img": "/img/uploads/__atacado-mobile.webp"
     },
     {
       "type": "responsive-banner",
