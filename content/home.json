@@ -38,13 +38,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__ofertasgeral.webp",
-      "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
-      "alt": "As melhores ofertas peças de qualidade Minas Cristais.",
-      "mobile_img": "/img/uploads/__ofertasgeral-mobile.webp"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -53,6 +46,13 @@
       "sort": "offers",
       "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
       "title": "Ofertas que Brilham com até 50% off, confira"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__ofertasgeral.webp",
+      "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
+      "alt": "As melhores ofertas peças de qualidade Minas Cristais.",
+      "mobile_img": "/img/uploads/__ofertasgeral-mobile.webp"
     },
     {
       "type": "dynamic-showcase",
@@ -84,16 +84,16 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__atacado.webp",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-      "mobile_img": "/img/uploads/__atacado-mobile.webp"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/__unidades.webp",
       "mobile_img": "/img/uploads/__unidadesmobile.webp",
       "link": "https://minascristais.com.br/pages/contato",
       "alt": "Lojas Físicas Minas Cristais - Unidades"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__atacado.webp",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "mobile_img": "/img/uploads/__atacado-mobile.webp"
     },
     {
       "type": "info-bar",
