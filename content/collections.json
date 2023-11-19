@@ -21,6 +21,17 @@
       "sort": "lowest_price"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__unidades.webp",
+      "mobile_img": "/img/uploads/__unidadesmobile.webp",
+      "link": "https://minascristais.com.br/pages/contato"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
