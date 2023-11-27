@@ -61,7 +61,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "654ed20d2cd6b65959a1d658:collections:50% OFF - Ofertas que brilham:/50-off-ofertas-que-brilham",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
       "title": "Ofertas que Brilham com até 50% off, confira"
     },
@@ -72,14 +72,14 @@
       "page": 1,
       "headless": true,
       "collection_id": "654ecf602cd6b65959a1d3a9:collections:30% OFF - Ofertas que Brilham:/30-off-ofertas-que-brilham",
-      "sort": "offers"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "654ec3ca2cd6b65959a1c333:collections:10% OFF -Ofertas que Brilham:/10-off-ofertas-que-brilham",
+      "collection_id": "6514ef302cd6b65959610dee:brands:Corações:/coracoes-pedras",
       "sort": "offers",
       "headless": true
     },
