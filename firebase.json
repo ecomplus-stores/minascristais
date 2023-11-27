@@ -7,6 +7,11 @@
         "type": 301
       },
       {
+        "source": "/anel-em-pedras",
+        "destination": "/anel-em-pedras-8001",
+        "type": 301
+      },
+      {
         "source": "/sitemaps/pages",
         "destination": "/sitemap.xml",
         "type": 301
