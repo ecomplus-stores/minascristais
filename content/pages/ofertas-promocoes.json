@@ -9,9 +9,10 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-11-19T03:37:39.545Z",
+          "start": "2023-11-27T03:08:54.217Z",
           "end": "",
-          "img": "/img/uploads/__bf-dd23.webp"
+          "img": "/img/uploads/__ultimodiadesktop.webp",
+          "mobile_img": "/img/uploads/__ultimodiamobile.webp"
         }
       ]
     },
@@ -25,6 +26,18 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-11-27T03:09:10.744Z",
+      "end": "2023-11-28T03:00:10.791Z",
+      "offers": [
+        "654122302cd6b6595991ec22",
+        "62a8d209eb8591121652de7f",
+        "627bedd03da6d37bc22e6aae",
+        "62004c837963422eeeeeaa1d"
+      ]
     },
     {
       "type": "dynamic-showcase",
