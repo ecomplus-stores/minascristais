@@ -66,16 +66,29 @@
       "title": "Ofertas que Brilham com até 50% off, confira"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "collection_id": "654ecf602cd6b65959a1d3a9:collections:30% OFF - Ofertas que Brilham:/30-off-ofertas-que-brilham",
+      "sort": "offers"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "654ec3ca2cd6b65959a1c333:collections:10% OFF -Ofertas que Brilham:/10-off-ofertas-que-brilham",
+      "sort": "offers",
+      "headless": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/__ofertageral-bf.webp",
       "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
       "alt": "As melhores ofertas peças de qualidade Minas Cristais.",
       "mobile_img": "/img/uploads/__ofertasgeral-mobile.webp"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
     },
     {
       "type": "banners-grid",
