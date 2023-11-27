@@ -8,13 +8,31 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-11-01T02:01:24.356Z",
+          "start": "2023-11-27T02:39:22.377Z",
           "end": "",
-          "img": "/img/uploads/__bf2023-minascristais.webp",
+          "img": "/img/uploads/__ultimodiadesktop.webp",
           "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
           "alt": "Ofertas que Brilham Minas Cristais",
-          "mobile_img": "/img/uploads/__bf2023-mobile.webp"
+          "mobile_img": "/img/uploads/__ultimodiamobile.webp"
         }
+      ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 25,
+      "start": "2023-11-27T02:39:35.192Z",
+      "end": "2023-11-28T03:00:35.246Z",
+      "offers": [
+        "620059607963422eeeeec327",
+        "632caa2973321213f8887cf8",
+        "624efc1b2e405e04ff2bb005",
+        "6203c8447963422eeef58cff"
       ]
     },
     {
@@ -58,12 +76,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
     },
     {
       "type": "banners-grid",
