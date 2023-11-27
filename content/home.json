@@ -36,26 +36,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/colecao10-.png",
-          "link": "https://www.minascristais.com.br/10-off-ofertas-que-brilham",
-          "alt": "10% OFF - Ofertas que Brilham - Black Friday 2023"
-        },
-        {
-          "img": "/img/uploads/__30-colecao.webp",
-          "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham",
-          "alt": "Vem conferir nossas peças selecionadas com 30% de desconto"
-        },
-        {
-          "img": "/img/uploads/__colecao50-.webp",
-          "link": "https://www.minascristais.com.br/50-off-ofertas-que-brilham",
-          "alt": "Black Week da Minas Cristais! "
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -104,6 +84,26 @@
         {
           "img": "/img/uploads/__coracoes.webp",
           "link": "https://www.minascristais.com.br/coracoes-pedras"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/colecao10-.png",
+          "link": "https://www.minascristais.com.br/10-off-ofertas-que-brilham",
+          "alt": "10% OFF - Ofertas que Brilham - Black Friday 2023"
+        },
+        {
+          "img": "/img/uploads/__30-colecao.webp",
+          "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham",
+          "alt": "Vem conferir nossas peças selecionadas com 30% de desconto"
+        },
+        {
+          "img": "/img/uploads/__colecao50-.webp",
+          "link": "https://www.minascristais.com.br/50-off-ofertas-que-brilham",
+          "alt": "Black Week da Minas Cristais! "
         }
       ]
     },
