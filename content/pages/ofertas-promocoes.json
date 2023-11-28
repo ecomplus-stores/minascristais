@@ -4,19 +4,6 @@
   "meta_description": "Pedras e Cristais em Ofertas & Promoções ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2023-11-27T03:08:54.217Z",
-          "end": "",
-          "img": "/img/uploads/__ultimodiadesktop.webp",
-          "mobile_img": "/img/uploads/__ultimodiamobile.webp"
-        }
-      ]
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -28,22 +15,10 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-11-27T03:09:10.744Z",
-      "end": "2023-11-28T03:00:10.791Z",
-      "offers": [
-        "654122302cd6b6595991ec22",
-        "62a8d209eb8591121652de7f",
-        "627bedd03da6d37bc22e6aae",
-        "62004c837963422eeeeeaa1d"
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
     }
   ],
-  "body": "# 🌟 Economize na Black Week da Minas Cristais! \n\n## 💎Ofertas que Brilham chegaram!\n\n#### Vem conferir nossas peças selecionadas com até 50% de desconto\n\nEstoque limitado. Ofertas não cumulativas com cupons.\n\nProdutos selecionados com **descontos incríveis para você** aproveitar.\n\n<!--StartFragment-->\n\nDescubra as melhores ofertas em cristais e pedras naturais da Minas Cristais. \n\n<!--EndFragment-->"
+  "body": "Descubra as melhores ofertas em cristais e pedras naturais da Minas Cristais."
 }
