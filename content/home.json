@@ -8,12 +8,19 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__destaquesmes.webp",
+          "mobile_img": "/img/uploads/__destaquesmes-m.webp",
+          "link": "https://www.minascristais.com.br/cristaisepedras/"
+        },
+        {
           "start": "2023-11-27T02:39:22.377Z",
           "end": "",
-          "img": "/img/uploads/__ultimodiadesktop.webp",
-          "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
-          "alt": "Ofertas que Brilham Minas Cristais",
-          "mobile_img": "/img/uploads/__ultimodiamobile.webp"
+          "img": "/img/uploads/__acessorios-nov.webp",
+          "link": "https://www.minascristais.com.br/acessorios",
+          "alt": "",
+          "mobile_img": "/img/uploads/__acessorios-nov-m.webp"
         }
       ]
     },
@@ -24,94 +31,9 @@
       "sort": "name"
     },
     {
-      "type": "offers-timer",
-      "max_hours": 25,
-      "start": "2023-11-27T02:39:35.192Z",
-      "end": "2023-11-28T03:00:35.246Z",
-      "offers": [
-        "620059607963422eeeeec327",
-        "632caa2973321213f8887cf8",
-        "624efc1b2e405e04ff2bb005",
-        "6203c8447963422eeef58cff"
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "654ed20d2cd6b65959a1d658:collections:50% OFF - Ofertas que brilham:/50-off-ofertas-que-brilham",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
-      "title": "Ofertas que Brilham com até 50% off, confira"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "headless": true,
-      "collection_id": "654ecf602cd6b65959a1d3a9:collections:30% OFF - Ofertas que Brilham:/30-off-ofertas-que-brilham",
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6514ef302cd6b65959610dee:brands:Corações:/coracoes-pedras",
-      "sort": "offers",
-      "headless": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__ofertageral-bf.webp",
-      "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
-      "alt": "As melhores ofertas peças de qualidade Minas Cristais.",
-      "mobile_img": "/img/uploads/__ofertasgeral-mobile.webp"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios.png",
-          "link": "https://www.minascristais.com.br/pages/acessorios-prata"
-        },
-        {
-          "img": "/img/uploads/__massageadores.webp",
-          "link": "https://www.minascristais.com.br/massageadores-pedras-cristais"
-        },
-        {
-          "img": "/img/uploads/__coracoes.webp",
-          "link": "https://www.minascristais.com.br/coracoes-pedras"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/colecao10-.png",
-          "link": "https://www.minascristais.com.br/10-off-ofertas-que-brilham",
-          "alt": "10% OFF - Ofertas que Brilham - Black Friday 2023"
-        },
-        {
-          "img": "/img/uploads/__30-colecao.webp",
-          "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham",
-          "alt": "Vem conferir nossas peças selecionadas com 30% de desconto"
-        },
-        {
-          "img": "/img/uploads/__colecao50-.webp",
-          "link": "https://www.minascristais.com.br/50-off-ofertas-que-brilham",
-          "alt": "Black Week da Minas Cristais! "
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__atacadook.webp",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-      "mobile_img": "/img/uploads/__atacado-mobile.webp"
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
