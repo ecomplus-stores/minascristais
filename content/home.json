@@ -8,19 +8,20 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2023-12-01T03:11:15.003Z",
           "end": "",
-          "img": "/img/uploads/__destaquesmes.webp",
-          "mobile_img": "/img/uploads/__destaquesmes-m.webp",
-          "link": "https://www.minascristais.com.br/cristaisepedras/"
+          "img": "/img/uploads/__dez.webp",
+          "mobile_img": "/img/uploads/__dezmobile.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "DOSE DUPLA DEZEMBRO DE PRESENTES COM FRETE GRÀTIS*"
         },
         {
-          "start": "2023-11-27T02:39:22.377Z",
+          "start": "2023-12-01T03:12:55.351Z",
           "end": "",
-          "img": "/img/uploads/__acessorios-nov.webp",
-          "link": "https://www.minascristais.com.br/acessorios",
-          "alt": "",
-          "mobile_img": "/img/uploads/__acessorios-nov-m.webp"
+          "img": "/img/uploads/__azul.webp",
+          "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais",
+          "alt": "Pedra 2024 : Sodalita,Lápis Lazuli,Quartzo Azul",
+          "mobile_img": "/img/uploads/__azulmobile.webp"
         }
       ]
     },
@@ -31,9 +32,71 @@
       "sort": "name"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__sodalita-2024.webp",
+          "link": "https://www.minascristais.com.br/sodalita/",
+          "alt": "Sodalita - Pedra 2024 "
+        },
+        {
+          "img": "/img/uploads/__lapislazuli-2024.webp",
+          "link": "https://www.minascristais.com.br/lapis-lazuli/",
+          "alt": "Lápis Lazuli - Pedra 2024"
+        },
+        {
+          "img": "/img/uploads/__quartzoazul-2024.webp",
+          "link": "https://www.minascristais.com.br/quartzo-azul/",
+          "alt": "quartzo azul -  pedra 2024"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d67963422eeeee5aed:categories:Pedras Azuis:/pedra-cor-azul/",
+      "sort": "sales",
+      "title": "Veja mais pedras azuis ",
+      "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
+      "title": "#dicasdepresentes #natal "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$50:/presentes-pedra-cristais",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/presentes-pedra-cristais",
+      "title": "#presentes até R$70 "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
+      "sort": "news",
+      "title": "Acessórios #monteseulook",
+      "link": "https://www.minascristais.com.br/mix-acessorios"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__atacadodez.webp",
+      "mobile_img": "/img/uploads/__atacadomobiledez.webp",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "alt": "Atacado e Revenda "
     },
     {
       "type": "collection-shelf",
@@ -41,9 +104,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
-      "title": "Compre no Atacado ",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
+      "sort": "news",
+      "title": "Pedras e Cristais por kg ",
+      "link": "https://www.minascristais.com.br/kg-pedras-cristais"
     },
     {
       "type": "responsive-banner",
