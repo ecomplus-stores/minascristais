@@ -1,0 +1,57 @@
+{
+  "title": "Runas Cigana",
+  "body": "# **Descubra o Poder das Runas Cigana na Sua Vida!**\n\nBem-vindo à **Minas Cristais**, o lugar onde a magia se encontra com a natureza, e as energias dos cristais se entrelaçam para criar algo verdadeiramente extraordinário. Apresentamos as Runas Cigana, um oráculo único que transcende o convencional, combinando a beleza do trabalho artesanal com a sabedoria do tarólogo renomado, **Gio Moura**.",
+  "meta_description": "Runas Cigana: Aprofunde-se nesse Oráculo com Gio Moura - Minas Cristais, Sua Jornada Espiritual Começa Agora!",
+  "meta_title": "Runas Cigana : Oráculo Fascinante - Aprofunde-se mais",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__1runascigana.webp"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__2runascigana.webp",
+          "link": "https://www.minascristais.com.br/runas-cigana"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__3runascigana.webp",
+          "link": "https://www.minascristais.com.br/runas-cigana"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__4runascigana.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__5runascigana.webp",
+          "link": "https://www.minascristais.com.br/runas-cigana"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__6runascigana.webp",
+          "link": "https://www.minascristais.com.br/runas-cigana"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__7runascigana.webp"
+        }
+      ]
+    }
+  ]
+}
