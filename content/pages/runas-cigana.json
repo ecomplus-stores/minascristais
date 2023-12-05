@@ -5,6 +5,10 @@
   "meta_title": "Runas Cigana : Oráculo Fascinante - Aprofunde-se mais",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/__1runascigana.webp"
     },
