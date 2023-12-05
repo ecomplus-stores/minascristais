@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<div class=\"sections pb-1 pb-sm-2 pb-lg-4\">\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.minascristais.com.br/runas-cigana\" aria-label=\"Runas Cigana em Pedras Roladas \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__2runascigana.png\" data-alt=\"Runas Cigana em Pedras Roladas\" data-loaded=\"true\"><source srcset=\"/img/uploads/__2runascigana.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__2runascigana.png\" media=\"\" type=\"image/png\"><img alt=\"Runas Cigana em Pedras Roladas\"></picture></a></center></div>\n</div></section>\n<h3> O que são Runas Cigana?</h3><br>\n<p>\nCompõe 22 peças com símbolos cuidadosamente esculpidas à mão, cada uma carregando a vibração única de um cristal. Estes não são apenas símbolos, são portais para a sabedoria e a orientação. As Runas Ciganas são mais do que meras ferramentas de adivinhação; são companheiras espirituais prontas para desvendar os segredos do seu caminho.</p> <br> \n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.minascristais.com.br/runas-cigana\" aria-label=\"Runas Cigana em Pedras Roladas \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__3runascigana.png\" data-alt=\"Runas Cigana em Pedras Roladas\" data-loaded=\"true\"><source srcset=\"/img/uploads/__3runascigana.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__3runascigana.png\" media=\"\" type=\"image/png\"><img alt=\"Runas Cigana em Pedras Roladas\"></picture></a></center></div>\n</div></section>\n\n<h3> Por que escolher as Runas Cristais da Minas?</h3><br>\n<p>\nAlém da qualidade artesanal incomparável, nossas Runas Cristais são carregadas com intenção positiva. Cada peça é um testemunho do nosso compromisso com a excelência e a autenticidade espiritual. Ao adquirir suas Runas Cigana na loja Minas, você está não apenas comprando um produto, mas investindo em uma conexão profunda com as forças naturais.</p> <br> \n<center><a href=\"https://www.minascristais.com.br/runas-cigana\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://cdn.ecvol.com/s/loja.robertaapreaatelie.com.br/uploads/wq.png\"></a></center>\n\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.minascristais.com.br/runas-cigana\" aria-label=\"Runas Cigana em Pedras Roladas \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__5runascigana.png\" data-alt=\"Runas Cigana em Pedras Roladas\" data-loaded=\"true\"><source srcset=\"/img/uploads/__5runascigana.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__5runascigana.png\" media=\"\" type=\"image/png\"><img alt=\"Runas Cigana em Pedras Roladas\"></picture></a></center></div>\n</div></section>\n\n\n<h3> Sua Jornada Começa Agora:</h3><br>\n<p>\nNão deixe essa oportunidade escapar. Descubra o poder das Runas Cristais e transforme sua vida. Explore nossa loja agora e escolha as peças que ressoam com você. Sua jornada de autodescoberta começa aqui, na Minas Cristais.\n</p> <br> \n<center><a href=\"https://www.minascristais.com.br/runas-cigana\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://cdn.ecvol.com/s/loja.robertaapreaatelie.com.br/uploads/wq.png\"></a></center>\n\n\n<div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.youtube.com/@mouratarot\" aria-label=\"Curso Online Runas Cigana com Gio Moura \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__4runascigana.png\" data-alt=\"Curso Online Runas Cigana com Gio Moura\" data-loaded=\"true\"><source srcset=\"/img/uploads/__4runascigana.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__4runascigana.png\" media=\"\" type=\"image/png\"><img alt=\"Curso Online Runas Cigana com Gio Moura\"></picture></a></center></div>\n</div></section>\n<h3> Quer aprimorar ainda mais seu conhecido, conheça O Curso Online com Gio Moura: </h3><br>\n<p>\nConduzido pelo renomado tarólogo Gio Moura, nosso curso de 3 meses é uma jornada profunda para compreender a linguagem das Runas Cigana. Gio não apenas compartilha seu vasto conhecimento, mas guia você na arte de interpretar essas peças incríveis. Prepare-se para uma transformação pessoal que irá além das previsões - será uma jornada de autoconhecimento.\n</p> <br> \n<center><a href=\"https://www.youtube.com/@mouratarot\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://cdn.ecvol.com/s/loja.robertaapreaatelie.com.br/uploads/wq.png\"></a></center>\n"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -51,6 +55,15 @@
           "end": "",
           "img": "/img/uploads/__7runascigana.webp"
         }
+      ]
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 300,
+      "start": "2023-12-05T18:39:14.235Z",
+      "end": "2024-01-31T18:38:56.772Z",
+      "offers": [
+        "64627a98a0e875411e8e85b5"
       ]
     }
   ]
