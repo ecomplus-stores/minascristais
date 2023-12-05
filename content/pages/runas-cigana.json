@@ -59,6 +59,12 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/_comprar-runascigana.webp",
+      "mobile_img": "/img/uploads/_comprar-runas-cigana-pedras-naturais-mobile.webp",
+      "link": "https://www.minascristais.com.br/runas-cigana"
+    },
+    {
       "type": "custom-content",
       "markdown": "<section><div class=\"responsive-baner my-3 my-lg-4\"><div class=\"container\"><center><div class=\"banner\"><a href=\"https://www.youtube.com/@mouratarot\" aria-label=\"Curso Online Runas Cigana com Gio Moura \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__4runascigana.png\" data-alt=\"Curso Online Runas Cigana com Gio Moura\" data-loaded=\"true\"><source srcset=\"/img/uploads/__4runascigana.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__4runascigana.png\" media=\"\" type=\"image/png\"><img alt=\"Curso Online Runas Cigana com Gio Moura\"></picture></a></center></div>\n</div></section>\n<center><h3> Quer aprimorar ainda mais seu conhecimento?\n  Conheça O Curso Online com Gio Moura: </h3><br>\n<p>\nConduzido pelo renomado tarólogo Gio Moura, nosso curso de 3 meses é uma jornada profunda para compreender a linguagem das Runas Cigana. Gio não apenas compartilha seu vasto conhecimento, mas guia você na arte de interpretar essas peças incríveis. Prepare-se para uma transformação pessoal que irá além das previsões - será uma jornada de autoconhecimento.\n</p></center> <br> \n<center><a href=\"https://www.youtube.com/@mouratarot\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\"https://cdn.ecvol.com/s/loja.robertaapreaatelie.com.br/uploads/wq.png\"></a></center>"
     },
