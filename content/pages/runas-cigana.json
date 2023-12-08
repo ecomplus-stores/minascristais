@@ -42,18 +42,6 @@
       "markdown": "<center><h3> Por que escolher as Runas Cigana da Minas?</h3><br>\n<p>\nAlém da qualidade artesanal incomparável, nossas Runas Cristais são carregadas com intenção positiva. Cada peça é um testemunho do nosso compromisso com a excelência e a autenticidade espiritual. Ao adquirir suas Runas Cigana na loja Minas, você está não apenas comprando um produto, mas investindo em uma conexão profunda com as forças naturais.</p></center> <br>"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__3runascigana.webp",
-          "link": "https://www.minascristais.com.br/runas-cigana"
-        },
-        {
-          "img": "/img/uploads/__5runascigana.webp"
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/_comprar-runascigana.webp",
       "mobile_img": "/img/uploads/_comprar-runas-cigana-pedras-naturais-mobile.webp",
