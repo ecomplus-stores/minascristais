@@ -4,7 +4,7 @@ module.exports = () => ({
   resolve: {
     alias: {
       './html/PointsApplier.html': path.resolve(__dirname, 'template/js/custom-js/html/PointsApplier.html'),
-      './js/PointsApplier.js': path.resolve(__dirname, 'template/js/custom-js/js/PointsApplier.js')
+      './html/APrices.html': path.resolve(__dirname, 'template/js/custom-js/html/APrices.html')
     }
   }
 })
