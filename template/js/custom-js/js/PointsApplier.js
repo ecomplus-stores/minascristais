@@ -37,7 +37,9 @@ export default {
   computed: {
     i19use$1LoyaltyPoints: () => i18n(i19use$1LoyaltyPoints),
     minimumValidation () {
-        return window.storefrontApp.amount.subtotal > 100
+        const amount = window.storefrontApp && window.storefrontApp.amount && window.storefrontApp.amount.subtotal
+        console.log(amount)
+        return amount > 100
     }
   },
 
