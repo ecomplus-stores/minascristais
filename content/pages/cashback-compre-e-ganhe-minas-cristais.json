@@ -4,7 +4,28 @@
   "meta_description": "Cashback - Compre e Ganhe Minas Cristais ",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
       "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
+    },
+    {
+      "type": "info-bar",
       "enabled": true
     }
   ],
