@@ -1,7 +1,7 @@
 <div class="points-applier">
     <div
       v-for="({ name }, programId) in localPointsPrograms"
-      v-if="availablePoints[programId] >= 0.1 && (maxPointsAmount * 2 > 100)"
+      v-if="availablePoints[programId] >= 0.1 && minimumValidation"
       class="custom-control custom-switch"
     >
       <input
