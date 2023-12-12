@@ -102,6 +102,15 @@
       "title": "#acessórios 💍Anéis, Pulseiras e mais"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": " #descontos 🎁 Ofertas *Frete Grátis e presente de Natal confira",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/__atacadodez.webp",
       "mobile_img": "/img/uploads/__atacadomobiledez.webp",
