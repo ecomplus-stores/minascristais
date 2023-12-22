@@ -4,19 +4,6 @@
   "meta_description": "Pedras e Cristais em Ofertas & Promoções ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2023-12-01T02:57:03.838Z",
-          "end": "",
-          "img": "/img/uploads/__dez.webp",
-          "mobile_img": "/img/uploads/__dezmobile.webp"
-        }
-      ]
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -33,5 +20,5 @@
       "sort": "offers"
     }
   ],
-  "body": "Dose dupla de presente para você!\n\n**Compre e Ganhe um presente surpresa** contendo uma pedra bruta , sem opção de escolha. Basta adicionar seus produtos ao carrinho e garantir esse mimo único.\n\n**E﻿special Dezembro 2023 por tempo limitado - Frete Grátis nas compras acima de R$300 até 5kg , válido para envio econômico .**\n\nA **Minas Cristais** deseja a você e sua família  **Boas Festas** e um **fim de ano** repleto de boas energias. Essa dupla promoção é uma forma de agradecer pela sua preferência como nosso cliente. \n\nNão perca a chance de encerrar o ano com presentes especiais e vibrações positivas. Faça suas compras agora e celebre com a Minas Cristais! \n\nDescubra as melhores ofertas em cristais e pedras naturais da Minas Cristais."
+  "body": "Dose dupla de presente para você!\n\n**Compre e Ganhe um presente surpresa** contendo uma pedra bruta , sem opção de escolha. Basta adicionar seus produtos ao carrinho e garantir esse mimo único.\n\nA **Minas Cristais** deseja a você e sua família  **Boas Festas** e um **fim de ano** repleto de boas energias. Essa dupla promoção é uma forma de agradecer pela sua preferência como nosso cliente. \n\nNão perca a chance de encerrar o ano com presentes especiais e vibrações positivas. Faça suas compras agora e celebre com a Minas Cristais! \n\nDescubra as melhores ofertas em cristais e pedras naturais da Minas Cristais."
 }
