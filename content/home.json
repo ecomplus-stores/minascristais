@@ -49,9 +49,9 @@
       "limit": 12,
       "page": 1,
       "sort": "offers",
-      "title": " #descontos 🎁 Ofertas ",
+      "title": " Confira descontos do mês ",
       "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/"
+      "collection_id": "620035607963422eeeee596f:categories:Pedras Brutas:/pedras-brutas/"
     },
     {
       "type": "collection-shelf",
@@ -59,9 +59,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-      "title": "#kitsdepedras - Comece 2024 com a energia dos cristais💙"
+      "title": "Kits de Pedras e Cristais 💙"
     },
     {
       "type": "collection-shelf",
@@ -69,7 +69,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62142dd97963422eee12b9d4:brands:Energia Minas Cristais:/purificacao-energizacao-cristais",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/purificacao-energizacao-cristais",
       "title": "Energia e Purificação - Leve seu cristal preferido! "
     },
@@ -79,7 +79,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200359f7963422eeeee5a3c:categories:Sodalita - Pedra de 2024:/sodalita/",
-      "sort": "views",
+      "sort": "news",
       "title": "Sodalita - Pedra de 2024 💎",
       "link": "https://www.minascristais.com.br/sodalita/"
     },
@@ -98,8 +98,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620036057963422eeeee5b98:categories:Grutas | Capelas:/grutas-capelas/",
-      "sort": "views",
+      "collection_id": "6211bbd67963422eee0eece9:brands:Decoração Minas Cristais:/decor-objetos-cristais",
+      "sort": "news",
       "title": "Decore e Energize com Peças de Cristais",
       "link": "https://www.minascristais.com.br/decor-objetos-cristais"
     },
