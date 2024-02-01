@@ -88,6 +88,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6200359d7963422eeeee5a35:categories:Selenita:/selenita/",
+      "sort": "views",
+      "title": "Selenita - Limpeza e Equilíbrio",
+      "link": "https://www.minascristais.com.br/selenita/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
       "sort": "sales",
       "link": "https://www.minascristais.com.br/quartzo-rosa/",
@@ -99,7 +109,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035d67963422eeeee5aed:categories:Pedras Azuis:/pedra-cor-azul/",
-      "sort": "offers",
+      "sort": "sales",
       "title": " 💎Pedras Azuis para seu dia a dia ",
       "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais"
     },
