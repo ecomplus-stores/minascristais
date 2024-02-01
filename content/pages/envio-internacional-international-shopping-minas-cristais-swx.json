@@ -1,0 +1,46 @@
+{
+  "title": "Envio Internacional  - International Shopping - Minas Cristais SWX",
+  "body": "## *Envio Internacional / International Shopping - Minas Cristais SWX*\n\nCompre suas peças e receba em qualquer lugar do mundo.\n\nNosso compromisso com a excelência é evidente em cada peça, onde a qualidade inigualável se une à paixão pela preservação da autenticidade das maravilhas da Terra. \n\n*Purchase your rocks and gems and have them delivered anywhere in the world.\nOur commitment to excellence is evident in every piece, which amazing quality meets a passion for preserving the authenticity of Earth's wonders.*",
+  "meta_title": "Pedras e Cristais Envio internacional - Discover High-Quality Brazilian Quartz and Crystals at Minas Cristais!",
+  "meta_description": "Descubra na Minas Cristais as mais belas pedras e cristais a preços incríveis, qualidade superior e envio internacional. Compre via WhatsApp. Explore Minas Cristais for the most beautiful stones and crystals at amazing prices, superior quality, and international shipping. Purchase through WhatsApp",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/minas-cristais.jpg",
+      "link": "https://wa.me/553171244130",
+      "alt": "Compre pelo whatsapp - envio internacional"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<center><i class=\"i-whatsapp\"></i><a href=\" https://wa.me/553171244130  \" class=\"bt\" target=\"_blank\">COMPRAR/ BUY VIA WHATSAPP \n\n</a></center>\n\n<﻿br> <!--StartFragment-->\n\n**Nossa equipe de especialistas estará à disposição para compartilhar conhecimentos sobre as propriedades únicas de cada peça.**\n\n<!--EndFragment-->\n\n![](/img/uploads/cat-minerals.jpg)\n\n<!--StartFragment-->\n\n**Nossa equipe terá o prazer de fornecer todas as informações necessárias, orientá-lo nas opções de pagamento e garantir que sua escolha seja entregue com segurança em sua casa.**\n\n*Our team of experts is available to share knowledge about the unique properties of each piece.*\n\n<﻿br> <center><i class=\"i-whatsapp\"></i><a href=\" https://wa.me/553171244130  \" class=\"bt\" target=\"_blank\">COMPRAR/ BUY VIA WHATSAPP \n\n</a></center><br>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-kits.jpg",
+          "link": "https://wa.me/553171244130"
+        },
+        {
+          "img": "/img/uploads/banners-show.jpg",
+          "link": "https://wa.me/553171244130"
+        },
+        {
+          "img": "/img/uploads/banner-our-products.jpg",
+          "link": "https://wa.me/553171244130"
+        }
+      ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
