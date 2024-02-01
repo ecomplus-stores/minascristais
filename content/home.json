@@ -58,30 +58,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-      "title": "Kits de Pedras e Cristais 💙"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200354c7963422eeeee58fb:categories:Esotéricos:/esotericos/",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/esotericos/",
-      "title": "Energia e Purificação - Leve seu cristal preferido! "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200359f7963422eeeee5a3c:categories:Sodalita - Pedra de 2024:/sodalita/",
+      "collection_id": "620035747963422eeeee59ae:categories:Cianita Azul (Anjo arcanjo Miguel):/cianita-azul/",
       "sort": "sales",
-      "title": "Sodalita - Pedra de 2024 💎",
-      "link": "https://www.minascristais.com.br/sodalita/"
+      "title": "Cianita Azul - Vibrações e Proteção para um novo mês",
+      "link": "https://www.minascristais.com.br/cianita-azul/"
     },
     {
       "type": "collection-shelf",
@@ -98,10 +78,30 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035527963422eeeee5917:categories:Árvores:/arvores/",
+      "collection_id": "6200356d7963422eeeee599d:categories:Ametista:/ametista/",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/ametista/",
+      "title": "Ametista 💜Auxílio na Meditação"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
       "sort": "sales",
-      "title": "Decore e Energize com Peças de Cristais",
-      "link": "https://www.minascristais.com.br/decor-objetos-cristais"
+      "link": "https://www.minascristais.com.br/quartzo-rosa/",
+      "title": "Quartzo Rosa 💖Fortaleça Laços Afetivos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d67963422eeeee5aed:categories:Pedras Azuis:/pedra-cor-azul/",
+      "sort": "offers",
+      "title": " 💎Pedras Azuis para seu dia a dia ",
+      "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais"
     },
     {
       "type": "responsive-banner",
@@ -116,7 +116,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
+      "sort": "news",
       "title": "#revenda #atacado ✨Pedras e Cristais por kg ",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais"
     },
