@@ -24,26 +24,6 @@
       "sort": "name"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__sodalita-2024.webp",
-          "link": "https://www.minascristais.com.br/sodalita/",
-          "alt": "Sodalita - Pedra 2024 "
-        },
-        {
-          "img": "/img/uploads/__lapislazuli-2024.webp",
-          "link": "https://www.minascristais.com.br/lapis-lazuli/",
-          "alt": "Lápis Lazuli - Pedra 2024"
-        },
-        {
-          "img": "/img/uploads/__quartzoazul-2024.webp",
-          "link": "https://www.minascristais.com.br/quartzo-azul/",
-          "alt": "quartzo azul -  pedra 2024"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
