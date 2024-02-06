@@ -76,7 +76,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
-      "sort": "sales",
+      "sort": "lowest_price",
       "link": "https://www.minascristais.com.br/quartzo-rosa/",
       "title": "Quartzo Rosa 💖Fortaleça Laços Afetivos"
     },
@@ -103,7 +103,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "news",
+      "sort": "views",
       "title": "#revenda #atacado ✨Pedras e Cristais por kg ",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais"
     },
