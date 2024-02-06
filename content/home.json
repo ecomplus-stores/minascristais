@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__energizantes_d.webp",
+          "mobile_img": "/img/uploads/__energia-das-pedras.webp",
+          "link": "https://www.minascristais.com.br/purificacao-energizacao-cristais"
+        },
+        {
           "start": "2023-12-01T03:12:55.351Z",
           "end": "",
           "img": "/img/uploads/__azul.webp",
