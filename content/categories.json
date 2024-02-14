@@ -1,18 +1,22 @@
 {
   "sections": [
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
-    },
-    {
       "type": "document-banner",
       "enabled": true
     },
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Navegue também por :"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
     },
     {
       "type": "page-title"
