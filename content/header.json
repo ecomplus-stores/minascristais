@@ -30,7 +30,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/cristaisepedras/?Cristais e Pedras",
+      "/acessorios?Acessórios",
+      "/esotericos/?Esotéricos",
+      "/decor-objetos-cristais?Decoração Minas Cristais"
+    ],
     "random": 8,
     "full_width": true
   },
