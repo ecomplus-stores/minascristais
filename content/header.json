@@ -36,7 +36,7 @@
       "/esotericos/?Esotéricos",
       "/decor-objetos-cristais?Decoração Minas Cristais"
     ],
-    "random": 8,
+    "random": 4,
     "full_width": true
   },
   "search_input": true,
