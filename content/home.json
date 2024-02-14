@@ -56,8 +56,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035747963422eeeee59ae:categories:Cianita Azul (Anjo arcanjo Miguel):/cianita-azul/",
-      "sort": "views",
-      "title": "Cianita Azul - Vibrações e Proteção para um novo mês",
+      "sort": "sales",
+      "title": "Cianita Azul - Vibrações e Proteção - Pedra de Arcanjo Miguel",
       "link": "https://www.minascristais.com.br/cianita-azul/"
     },
     {
@@ -75,20 +75,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
+      "collection_id": "6200359b7963422eeeee5a2d:categories:Quartzo Verde:/quartzo-verde/",
       "sort": "lowest_price",
-      "link": "https://www.minascristais.com.br/quartzo-rosa/",
-      "title": "Quartzo Rosa 💖Fortaleça Laços Afetivos"
+      "link": "https://www.minascristais.com.br/quartzo-verde/",
+      "title": "Quartzo Verde - Equilíbrio Mental e Físico."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200359d7963422eeeee5a35:categories:Selenita:/selenita/",
+      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
       "sort": "sales",
-      "title": "Selenita - Limpeza e Equilíbrio",
-      "link": "https://www.minascristais.com.br/selenita/"
+      "title": "As mais desejadas",
+      "link": "https://www.minascristais.com.br/cristaisepedras/"
     },
     {
       "type": "responsive-banner",
