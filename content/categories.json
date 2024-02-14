@@ -1,6 +1,12 @@
 {
   "sections": [
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "document-banner",
       "enabled": true
     },
@@ -19,12 +25,6 @@
     {
       "type": "document-description",
       "enabled": true
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name"
     },
     {
       "type": "info-bar",
