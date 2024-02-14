@@ -1,0 +1,113 @@
+{
+  "title": "Pedras & Cristais - Cores ",
+  "meta_title": "Pedras & Cristais - Cores - Cristais e Cores: Energia em Harmonia!",
+  "meta_description": "Pedras & Cristais - Cores - Cristais Coloridos: Energia e Beleza em Sintonia!",
+  "body": "Em um universo vibrante de cores e significados, os cristais e pedras naturais se destacam não apenas pela sua beleza, mas também pela energia única que cada uma carrega. Na jornada de descoberta e autoconhecimento, essas preciosidades se tornam aliadas essenciais, oferecendo não apenas um toque de beleza, mas também uma fonte inesgotável de inspiração e equilíbrio.\n\nAs cores desempenham um papel fundamental na escolha de um cristal ou pedra, pois cada tonalidade está associada a significados e energias específicas. O verde, por exemplo, está relacionado à cura e ao crescimento pessoal, enquanto o azul é símbolo de tranquilidade e comunicação. Já o roxo representa espiritualidade e intuição, e o rosa, amor e harmonia.\n\nNossa missão é proporcionar a você uma experiência única, onde você possa explorar o mundo fascinante dos cristais e encontrar aquele que ressoa perfeitamente com a sua energia e intenção.\n\nDescubra o poder das cores e dos cristais na sua vida e permita-se mergulhar nesse universo mágico de energia e beleza.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d67963422eeeee5aed:categories:Pedras Azuis:/pedra-cor-azul/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais",
+      "title": "Pedras Azuis : Conheça os Benefícios e Significados desses Cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d77963422eeeee5af0:categories:Pedras Amarelas | Laranjas:/pedras-cor-amarelo-alaranjado/",
+      "sort": "views",
+      "title": "Cristais Amarelos e Laranjas",
+      "link": "https://www.minascristais.com.br/pedras-cor-amarelo-alaranjado/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
+      "sort": "views",
+      "title": "Pedras Rosas",
+      "link": "https://www.minascristais.com.br/pedras-cor-rosa/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d47963422eeeee5ae8:categories:Pedras Pretas:/pedra-cor-preta/",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035db7963422eeeee5afc:categories:Pedras Marrom:/pedras-cor-marrom/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pedras-cor-marrom/",
+      "title": "Pedras Marrom"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d87963422eeeee5af3:categories:Pedras Vermelhas:/pedras-cor-vermelha/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pedras-cor-vermelha/",
+      "title": "Pedras Vermelhas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d97963422eeeee5af6:categories:Pedras Verdes:/pedras-cor-verde/",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/pedras-cor-verde/",
+      "title": "Pedras Verdes"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035d37963422eeeee5ae6:categories:Pedras Brancas e Cinzas | Pratas:/pedras-cor-branca/",
+      "sort": "views",
+      "title": "Pedras Brancas , Cinzas e Pratas",
+      "link": "https://www.minascristais.com.br/pedras-cor-branca/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035da7963422eeeee5af8:categories:Pedras Lilás | Roxas:/pedras-cor-lilas/",
+      "sort": "views",
+      "title": "Pedras Lilás e Roxas",
+      "link": "https://www.minascristais.com.br/pedras-cor-lilas/"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
