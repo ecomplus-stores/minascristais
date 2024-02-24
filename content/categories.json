@@ -1,11 +1,23 @@
 {
   "sections": [
     {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "news"
+    },
+    {
       "type": "document-banner",
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
+      "type": "document-description",
       "enabled": true
     },
     {
@@ -17,18 +29,6 @@
       "limit": 24,
       "offset": 0,
       "sort": "name"
-    },
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "category-retail",
-      "enabled": true,
-      "sort": "news"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     },
     {
       "type": "info-bar",
