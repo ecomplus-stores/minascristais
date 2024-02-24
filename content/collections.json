@@ -21,9 +21,22 @@
       "sort": "news"
     },
     {
+      "type": "page-title",
+      "title": "Navegue também por :"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Sim! Temos Descontos por aqui, vem conferir: ",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
     },
     {
       "type": "responsive-banner",
