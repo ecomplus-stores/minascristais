@@ -17,9 +17,17 @@
       "sort": "news"
     },
     {
+      "type": "page-title",
+      "title": "Navegue também por :"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "page-title",
+      "title": "Veja as Novidades por aqui: "
     },
     {
       "type": "dynamic-showcase",
