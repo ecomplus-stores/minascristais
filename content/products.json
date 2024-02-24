@@ -22,17 +22,25 @@
     },
     {
       "type": "related-products",
-      "title": "Produtos relacionados"
+      "title": "Você também pode gostar: "
     },
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
     },
     {
+      "type": "page-title",
+      "title": "Navegue também por :"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "sort": "name"
+    },
+    {
+      "type": "page-title",
+      "title": "Acabaram de chegar: "
     },
     {
       "type": "dynamic-showcase",
