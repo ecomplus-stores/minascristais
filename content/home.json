@@ -8,19 +8,19 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-03-04T18:02:11.320Z",
+          "end": "",
+          "img": "/img/uploads/__novoscombos-marco.webp",
+          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
+          "alt": "NOVOS COMBOS MINAS CRISTAIS",
+          "mobile_img": "/img/uploads/__mobile-_marco-bombo.webp"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/__energizantes_d.webp",
           "mobile_img": "/img/uploads/__energia-das-pedras.webp",
           "link": "https://www.minascristais.com.br/purificacao-energizacao-cristais"
-        },
-        {
-          "start": "2023-12-01T03:12:55.351Z",
-          "end": "",
-          "img": "/img/uploads/__azul.webp",
-          "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais",
-          "alt": "Pedra 2024 : Sodalita,Lápis Lazuli,Quartzo Azul",
-          "mobile_img": "/img/uploads/__azulmobile.webp"
         }
       ]
     },
