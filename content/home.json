@@ -41,54 +41,13 @@
       "collection_id": "65ea802087ab487fbfdb6f60:collections:Acessórios com Desconto Especial:/desconto-em-acessorios"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62142dd97963422eee12b9d4:brands:Energia Minas Cristais:/purificacao-energizacao-cristais",
-      "sort": "views",
-      "title": " 💎Energia das Pedras e Cristais ",
-      "link": "https://www.minascristais.com.br/purificacao-energizacao-cristais"
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\">\n  <a href=\"https://www.minascristais.com.br/pages/ofertas-promocoes\">\n  💎Veja mais Ofertas</a></h4>"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
-      "sort": "news",
-      "title": "KITS DE PEDRAS E CRISTAIS ",
-      "link": "https://www.minascristais.com.br/kitspedras-esotericas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63af7f934834634f73244349:brands:Pirâmides Minas Cristais:/piramides-orgonites",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/piramides-orgonites",
-      "title": "💜Pirâmides e Orgonites "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211bbd67963422eee0eece9:brands:Decoração:/decor-objetos-cristais",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/decor-objetos-cristais",
-      "title": "Decoração e Objetos em Pedras e Cristais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
-      "sort": "views",
-      "title": "As mais desejadas",
-      "link": "https://www.minascristais.com.br/cristaisepedras/"
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
     },
     {
       "type": "responsive-banner",
