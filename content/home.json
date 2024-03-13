@@ -10,25 +10,10 @@
         {
           "start": "2024-03-08T04:04:58.115Z",
           "end": "",
-          "img": "/img/uploads/ok_marco-acessoriosminascristais.png",
-          "link": "https://www.minascristais.com.br/desconto-em-acessorios",
-          "alt": "15% OFF - Acessórios",
-          "mobile_img": "/img/uploads/ok_mobile-_marco-acessoriosminascristais.webp"
-        },
-        {
-          "start": "2024-03-04T18:02:11.320Z",
-          "end": "",
-          "img": "/img/uploads/__novoscombos-marco.webp",
-          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-          "alt": "NOVOS COMBOS MINAS CRISTAIS",
-          "mobile_img": "/img/uploads/__mobile-_marco-bombo.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/__energizantes_d.webp",
-          "mobile_img": "/img/uploads/__energia-das-pedras.webp",
-          "link": "https://www.minascristais.com.br/purificacao-energizacao-cristais"
+          "img": "/img/uploads/__semanaconsumidor-minascristais.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "Especial Mês do Consumidor",
+          "mobile_img": "/img/uploads/__semanaconsumidor-minascristais-mobile.webp"
         }
       ]
     },
@@ -39,6 +24,26 @@
       "sort": "name"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__acessorios15off.webp",
+          "link": "https://www.minascristais.com.br/desconto-em-acessorios",
+          "alt": "Acessórios em Cristais com 15% off"
+        },
+        {
+          "img": "/img/uploads/__30off-combocristais.webp",
+          "link": "https://www.minascristais.com.br/combos-cristais-pedras-off",
+          "alt": "30%off em Combos de Pedras e Cristais"
+        },
+        {
+          "img": "/img/uploads/__15offpecas-cristais.webp",
+          "link": "https://www.minascristais.com.br/15-off-pecas-diversas",
+          "alt": "15% off Peças Minas Cristais"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -47,15 +52,6 @@
       "title": "15% OFF em Acessórios - Semana da Consumidor",
       "link": "https://www.minascristais.com.br/desconto-em-acessorios",
       "collection_id": "65ea802087ab487fbfdb6f60:collections:Acessórios com Desconto Especial:/desconto-em-acessorios"
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\">\n  <a href=\"https://www.minascristais.com.br/pages/ofertas-promocoes\">\n  💎Veja mais Ofertas</a></h4>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
     },
     {
       "type": "responsive-banner",
