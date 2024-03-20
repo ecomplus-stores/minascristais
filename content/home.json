@@ -49,7 +49,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65f12b9987ab487fbfe2f981:collections:Combos em Cristais e Pedras 30% off:/combos-cristais-pedras-off",
-      "sort": "news",
+      "sort": "sales",
       "title": "Combos e Kits de Pedras com 30% de desconto, vem conferir",
       "link": "https://www.minascristais.com.br/combos-cristais-pedras-off"
     },
@@ -59,7 +59,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65f128cb87ab487fbfe2f8e7:collections:15% OFF - Peças Diversas:/15-off-pecas-diversas",
-      "sort": "sales",
+      "sort": "news",
       "title": "Peças em Cristais e Pedras com 15% off, vem conferir",
       "link": "https://www.minascristais.com.br/15-off-pecas-diversas"
     },
@@ -68,8 +68,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "title": "15% OFF em Acessórios - Semana da Consumidor",
+      "sort": "sales",
+      "title": "15% OFF em Acessórios - Mês do Consumidor continua com descontos!",
       "link": "https://www.minascristais.com.br/desconto-em-acessorios",
       "collection_id": "65ea802087ab487fbfdb6f60:collections:Acessórios com Desconto Especial:/desconto-em-acessorios"
     },
