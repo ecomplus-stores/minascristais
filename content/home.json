@@ -49,7 +49,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65f12b9987ab487fbfe2f981:collections:Combos em Cristais e Pedras 30% off:/combos-cristais-pedras-off",
-      "sort": "sales",
+      "sort": "news",
       "title": "Combos e Kits de Pedras com 30% de desconto, vem conferir",
       "link": "https://www.minascristais.com.br/combos-cristais-pedras-off"
     },
@@ -59,7 +59,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65f128cb87ab487fbfe2f8e7:collections:15% OFF - Peças Diversas:/15-off-pecas-diversas",
-      "sort": "news",
+      "sort": "sales",
       "title": "Peças em Cristais e Pedras com 15% off, vem conferir",
       "link": "https://www.minascristais.com.br/15-off-pecas-diversas"
     },
@@ -68,7 +68,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "views",
       "title": "15% OFF em Acessórios - Mês do Consumidor continua com descontos!",
       "link": "https://www.minascristais.com.br/desconto-em-acessorios",
       "collection_id": "65ea802087ab487fbfdb6f60:collections:Acessórios com Desconto Especial:/desconto-em-acessorios"
@@ -79,7 +79,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65f243ef87ab487fbfe4c622:collections:Para Colecionadores - Raridades e Colecionáveis:/cristais-colecionaveis-raridades",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/cristais-colecionaveis-raridades",
       "title": "Peças Raras e Únicas - Minerais e Pedras Naturais"
     },
