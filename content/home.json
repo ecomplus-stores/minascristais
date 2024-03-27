@@ -48,10 +48,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
       "sort": "news",
       "title": "Acabaram de chegar!",
-      "link": "https://www.minascristais.com.br/bijuteriasesemijoias-brincos/"
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
       "type": "collection-shelf",
@@ -60,7 +60,7 @@
       "page": 1,
       "collection_id": "65f128cb87ab487fbfe2f8e7:collections:15% OFF - Peças Diversas:/15-off-pecas-diversas",
       "sort": "sales",
-      "title": "Peças em Cristais e Pedras com 15% off, vem conferir",
+      "title": "Últimos dias de 15% off em Peças Selecionadas",
       "link": "https://www.minascristais.com.br/15-off-pecas-diversas"
     },
     {
@@ -68,10 +68,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
-      "title": "15% OFF em Acessórios - Mês do Consumidor continua com descontos!",
-      "link": "https://www.minascristais.com.br/desconto-em-acessorios",
-      "collection_id": "65ea802087ab487fbfdb6f60:collections:Acessórios com Desconto Especial:/desconto-em-acessorios"
+      "sort": "news",
+      "title": "Os Destaques do Mês",
+      "link": "https://www.minascristais.com.br/cristaisepedras/",
+      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/"
     },
     {
       "type": "collection-shelf",
@@ -79,7 +79,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65f243ef87ab487fbfe4c622:collections:Para Colecionadores - Raridades e Colecionáveis:/cristais-colecionaveis-raridades",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/cristais-colecionaveis-raridades",
       "title": "Peças Raras e Únicas - Minerais e Pedras Naturais"
     },
