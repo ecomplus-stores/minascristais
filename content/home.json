@@ -8,12 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-03-08T04:04:58.115Z",
+          "start": "2024-03-31T20:14:08.164Z",
           "end": "",
-          "img": "/img/uploads/__semanaconsumidor-minascristais.webp",
-          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "Especial Mês do Consumidor",
-          "mobile_img": "/img/uploads/__semanaconsumidor-minascristais-mobile.webp"
+          "img": "/img/uploads/__prata.webp",
+          "link": "https://www.minascristais.com.br/prata",
+          "alt": "Brincos em Prata 925 , diversos modelos",
+          "mobile_img": "/img/uploads/__prata-m-abril.webp"
         }
       ]
     },
@@ -27,19 +27,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__acessorios15off.webp",
-          "link": "https://www.minascristais.com.br/desconto-em-acessorios",
-          "alt": "Acessórios em Cristais com 15% off"
+          "img": "/img/uploads/__ambar.webp",
+          "link": "https://www.minascristais.com.br/ambar/",
+          "alt": "Âmbar - Novas Peças"
         },
         {
-          "img": "/img/uploads/__30off-combocristais.webp",
-          "link": "https://www.minascristais.com.br/combos-cristais-pedras-off",
-          "alt": "30%off em Combos de Pedras e Cristais"
-        },
-        {
-          "img": "/img/uploads/__15offpecas-cristais.webp",
-          "link": "https://www.minascristais.com.br/15-off-pecas-diversas",
-          "alt": "15% off Peças Minas Cristais"
+          "img": "/img/uploads/__pontas.webp",
+          "link": "https://www.minascristais.com.br/pontas/",
+          "alt": "Pontas Diversas - Pontas Arco- Íris e mais cristais "
         }
       ]
     },
@@ -58,37 +53,47 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65f128cb87ab487fbfe2f8e7:collections:15% OFF - Peças Diversas:/15-off-pecas-diversas",
+      "collection_id": "6211c7cc7963422eee0ef5b3:categories:Purpurita:/pedra-purpurita",
       "sort": "sales",
-      "title": "Últimos dias de 15% off em Peças Selecionadas",
-      "link": "https://www.minascristais.com.br/15-off-pecas-diversas"
+      "title": "Purpurita - Proteção Psíquica",
+      "link": "https://www.minascristais.com.br/pedra-purpurita"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
-      "title": "Os Destaques do Mês",
-      "link": "https://www.minascristais.com.br/cristaisepedras/",
-      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/"
+      "sort": "sales",
+      "title": "Orgonites - Equilibre suas Energias",
+      "link": "https://www.minascristais.com.br/orgonite/",
+      "collection_id": "620035e87963422eeeee5b2b:categories:Orgonite:/orgonite/"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65f243ef87ab487fbfe4c622:collections:Para Colecionadores - Raridades e Colecionáveis:/cristais-colecionaveis-raridades",
+      "collection_id": "6211bbd67963422eee0eece9:brands:Decoração:/decor-objetos-cristais",
       "sort": "news",
-      "link": "https://www.minascristais.com.br/cristais-colecionaveis-raridades",
-      "title": "Peças Raras e Únicas - Minerais e Pedras Naturais"
+      "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+      "title": "Décor em Pedras e Cristais"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__atacadodez.webp",
-      "mobile_img": "/img/uploads/__atacadomobiledez.webp",
+      "img": "/img/uploads/_atacado-abril.webp",
+      "mobile_img": "",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
       "alt": "Atacado e Revenda "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
+      "title": "Pedras por Kilo"
     },
     {
       "type": "responsive-banner",
