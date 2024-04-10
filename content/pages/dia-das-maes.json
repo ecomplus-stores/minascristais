@@ -1,8 +1,8 @@
 {
   "title": "Dia das Mães ",
-  "body": "Pedras e Cristais",
+  "body": "Antecipe suas compras e surpreenda sua mãe, avó ou madrinha com um presente especial, confira o que preparamos para você!\n\nN﻿as compras a partir de **R$300 até 5kg - FRETE GRÁTIS** para **Regiões Sudeste e Sul.** Envio Econômico. \n\nAdquira acima de **R$200** e receba nosso **[combo exclusivo: Purpurita e Sodalita](https://www.minascristais.com.br/combo-especial-purpurita-sodalita-brutas)** para equilíbrio e espiritualidade. Adicionado automaticamente ao seu carrinho!",
   "meta_title": "Pedras e Cristais | Presentes Mês das Mães",
-  "meta_description": "Aproveite as ofertas especiais de Mês das Mães da Minas Cristais e expresse amor e gratidão com presentes cheios de significado e energia dos cristais. Compras a partir de R$199 têm 30% de desconto com o cupom: presente. ",
+  "meta_description": "Aproveite as ofertas especiais de Mês das Mães da Minas Cristais e expresse amor e gratidão com presentes cheios de significado e energia dos cristais. ",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -15,7 +15,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "brands-carousel",
