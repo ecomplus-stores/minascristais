@@ -43,6 +43,15 @@
       "title": "Acessórios Proteção das Pedras em seu Look "
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
+      "link": "https://www.minascristais.com.br/kitspedras-esotericas",
+      "title": "Kits de Pedras Naturais e Esotéricas"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
