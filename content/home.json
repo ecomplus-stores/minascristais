@@ -24,6 +24,13 @@
       "sort": "name"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__slidemaes.webp",
+      "link": "https://www.minascristais.com.br/pages/dia-das-maes",
+      "alt": "Especial Dia das Mães - Minas Cristais",
+      "mobile_img": "/img/uploads/__slidemobilemaes.webp"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -31,7 +38,7 @@
       "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$70:/presentes-pedra-cristais",
       "sort": "news",
       "title": "Ideias de Presentes até R$100",
-      "link": "https://www.minascristais.com.br/pages/dia-das-maes"
+      "link": "https://www.minascristais.com.br/presentes-pedra-cristais"
     },
     {
       "type": "collection-shelf",
@@ -52,6 +59,26 @@
       "title": "Acessórios - Proteção das Pedras em seu Look",
       "link": "https://www.minascristais.com.br/acessorios",
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__banneresotericos-m.webp",
+          "link": "https://www.minascristais.com.br/esoterismo/",
+          "alt": "Presentes Esotéricos"
+        },
+        {
+          "img": "/img/uploads/_decor-m.webp",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+          "alt": "Décor Cristais e Pedras Naturais"
+        },
+        {
+          "img": "/img/uploads/__formatos-m.webp",
+          "alt": "Diversos Formatos em Pedras e Cristais",
+          "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
