@@ -24,21 +24,6 @@
       "sort": "name"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__ambar.webp",
-          "link": "https://www.minascristais.com.br/ambar/",
-          "alt": "Âmbar - Novas Peças"
-        },
-        {
-          "img": "/img/uploads/__pontas.webp",
-          "link": "https://www.minascristais.com.br/pontas/",
-          "alt": "Pontas Diversas - Pontas Arco- Íris e mais cristais "
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
