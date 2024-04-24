@@ -5,6 +5,19 @@
   "meta_description": "Aproveite as ofertas especiais de Mês das Mães da Minas Cristais e expresse amor e gratidão com presentes cheios de significado e energia dos cristais. ",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2024-04-24T20:57:31.540Z",
+          "end": "",
+          "img": "/img/uploads/__slidemaes.webp",
+          "mobile_img": "/img/uploads/__slidemobilemaes.webp"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -55,6 +68,26 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__banneresotericos-m.webp",
+          "link": "https://www.minascristais.com.br/esoterismo/",
+          "alt": "Presentes Esotéricos Minas Cristais"
+        },
+        {
+          "img": "/img/uploads/__formatos-m.webp",
+          "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos",
+          "alt": "Diversos Formatos em Pedras e Cristais"
+        },
+        {
+          "img": "/img/uploads/_decor-m.webp",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+          "alt": "Décor em Cristais "
+        }
+      ]
     },
     {
       "type": "info-bar",
