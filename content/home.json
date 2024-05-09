@@ -46,7 +46,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
-      "sort": "views",
+      "sort": "news",
       "title": "Para Casa e Décor",
       "link": "https://www.minascristais.com.br/decoracaoeutilidades/"
     },
@@ -55,7 +55,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "views",
       "title": "Acessórios - Proteção das Pedras em seu Look",
       "link": "https://www.minascristais.com.br/acessorios",
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios"
