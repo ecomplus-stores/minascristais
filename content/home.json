@@ -24,13 +24,6 @@
       "sort": "name"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__slidemaes.webp",
-      "link": "https://www.minascristais.com.br/pages/dia-das-maes",
-      "alt": "Especial Dia das Mães - Minas Cristais",
-      "mobile_img": "/img/uploads/__slidemobilemaes.webp"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
