@@ -28,28 +28,28 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
-      "sort": "sales",
-      "title": "BUSQUE POR FORMATOS",
-      "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo:/esoterismo/",
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
       "sort": "news",
-      "title": "ESOTÉRICOS - PEDRAS MÍSTICAS E MAIS ",
-      "link": "https://www.minascristais.com.br/esoterismo/"
+      "title": "DESTAQUES DO MÊS",
+      "link": "PCT08-TNG"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "title": "OS MAIS PEDIDOS EM ACESSÓRIOS",
+      "collection_id": "65f12b9987ab487fbfe2f981:collections:Combos em Cristais e Pedras 30% off:/combos-cristais-pedras-off",
+      "sort": "offers",
+      "title": "COMBOS E KITS DE PEDRAS ",
+      "link": "https://www.minascristais.com.br/combos-cristais-pedras-off"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "ACABARAM DE CHEGAR",
       "link": "https://www.minascristais.com.br/acessorios",
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios"
     },
@@ -78,8 +78,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035ca7963422eeeee5acb:categories:♊Gêmeos:/gemeos/",
-      "sort": "news",
+      "collection_id": "620035d07963422eeeee5adb:categories:Busque por Signos:/busque-por-signos/",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pages/signos",
       "title": "BUSQUE POR SIGNOS"
     },
@@ -96,7 +96,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035ae7963422eeeee5a6f:categories:Peças para Montagem :/pecas-para-montagem/",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/montagem-pedras-cristais",
       "title": "PEÇAS PARA MONTAGEM"
     },
