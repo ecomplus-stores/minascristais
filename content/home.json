@@ -8,6 +8,14 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-05-23T06:04:38.887Z",
+          "end": "",
+          "img": "/img/uploads/__namorados-30off-acessorios.webp",
+          "link": "https://www.minascristais.com.br/acessorios",
+          "alt": "30% off em acessórios - Minas Cristais ",
+          "mobile_img": "/img/uploads/__mobilenamorados-acessorios-off.webp"
+        },
+        {
           "start": "2024-03-31T20:14:08.164Z",
           "end": "",
           "img": "/img/uploads/__prata.webp",
@@ -28,20 +36,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
-      "title": "DESTAQUES DO MÊS",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "sort": "offers",
+      "title": "30% off em Acessórios ",
+      "link": "https://www.minascristais.com.br/acessorios"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65f12b9987ab487fbfe2f981:collections:Combos em Cristais e Pedras 30% off:/combos-cristais-pedras-off",
-      "sort": "offers",
-      "title": "COMBOS E KITS DE PEDRAS ",
-      "link": "https://www.minascristais.com.br/combos-cristais-pedras-off"
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
+      "sort": "news",
+      "title": "DESTAQUES DO MÊS",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
       "type": "collection-shelf",
