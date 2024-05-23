@@ -4,6 +4,13 @@
   "meta_description": "Pedras e Cristais em Ofertas & Promoções ",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__namorados-30off-acessorios.webp",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "alt": "30% off acessórios",
+      "mobile_img": "/img/uploads/__mobilenamorados-acessorios-off.webp"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -13,6 +20,16 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "sort": "offers",
+      "title": "30% OFF em Acessórios , veja todos",
+      "link": "https://www.minascristais.com.br/acessorios"
     },
     {
       "type": "collection-shelf",
