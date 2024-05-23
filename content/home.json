@@ -52,16 +52,6 @@
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "ACABARAM DE CHEGAR",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
