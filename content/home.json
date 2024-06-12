@@ -38,8 +38,19 @@
       "page": 1,
       "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
       "sort": "news",
-      "title": "30% OFF em Acessórios ",
+      "title": "ÚLTIMO DIA : APROVEITE 30% OFF em Acessórios ",
       "link": "https://www.minascristais.com.br/acessorios"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2024-06-12T05:42:13.528Z",
+      "end": "2024-06-13T03:01:00.000Z",
+      "offers": [
+        "64650a89a0e875411e91be51",
+        "62005aaf7963422eeeeec614",
+        "6203c7f97963422eeef58b74"
+      ]
     },
     {
       "type": "collection-shelf",
