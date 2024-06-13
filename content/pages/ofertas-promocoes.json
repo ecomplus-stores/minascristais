@@ -4,13 +4,6 @@
   "meta_description": "Pedras e Cristais em Ofertas & Promoções ",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__namorados-30off-acessorios.webp",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "alt": "30% off acessórios",
-      "mobile_img": "/img/uploads/__mobilenamorados-acessorios-off.webp"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -22,85 +15,8 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2024-06-12T05:47:26.128Z",
-      "end": "2024-06-13T03:01:26.270Z",
-      "offers": [
-        "6203d9057963422eeef5c86d",
-        "6203e3dc7963422eeef5e6cd",
-        "6203dd5d7963422eeef5d463",
-        "65faedc387ab487fbfeee2c9"
-      ],
-      "notes": "ÚLTIMAS HORAS 30% OFF "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "news",
-      "title": "30% OFF em Acessórios , veja todos",
-      "link": "https://www.minascristais.com.br/acessorios"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035bb7963422eeeee5a98:categories:Pingentes:/pingentes-pedras/",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/pingentes-pedras/",
-      "title": "PINGENTE 30% OFF"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200354b7963422eeeee58f5:categories:Braceletes e Pulseiras:/pulseiras/",
-      "sort": "sales",
-      "title": "BRACELETES E PULSEIRAS",
-      "link": "https://www.minascristais.com.br/pulseiras/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035657963422eeeee5983:categories:Brincos:/bijuteriasesemijoias-brincos/",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/bijuteriasesemijoias-brincos/",
-      "title": "BRINCOS"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62045ce67963422eeef73d5a:categories:Acessórios em Prata:/prata",
-      "sort": "views",
-      "title": "ACESSÓRIOS EM PRATA ",
-      "link": "https://www.minascristais.com.br/prata"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035ce7963422eeeee5ad7:categories:Anéis:/aneis/",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/aneis/",
-      "title": "ANÉIS - 30%OFF"
-    },
-    {
-      "type": "custom-html",
-      "html": "<center><h3>Veja mais ofertas </h3></center>"
-    },
-    {
       "type": "dynamic-showcase",
-      "load_more": false,
+      "load_more": true,
       "sort": "offers"
     }
   ],
