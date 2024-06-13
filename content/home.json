@@ -8,20 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-05-23T06:04:38.887Z",
+          "start": "2024-06-13T02:04:15.283Z",
           "end": "",
-          "img": "/img/uploads/__namorados-30off-acessorios.webp",
-          "link": "https://www.minascristais.com.br/acessorios",
-          "alt": "30% off em acessórios - Minas Cristais ",
-          "mobile_img": "/img/uploads/__mobilenamorados-acessorios-off.webp"
-        },
-        {
-          "start": "2024-03-31T20:14:08.164Z",
-          "end": "",
-          "img": "/img/uploads/__prata.webp",
-          "link": "https://www.minascristais.com.br/prata",
-          "alt": "Brincos em Prata 925 , diversos modelos",
-          "mobile_img": "/img/uploads/__prata-m-abril.webp"
+          "img": "/img/uploads/__junho-minas-cristais.webp",
+          "link": "https://www.minascristais.com.br/alegria-humor-energias-cristais",
+          "alt": "Energize seu Humor com Cristais",
+          "mobile_img": "/img/uploads/__junho-minas-cristais-mobile.webp"
         }
       ]
     },
@@ -38,21 +30,8 @@
       "page": 1,
       "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
       "sort": "news",
-      "title": "ÚLTIMO DIA : APROVEITE 30% OFF em Acessórios ",
+      "title": "ACABARAM DE CHEGAR POR AQUI",
       "link": "https://www.minascristais.com.br/acessorios"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2024-06-12T05:42:13.528Z",
-      "end": "2024-06-13T03:01:00.000Z",
-      "offers": [
-        "64650a89a0e875411e91be51",
-        "62005aaf7963422eeeeec614",
-        "6203c7f97963422eeef58b74",
-        "64f769552cd6b659593f4c5f"
-      ],
-      "notes": "ÚLTIMAS HORAS 30% OFF "
     },
     {
       "type": "collection-shelf",
@@ -65,29 +44,9 @@
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035d07963422eeeee5adb:categories:Busque por Signos:/busque-por-signos/",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/pages/signos",
-      "title": "BUSQUE POR SIGNOS"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
-      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
-      "title": "A ENERGIA DOS CRISTAIS"
-    },
-    {
       "type": "responsive-banner",
-      "img": "/img/uploads/_atacado-abril.webp",
-      "mobile_img": "",
+      "img": "/img/uploads/__atacado-junho.webp",
+      "mobile_img": "/img/uploads/__atacado-junho-mobile.webp",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
       "alt": "Atacado e Revenda "
     },
