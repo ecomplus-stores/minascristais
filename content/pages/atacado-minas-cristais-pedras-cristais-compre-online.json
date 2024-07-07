@@ -27,10 +27,8 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-b.png",
-      "link": "https://wa.me/553198604393",
-      "alt": "Whatsapp Atacado"
+      "type": "custom-html",
+      "html": "<div class=\"container\"><center><div class=\"banner\">\n  <a href=\"https://wa.me/553198604393\" aria-label=\"Whatsapp Atacado\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/whatsapp-b.png\" data-alt=\"Whatsapp Atacado\" data-loaded=\"true\"><source srcset=\"/img/uploads/whatsapp-b.png\" media=\"\"><img alt=\"Whatsapp Atacado\"></picture>\n  </a></div></center></div>"
     },
     {
       "type": "collection-shelf",
