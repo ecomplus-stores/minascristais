@@ -30,21 +30,6 @@
       "offset": 0
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "offers",
-      "title": "Sim! Temos Descontos por aqui, vem conferir: ",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__unidades.webp",
-      "mobile_img": "/img/uploads/__unidadesmobile.webp",
-      "link": "https://minascristais.com.br/pages/contato"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
