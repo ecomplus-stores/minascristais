@@ -8,12 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-06-13T02:04:15.283Z",
+          "start": "2024-07-07T02:54:31.729Z",
           "end": "",
-          "img": "/img/uploads/__chakras-fev.webp",
-          "link": "https://www.minascristais.com.br/chakras/",
-          "alt": "Energize seu Humor com Cristais",
-          "mobile_img": "/img/uploads/_chakras-mobile.webp"
+          "img": "/img/uploads/slide_niver.png",
+          "link": "https://www.minascristais.com.br/cristaisepedras/",
+          "alt": "50% OFF em toda loja",
+          "mobile_img": "/img/uploads/__mobile-aniversario.webp"
         }
       ]
     },
@@ -24,24 +24,31 @@
       "sort": "name"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "views",
-      "title": "DESTAQUES DO MÊS",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+      "type": "responsive-banner",
+      "img": "/img/uploads/__todaloja-j.webp",
+      "link": "https://www.minascristais.com.br/cristaisepedras/",
+      "alt": "50% OFF"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
       "sort": "sales",
-      "link": "https://www.minascristais.com.br/casa/",
-      "title": "Mesa Posta e Décor , veja mais"
+      "title": "DESTAQUES DO MÊS",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/_prata-1.webp",
+      "link": "https://www.minascristais.com.br/prata",
+      "alt": "Prata"
     },
     {
       "type": "collection-shelf",
@@ -54,9 +61,20 @@
       "title": "Acessórios, veja aqui"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
+      "type": "responsive-banner",
+      "img": "/img/uploads/__mesaposta_n.webp",
+      "link": "https://www.minascristais.com.br/casa/",
+      "alt": "Para Casa"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/casa/",
+      "title": "Mesa Posta e Décor , veja mais"
     },
     {
       "type": "info-bar",
