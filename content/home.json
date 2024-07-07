@@ -56,7 +56,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "views",
+      "sort": "highest_price",
       "link": "https://www.minascristais.com.br/acessorios",
       "title": "Acessórios, veja aqui"
     },
@@ -72,7 +72,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
-      "sort": "sales",
+      "sort": "highest_price",
       "link": "https://www.minascristais.com.br/casa/",
       "title": "Mesa Posta e Décor , veja mais"
     },
