@@ -32,7 +32,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
@@ -49,10 +49,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035a27963422eeeee5a48:categories:Turmalina Negra:/turmalina-negra/",
+      "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
       "sort": "sales",
-      "link": "https://www.minascristais.com.br/turmalina-negra/",
-      "title": "Turmalina Negra - Proteção Energética"
+      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
+      "title": "Pedras Brutas e Roladas por unidade"
     },
     {
       "type": "responsive-banner",
@@ -66,7 +66,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/acessorios",
       "title": "Acessórios, veja aqui"
     },
@@ -82,7 +82,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
-      "sort": "highest_price",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/casa/",
       "title": "Mesa Posta e Décor , veja mais"
     },
