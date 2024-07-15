@@ -8,12 +8,28 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-07-07T02:54:31.729Z",
+          "start": "2024-07-15T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/slide_niver.png",
-          "link": "https://www.minascristais.com.br/cristaisepedras/",
-          "alt": "50% OFF em toda loja",
-          "mobile_img": "/img/uploads/__mobile-aniversario.webp"
+          "img": "/img/uploads/__poderosos.webp",
+          "mobile_img": "/img/uploads/__poderosos-mobile.webp",
+          "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
+          "alt": "Cristais e Pedras para Proteção"
+        },
+        {
+          "start": "2024-07-15T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/__decore.webp",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+          "alt": "Decoração em Pedras e Cristais ",
+          "mobile_img": "/img/uploads/__decore-mobile.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__autocuidado.webp",
+          "mobile_img": "/img/uploads/__autocuidadomobile.webp",
+          "alt": "Cristais e Pedras Bem Estar e Autocuidado",
+          "link": "https://www.minascristais.com.br/cristais-pedras-autocuidado-bem-estar"
         }
       ]
     },
@@ -22,12 +38,6 @@
       "limit": 24,
       "offset": 0,
       "sort": "name"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__todaloja-j.webp",
-      "link": "https://www.minascristais.com.br/cristaisepedras/",
-      "alt": "50% OFF"
     },
     {
       "type": "dynamic-showcase",
@@ -45,46 +55,28 @@
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
-      "title": "Pedras Brutas e Roladas por unidade"
-    },
-    {
       "type": "responsive-banner",
-      "img": "/img/uploads/_prata-1.webp",
-      "link": "https://www.minascristais.com.br/prata",
-      "alt": "Prata"
+      "img": "/img/uploads/__atacado.webp",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "alt": "Revenda Minas Cristais - Especial Atacado ",
+      "mobile_img": "/img/uploads/__atacado1.webp"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "title": "Acessórios, veja aqui"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__mesaposta_n.webp",
-      "link": "https://www.minascristais.com.br/casa/",
-      "alt": "Para Casa"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620036027963422eeeee5b8b:categories:Para Casa:/casa/",
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
       "sort": "news",
-      "link": "https://www.minascristais.com.br/casa/",
-      "title": "Mesa Posta e Décor , veja mais"
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "title": "Revenda Pedras e Cristais, saiba mais do Atacado"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__lojasfisicas.webp",
+      "link": "https://www.minascristais.com.br/pages/contato",
+      "alt": "Lojas Físicas Minas Cristais",
+      "mobile_img": "/img/uploads/__lojasfisicas-mob.webp"
     },
     {
       "type": "info-bar",
