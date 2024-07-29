@@ -40,11 +40,6 @@
       "sort": "name"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -53,6 +48,36 @@
       "sort": "views",
       "title": "DESTAQUES DO MÊS",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035617963422eeeee5971:categories:♢ Colecionáveis e Raridades:/pedras-de-colecao/",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/cristais-colecionaveis-raridades",
+      "title": "Colecionáveis e Raridades, veja aqui"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66948f0ff4e6d85ab2d184d8:collections:Cristais e Pedras para Bem Estar - Autocuidado:/cristais-pedras-autocuidado-bem-estar",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/cristais-pedras-autocuidado-bem-estar",
+      "title": "Bem Estar e Autocuidado com Pedras e Cristais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66948dfff4e6d85ab2d18416:collections:Cristais e Pedras para Proteção:/cristais-pedras-protecao",
+      "sort": "sales",
+      "title": "Proteção - Escudos e Amuletos em Pedras e Cristais",
+      "link": "https://www.minascristais.com.br/cristais-pedras-protecao"
     },
     {
       "type": "responsive-banner",
@@ -67,7 +92,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
       "title": "Revenda Pedras e Cristais, saiba mais do Atacado"
     },
