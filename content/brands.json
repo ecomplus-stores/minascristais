@@ -17,8 +17,8 @@
       "sort": "news"
     },
     {
-      "type": "page-title",
-      "title": "Navegue também por :"
+      "type": "custom-html",
+      "html": "<h3> Navegue também por: </h3>"
     },
     {
       "type": "brands-carousel",
