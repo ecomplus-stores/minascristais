@@ -98,10 +98,10 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__lojasfisicas.webp",
+      "img": "/img/uploads/lojasfisicas-set-d.png",
       "link": "https://www.minascristais.com.br/pages/contato",
       "alt": "Lojas Físicas Minas Cristais",
-      "mobile_img": "/img/uploads/__lojasfisicas-mob.webp"
+      "mobile_img": "/img/uploads/lojasfisicas-set-m.png"
     },
     {
       "type": "info-bar",
