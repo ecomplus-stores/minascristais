@@ -8,20 +8,20 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-09-04T16:56:18.883Z",
+          "end": "",
+          "img": "/img/uploads/pontas.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "Promoções em Pontas ",
+          "mobile_img": "/img/uploads/pontas-set-m.webp"
+        },
+        {
           "start": "2024-07-15T03:00:00.000Z",
           "end": "",
           "img": "/img/uploads/__poderosos.webp",
           "mobile_img": "/img/uploads/__poderosos-mobile.webp",
           "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
           "alt": "Cristais e Pedras para Proteção"
-        },
-        {
-          "start": "2024-07-15T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/__decore.webp",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
-          "alt": "Decoração em Pedras e Cristais ",
-          "mobile_img": "/img/uploads/__decore-mobile.webp"
         },
         {
           "start": "",
