@@ -54,10 +54,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200355c7963422eeeee5958:categories:Pontas:/pontas/",
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pontas/",
-      "title": "Pontas em diversas Pedras e Cristais "
+      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/garimpo-da-semana",
+      "title": "Garimpo da Semana : Encontre aqui peças selecionadas que achamos que você pode gostar! "
     },
     {
       "type": "collection-shelf",
@@ -74,10 +74,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035e87963422eeeee5b2b:categories:Orgonite:/orgonite/",
-      "sort": "news",
-      "title": "Orgonites ",
-      "link": "https://www.minascristais.com.br/orgonite/"
+      "collection_id": "63bb2da24834634f732ccc98:brands:Unidade Minas Cristais:/pedras-cristais-por-unidade",
+      "sort": "sales",
+      "title": "Variedade em Cristais e Pedras, confira aqui",
+      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
     },
     {
       "type": "responsive-banner",
