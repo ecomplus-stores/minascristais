@@ -47,7 +47,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "Garimpo da Semana : Encontre aqui peças selecionadas que achamos que você pode gostar! "
     },
@@ -58,7 +58,7 @@
       "page": 1,
       "collection_id": "620035bb7963422eeeee5a98:categories:Pingentes:/pingentes-pedras/",
       "title": "Pingentes: Mais que Acessórios, são Amuletos Perfeitos para seu dia a dia ",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/pingentes-pedras/"
     },
     {
@@ -67,7 +67,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
-      "sort": "sales",
+      "sort": "news",
       "title": "Kits de Pedras, vem escolher o seu ",
       "link": "https://www.minascristais.com.br/kitspedras-esotericas"
     },
@@ -76,10 +76,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
-      "sort": "lowest_price",
-      "title": "O que mais tem sido visto por aqui",
-      "link": "https://www.minascristais.com.br/cristaisepedras/"
+      "collection_id": "620035497963422eeeee58ed:categories:Formatos:/formatos/",
+      "sort": "news",
+      "title": "Cristais e Pedras em Diversos Formatos",
+      "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos"
     },
     {
       "type": "responsive-banner",
@@ -94,7 +94,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
       "title": "Revenda Pedras e Cristais, saiba mais do Atacado"
     },
