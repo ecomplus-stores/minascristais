@@ -8,20 +8,20 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-07-15T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/__poderosos.webp",
-          "mobile_img": "/img/uploads/__poderosos-mobile.webp",
-          "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
-          "alt": "Cristais e Pedras para Proteção"
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/__autocuidado.webp",
           "mobile_img": "/img/uploads/__autocuidadomobile.webp",
           "alt": "Cristais e Pedras Bem Estar e Autocuidado",
           "link": "https://www.minascristais.com.br/cristais-pedras-autocuidado-bem-estar"
+        },
+        {
+          "start": "2024-07-15T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/__poderosos.webp",
+          "mobile_img": "/img/uploads/__poderosos-mobile.webp",
+          "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
+          "alt": "Cristais e Pedras para Proteção"
         }
       ]
     },
