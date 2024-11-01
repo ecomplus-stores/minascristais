@@ -10,10 +10,10 @@
         {
           "start": "2024-10-01T16:06:59.564Z",
           "end": "",
-          "img": "/img/uploads/outrosadeskt.png",
-          "mobile_img": "/img/uploads/__mobile-out1.webp",
-          "alt": "Outubro Rosa - Presente Surpresa Quartzo Rosa",
-          "link": "https://www.minascristais.com.br/presente-surpresa"
+          "img": "/img/uploads/novembro-azul.png",
+          "mobile_img": "/img/uploads/novembro-azul-m.png",
+          "alt": "Novembro Azul  - Presente Surpresa Quartzo Azul",
+          "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais"
         }
       ]
     },
@@ -22,23 +22,23 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035dc7963422eeeee5b02:categories:Pedras Rosas:/pedras-cor-rosa/",
-      "title": "Pedras Rosas",
+      "collection_id": "620035d67963422eeeee5aed:categories:Pedras Azuis:/pedra-cor-azul/",
+      "title": "Pedras Azuis, veja mais ",
       "sort": "sales",
-      "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida"
+      "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/quartzo-rosa.png",
-          "link": "https://www.minascristais.com.br/quartzo-rosa/",
-          "alt": "Quartzo Rosa"
+          "img": "/img/uploads/obsidiana-azul.png",
+          "link": "https://www.minascristais.com.br/obsidiana-azul-cristal-andara/",
+          "alt": "Obsidiana Azul - Similar Cristal Andara "
         },
         {
-          "img": "/img/uploads/agata-rosa.png",
-          "link": "https://www.minascristais.com.br/obelisco-de-gata-rosa-unidade",
-          "alt": "OBELISCO ÁGATA ROSA"
+          "img": "/img/uploads/cianitaazul.png",
+          "link": "https://www.minascristais.com.br/cianita-azul/",
+          "alt": "Cianita Azul - Pedra do Arcanjo Miguel "
         }
       ]
     },
