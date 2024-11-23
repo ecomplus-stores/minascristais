@@ -1,9 +1,15 @@
 {
-  "title": "Ofertas que Brilham - Minas Cristais - Black Friday 2023 ",
-  "body": "O﻿FERTAS QUE BRILHAM TERMINARAM. \n\nV﻿eja alguns descontos da loja nesse mês:",
-  "meta_title": "Ofertas que Brilham - Minas Cristais - Black Friday 2023 ",
-  "meta_description": "Ofertas que Brilham - Minas Cristais - Black Friday 2023 ",
+  "title": "Ofertas que Brilham - Minas Cristais - Black Week 2024",
+  "body": "O﻿FERTAS QUE BRILHAM VOLTARAM! \n\nA Black Week Minas Cristais chegou! \n\n50% OFF em TODA a loja online 😱 (exceto almofariz, pistilo e kits revenda).\n\nÉ só adicionar no carrinho e o desconto é automático! 🛒\n\nDe 23/11 a 30/11, aproveite para garantir seus cristais favoritos e energizar sua vida!",
+  "meta_title": "Ofertas que Brilham - Minas Cristais - Black Week 2024",
+  "meta_description": "Ofertas que Brilham - Minas Cristais - Black Week 2024",
   "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/oferta-bf-d.webp",
+      "mobile_img": "/img/uploads/principal1.webp",
+      "alt": "50% OFF em TODA a loja online 😱 (exceto almofariz, pistilo e kits revenda)."
+    },
     {
       "type": "page-title"
     },
@@ -12,23 +18,114 @@
       "enabled": true
     },
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/pedrasbrutas.webp",
+          "link": "https://www.minascristais.com.br/pedras-brutas/",
+          "alt": "PEDRAS BRUTAS - 50% OFF BLACK WEEK MINAS CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/esferas-bf.webp",
+          "link": "https://www.minascristais.com.br/pedrasovais/",
+          "alt": "ESFERAS EM PEDRAS - 50% OFF - BLACK WEEK MINAS CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/pedrasroladas.webp",
+          "link": "https://www.minascristais.com.br/pedras-roladas/",
+          "alt": "PEDRAS ROLADAS- 50%OFF BLACK WEEK - MINAS CRISTAIS"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
+      "sort": "sales",
+      "title": "VER TODOS EM CRISTAIS E PEDRAS",
+      "link": "https://www.minascristais.com.br/cristaisepedras/"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/piramides.webp",
+          "link": "https://www.minascristais.com.br/piramides/",
+          "alt": "PIRÂMIDES E ORGONITES - 50%OFF- BLACK WEEK - MINAS CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/pontas-bf.webp",
+          "link": "https://www.minascristais.com.br/pontas/",
+          "alt": "PONTAS POR UNIDADE E KILO - 50% OFF - BLACK WEEK - MINAS CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/garimpo-bf.webp",
+          "link": "https://www.minascristais.com.br/garimpo-da-semana",
+          "alt": "GARIMPO MINAS CRISTAIS - 50% OFF - BLACK WEEK 2024"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo:/esoterismo/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/esoterismo/",
+      "title": "LEVE A ENERGIA DOS CRISTAIS PARA SUA VIDA - DESCONTO AUTOMÁTICO NO CARRINHO"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/aneis-bf.webp",
+          "link": "https://www.minascristais.com.br/aneis/",
+          "alt": "ANÉIS EM PEDRAS - 50% OFF - BLACK WEEK - MINAS CRISTAIS "
+        },
+        {
+          "img": "/img/uploads/prata-bf.webp",
+          "link": "https://www.minascristais.com.br/prata",
+          "alt": "JOIAS EM PRATA - 50% OFF - BLACK WEEK -MINAS CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/pingentes-prata.webp",
+          "link": "https://www.minascristais.com.br/pingentes-pedras/",
+          "alt": "PINGENTES COM 50% OFF - BLACK WEEK - MINAS CRISTAIS"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "sort": "name"
     },
     {
-      "type": "extra-page",
-      "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/pages/ofertas-promocoes\">Veja todas as ofertas</a></h4>"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/decor-bf.webp",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+          "alt": "DÉCOR EM PEDRAS E CRISTAIS - 50% OFF - BLACK WEEK - MINAS CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/pedras-bf.webp",
+          "link": "https://www.minascristais.com.br/pedras-na-base/",
+          "alt": "PEDRAS NA BASE - 50% OFF - BLACK WEEK - MINAS CRISTAIS "
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "offers"
+      "sort": "news"
     }
   ]
 }
