@@ -8,6 +8,14 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-11-23T02:57:48.013Z",
+          "end": "",
+          "img": "/img/uploads/oferta-bf-d.webp",
+          "mobile_img": "/img/uploads/principal1.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
+          "alt": "OFERTAS QUE BRILHAM TODA LOJA 50% OFF"
+        },
+        {
           "start": "2024-10-01T16:06:59.564Z",
           "end": "",
           "img": "/img/uploads/novembro-azul.png",
@@ -18,27 +26,22 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035d67963422eeeee5aed:categories:Pedras Azuis:/pedra-cor-azul/",
-      "title": "Pedras Azuis, veja mais ",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/obsidiana-azul.png",
-          "link": "https://www.minascristais.com.br/obsidiana-azul-cristal-andara/",
-          "alt": "Obsidiana Azul - Similar Cristal Andara "
+          "img": "/img/uploads/pedrasbrutas.webp",
+          "link": "https://www.minascristais.com.br/pedras-brutas/",
+          "alt": "50% OFF EM PEDRAS BRUTAS"
         },
         {
-          "img": "/img/uploads/cianitaazul.png",
-          "link": "https://www.minascristais.com.br/cianita-azul/",
-          "alt": "Cianita Azul - Pedra do Arcanjo Miguel "
+          "img": "/img/uploads/esferas-bf.webp",
+          "link": "https://www.minascristais.com.br/pedrasovais/",
+          "alt": "50% OFF EM ESFERAS DE PEDRAS E CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/pedrasroladas.webp",
+          "link": "https://www.minascristais.com.br/pedras-roladas/",
+          "alt": "PEDRAS ROLADAS 50% OFF "
         }
       ]
     },
@@ -47,70 +50,73 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "views",
-      "title": "DESTAQUES DO MÊS",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+      "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
+      "title": "VER TODOS EM CRISTAIS E PEDRAS",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/cristaisepedras/"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/garimpo1.png",
-      "mobile_img": "/img/uploads/garimpo1mobile.png",
-      "link": "https://www.minascristais.com.br/garimpo-da-semana",
-      "alt": "Garimpo Minas Cristais - confira"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/piramides.webp",
+          "link": "https://www.minascristais.com.br/piramides/"
+        },
+        {
+          "img": "/img/uploads/pontas-bf.webp",
+          "link": "https://www.minascristais.com.br/pontas/"
+        },
+        {
+          "img": "/img/uploads/garimpo-bf.webp",
+          "link": "https://www.minascristais.com.br/garimpo-da-semana"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
+      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo:/esoterismo/",
       "sort": "sales",
-      "link": "https://www.minascristais.com.br/garimpo-da-semana",
-      "title": "VEJA MAIS"
+      "title": "LEVE A ENERGIA DOS CRISTAIS PARA SUA VIDA - DESCONTOS AUTOMÁTICO NO CARRINHO",
+      "link": "https://www.minascristais.com.br/esoterismo/"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/aneis-bf.webp",
+          "link": "https://www.minascristais.com.br/aneis/"
+        },
+        {
+          "img": "/img/uploads/prata-bf.webp",
+          "link": "https://www.minascristais.com.br/prata"
+        },
+        {
+          "img": "/img/uploads/pingentes-prata.webp",
+          "link": "https://www.minascristais.com.br/pingentes-pedras/"
+        }
+      ]
     },
     {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "sort": "name"
+      "sort": null
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
-      "sort": "sales",
-      "title": "Compre seu cristal por unidade , confira todos",
-      "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035497963422eeeee58ed:categories:Formatos:/formatos/",
-      "sort": "news",
-      "title": "Leve a Energia dos Cristais para sua vida",
-      "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__atacado-revenda.webp",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-      "alt": "Revenda Minas Cristais - Especial Atacado ",
-      "mobile_img": "/img/uploads/__atacado-revenda-mobile.webp"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-      "title": "Revenda Pedras e Cristais, saiba mais do Atacado"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/decor-bf.webp",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais"
+        },
+        {
+          "img": "/img/uploads/pedras-bf.webp",
+          "link": "https://www.minascristais.com.br/pedras-na-base/"
+        }
+      ]
     },
     {
       "type": "responsive-banner",
