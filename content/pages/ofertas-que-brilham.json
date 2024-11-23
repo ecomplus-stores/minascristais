@@ -5,17 +5,17 @@
   "meta_description": "Ofertas que Brilham - Minas Cristais - Black Week 2024",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/oferta-bf-d.webp",
-      "mobile_img": "/img/uploads/principal1.webp",
-      "alt": "50% OFF em TODA a loja online 😱 (exceto almofariz, pistilo e kits revenda)."
-    },
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/oferta-bf-d.webp",
+          "mobile_img": "/img/uploads/principal1.webp"
+        }
+      ]
     },
     {
       "type": "extra-page",
