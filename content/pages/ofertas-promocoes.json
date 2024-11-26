@@ -4,6 +4,19 @@
   "meta_description": "Pedras e Cristais em Ofertas & Promoções ",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2024-11-26T14:24:41.847Z",
+          "end": "",
+          "img": "/img/uploads/oferta-bf-d.png",
+          "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -13,12 +26,7 @@
     {
       "type": "extra-page",
       "enabled": true
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
     }
   ],
-  "body": "Descubra as melhores ofertas em cristais e pedras naturais da Minas Cristais."
+  "body": "Descubra as melhores ofertas em cristais e pedras naturais da Minas Cristais.\n\nP"
 }
