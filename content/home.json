@@ -122,6 +122,13 @@
     },
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/atacado-desktop-dez24.png",
+      "mobile_img": "/img/uploads/atacado-mobile-dez24.png",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "alt": "Revenda nossas peças, use o cupom Atacado e garanta 50% off nas compras a partir de R$1000"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/lojasfisicas-set-d.png",
       "link": "https://www.minascristais.com.br/pages/contato",
       "alt": "Lojas Físicas Minas Cristais",
