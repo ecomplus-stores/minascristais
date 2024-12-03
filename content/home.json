@@ -18,6 +18,12 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -100,12 +106,6 @@
           "link": "https://www.minascristais.com.br/pingentes-pedras/"
         }
       ]
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
     },
     {
       "type": "banners-grid",
