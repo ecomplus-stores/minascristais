@@ -5,6 +5,18 @@
   "meta_description": "Encontre na Minas Cristais as melhores Pedras e Cristais Negros. Enviamos para todo o Brasil. Descubra o poder das Pedras Pretas agora!",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2024-12-03T02:55:05.294Z",
+          "end": "",
+          "img": "/img/uploads/cristais-negros-pag.png"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
