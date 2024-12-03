@@ -5,6 +5,18 @@
   "meta_description": "Descubra o encanto das Pedras Rosas: Quartzo Rosa, Ágata Rosa e Rubelita. Leve a energia do amor e afeto para sua vida com essas preciosidades disponíveis em Minas Cristais",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2024-12-03T02:55:53.616Z",
+          "end": "",
+          "img": "/img/uploads/cristais-relacionamento.png"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
