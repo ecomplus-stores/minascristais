@@ -26,7 +26,12 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
     }
   ],
-  "body": "<!--StartFragment-->\n\n[Semana Ofertas que Brilham, confira os descontos](https://www.minascristais.com.br/pages/ofertas-que-brilham)\n\n<!--EndFragment-->"
+  "body": "<!--StartFragment-->\n\nVeja nossas ofertas da semana\n\n<!--EndFragment-->"
 }
