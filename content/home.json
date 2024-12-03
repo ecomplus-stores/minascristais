@@ -8,20 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-11-23T02:57:48.013Z",
+          "start": "2024-12-03T03:04:37.822Z",
           "end": "",
-          "img": "/img/uploads/oferta-bf-d.webp",
-          "mobile_img": "/img/uploads/principal1.webp",
-          "link": "https://www.minascristais.com.br/pages/ofertas-que-brilham",
-          "alt": "OFERTAS QUE BRILHAM TODA LOJA 50% OFF"
-        },
-        {
-          "start": "2024-10-01T16:06:59.564Z",
-          "end": "",
-          "img": "/img/uploads/novembro-azul.png",
-          "mobile_img": "/img/uploads/novembro-azul-m.png",
-          "alt": "Novembro Azul  - Presente Surpresa Quartzo Azul",
-          "link": "https://www.minascristais.com.br/pages/pedras-azuis-conheca-os-beneficios-e-significados-desses-cristais"
+          "img": "/img/uploads/cristais-magia-natal.png",
+          "mobile_img": "/img/uploads/cristais-magia-natal-mobile.png",
+          "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+          "alt": "Natal Minas Cristais Magia está aqui"
         }
       ]
     },
@@ -29,19 +21,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/pedrasbrutas.webp",
-          "link": "https://www.minascristais.com.br/pedras-brutas/",
-          "alt": "50% OFF EM PEDRAS BRUTAS"
+          "img": "/img/uploads/cores2025.png",
+          "link": "https://www.minascristais.com.br/pages/pedras-cristais-cores",
+          "alt": "As Cores de 2025"
         },
         {
-          "img": "/img/uploads/esferas-bf.webp",
-          "link": "https://www.minascristais.com.br/pedrasovais/",
-          "alt": "50% OFF EM ESFERAS DE PEDRAS E CRISTAIS"
+          "img": "/img/uploads/cristais-brancos.png",
+          "link": "https://www.minascristais.com.br/pages/cristais-brancos-purifique-e-renove-suas-energias-para-2025",
+          "alt": "Cristais Brancos - Purificação e Limpeza "
         },
         {
-          "img": "/img/uploads/pedrasroladas.webp",
-          "link": "https://www.minascristais.com.br/pedras-roladas/",
-          "alt": "PEDRAS ROLADAS 50% OFF "
+          "img": "/img/uploads/protecaoespiritual.png",
+          "link": "https://www.minascristais.com.br/pages/cristais-e-pedras-para-protecao-espiritual-afaste-as-energias-negativas",
+          "alt": "Cristais para Proteção Espiritual"
         }
       ]
     },
@@ -69,16 +61,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/piramides.webp",
-          "link": "https://www.minascristais.com.br/piramides/"
+          "img": "/img/uploads/cristais-negros-protecao-energetica.png",
+          "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas"
         },
         {
-          "img": "/img/uploads/pontas-bf.webp",
-          "link": "https://www.minascristais.com.br/pontas/"
+          "img": "/img/uploads/kits-de-pedras.png",
+          "link": "https://www.minascristais.com.br/kitspedras-esotericas"
         },
         {
-          "img": "/img/uploads/garimpo-bf.webp",
-          "link": "https://www.minascristais.com.br/garimpo-da-semana"
+          "img": "/img/uploads/cristais-relacionamento-e.png",
+          "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida"
         }
       ]
     },
