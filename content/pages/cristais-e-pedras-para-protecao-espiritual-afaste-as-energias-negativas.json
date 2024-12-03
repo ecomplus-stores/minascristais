@@ -52,6 +52,15 @@
       "sort": "sales",
       "link": "https://www.minascristais.com.br/ametista/",
       "title": "Ametista: Paz interior, intuição e proteção espiritual. "
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
