@@ -50,7 +50,7 @@
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/garimpo-da-semana"
     },
     {
@@ -59,7 +59,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -85,10 +85,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo:/esoterismo/",
+      "collection_id": "65f12b9987ab487fbfe2f981:collections:Combos em Cristais e Pedras:/combos-cristais-pedras-off",
       "sort": "sales",
       "title": "LEVE A ENERGIA DOS CRISTAIS PARA SUA VIDA",
-      "link": "https://www.minascristais.com.br/esoterismo/"
+      "link": "https://www.minascristais.com.br/combos-cristais-pedras-off"
     },
     {
       "type": "banners-grid",
@@ -126,6 +126,16 @@
       "mobile_img": "/img/uploads/atacado-mobile-dez24.png",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
       "alt": "Revenda nossas peças, use o cupom Atacado e garanta 50% off nas compras a partir de R$1000"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
+      "sort": "news",
+      "title": "Revenda e Atacado, saiba mais sobre o desconto ",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
     {
       "type": "responsive-banner",
