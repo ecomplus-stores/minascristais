@@ -45,6 +45,16 @@
       "link": "https://www.minascristais.com.br/rubelita/"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035887963422eeeee59f6:categories:Kunzita:/kunzita/",
+      "sort": "news",
+      "title": "Kunzita: 💖 Amor incondicional, paz interior e cura emocional. ✨",
+      "link": "https://www.minascristais.com.br/kunzita/"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
