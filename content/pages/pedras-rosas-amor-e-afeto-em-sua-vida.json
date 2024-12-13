@@ -75,6 +75,16 @@
       "link": "https://www.minascristais.com.br/pedras-cor-rosa/"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200357f7963422eeeee59d2:categories:Esmeralda :/esmeralda/",
+      "sort": "highest_price",
+      "link": "https://www.minascristais.com.br/esmeralda/",
+      "title": "Esmeralda: 💚 Prosperidade, amor e cura para uma vida radiante! ✨"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
