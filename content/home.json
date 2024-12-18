@@ -24,6 +24,16 @@
       "sort": null
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null,
+      "sort": "offers",
+      "title": " Até 50% OFF em peças selecionadas! 💎",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -60,7 +70,7 @@
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA",
-      "sort": "news",
+      "sort": "offers",
       "link": "https://www.minascristais.com.br/garimpo-da-semana"
     },
     {
@@ -85,10 +95,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65f12b9987ab487fbfe2f981:collections:Combos em Cristais e Pedras:/combos-cristais-pedras-off",
-      "sort": "views",
+      "collection_id": "620035587963422eeeee593d:categories:Obeliscos:/obeliscos/",
+      "sort": "offers",
       "title": "LEVE A ENERGIA DOS CRISTAIS PARA SUA VIDA",
-      "link": "https://www.minascristais.com.br/combos-cristais-pedras-off"
+      "link": "https://www.minascristais.com.br/obeliscos/"
     },
     {
       "type": "banners-grid",
@@ -133,9 +143,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
-      "title": "Revenda e Atacado, saiba mais sobre o desconto ",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "title": "PEDRAS E CRISTAIS POR KILO",
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
