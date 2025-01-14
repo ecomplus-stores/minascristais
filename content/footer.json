@@ -28,6 +28,10 @@
         "url": "https://minascristais.com.br/pages/pagamentos"
       },
       {
+        "text": "Leilão Online",
+        "url": "https://www.minascristais.com.br/pages/leilao-online"
+      },
+      {
         "url": "https://www.minascristais.com.br/pages/cashback-compre-e-ganhe-minas-cristais",
         "text": "Cashback"
       },
@@ -55,9 +59,6 @@
     "list": [
       {
         "text": "E-book de Pedras e Cristais"
-      },
-      {
-        "text": "Calendário Astrológico 2022"
       },
       {
         "text": "Significado das Pedras"
