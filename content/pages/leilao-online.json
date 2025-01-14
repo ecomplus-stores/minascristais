@@ -1,5 +1,5 @@
 {
-  "body": "<!--StartFragment-->\n\n**Amantes de pedras e cristais, preparem-se!** \n\nA Minas Cristais traz uma novidade que vai te encantar: **Leilões Online de peças e lotes selecionados especialmente no formato de Leilão.**\n\n[**Participe do nosso primeiro leilão online dia 21 de janeiro de 2025 e garanta cristais com preços incríveis!** ](https://leilao.minascristais.com.br/)🗓️\n\n**Desperte o Colecionador que Existe em Você:**\n\nExplore um universo de pedras semi preciosas, cristais brutos, drusas deslumbrantes selecionadas a dedo pela Minas Cristais. 💎✨\n\n**Nossos Leilões Online oferecem:**\n\n* **Variedade:** Cristais raros, pedras brutas, drusas, joias e muito mais.\n* **Exclusividade:** Cada Cristal, uma História Única!\n* **Oportunidade:** Chance de adquirir cristais especiais com preços imperdíveis.\n* **Emoção:** A adrenalina de dar o seu lance e garantir a peça desejada.\n* **Acessibilidade:** Participe do leilão de qualquer lugar do Brasil e do mundo.\n\n<!--EndFragment-->",
+  "body": "<!--StartFragment-->\n\n**Amantes de pedras e cristais, preparem-se!** \n\nA Minas Cristais traz uma novidade que vai te encantar: **Leilões Online de peças e lotes selecionados especialmente no formato de Leilão.**\n\n[**Participe do nosso primeiro leilão online dia 21 de janeiro de 2025 e garanta cristais com preços incríveis!** ](https://leilao.minascristais.com.br/)🗓️\n\n\n\n\n\n<!--EndFragment-->",
   "title": "Leilão Online ",
   "meta_title": "Leilão de Cristais Online na Minas Cristais",
   "meta_description": "Leilão de Cristais Online na Minas Cristais! Encontre peças únicas e exclusivas com preços imperdíveis. Participe ",
@@ -9,6 +9,17 @@
       "enabled": true
     },
     {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<center><h3> **Desperte o Colecionador que Existe em Você:**</h3><br>\n<p>\nExplore um universo de pedras semi preciosas, cristais brutos, drusas deslumbrantes selecionadas a dedo pela Minas Cristais. 💎✨</p> </center><br>"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/leilaominascristais_janeiro.png",
       "mobile_img": "/img/uploads/leilaominascristais_janeiro_m.png",
@@ -16,11 +27,8 @@
       "alt": "Leilão Online Minas Cristais "
     },
     {
-      "type": "page-title"
-    },
-    {
-      "type": "extra-page",
-      "enabled": true
+      "type": "custom-content",
+      "markdown": "<center><h3> **Nossos Leilões Online oferecem:**</h3><br>\n<p>\n\n\n* **Variedade:** Cristais raros, pedras brutas, drusas, joias e muito mais.\n* **Exclusividade:** Cada Cristal, uma História Única!\n* **Oportunidade:** Chance de adquirir cristais especiais com preços imperdíveis.\n* **Emoção:** A adrenalina de dar o seu lance e garantir a peça desejada.\n* **Acessibilidade:** Participe do leilão de qualquer lugar do Brasil e do mundo.\n\n.\n</p> </center><br>\n\n<center><div class=\"banner\"><a href=\"https://leilao.minascristais.com.br/\"target=\"_blank\" aria-label=\"\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/verleilao.png\" data-alt=\"\" data-loaded=\"true\"><source srcset=\"/img/uploads/verleilao.png\" media=\"\"><img></picture></a></div></center>"
     }
   ]
 }
