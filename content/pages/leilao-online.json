@@ -9,19 +9,18 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "responsive-banner",
+      "img": "/img/uploads/leilaominascristais_janeiro.png",
+      "mobile_img": "/img/uploads/leilaominascristais_janeiro_m.png",
+      "link": "https://leilao.minascristais.com.br/",
+      "alt": "Leilão Online Minas Cristais "
     },
     {
-      "type": "custom-html",
-      "html": "<div class=\"banner\"><a href=\"https://leilao.minascristais.com.br/\"target=\"_blank\" aria-label=\"Leilão Online Minas Cristais \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/leilaominascristais_janeiro.png\" data-alt=\"Leilão Online Minas Cristais \" data-loaded=\"true\"><source srcset=\"/img/uploads/leilaominascristais_janeiro.png\" media=\"(min-width: 576px)\"><source srcset=\"/img/uploads/leilaominascristais_janeiro_m.png\" media=\"(min-width: 100px)\"><img alt=\"Leilão Online Minas Cristais \"></picture></a></div>\n\n\n"
+      "type": "page-title"
     },
     {
       "type": "extra-page",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"banner\"><a href=\"https://leilao.minascristais.com.br/\"target=\"_blank\"> aria-label=\"Leilão Minas Cristais  \"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/verleilao.png\" data-alt=\"Leilão Minas Cristais\" data-loaded=\"true\"><source srcset=\"/img/uploads/_verleilao.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/verleilao.png\" media=\"\" type=\"image/png\"><img alt=\"Leilão Minas Cristais\"></picture></a></div>\n"
     }
   ]
 }
