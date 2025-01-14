@@ -112,6 +112,12 @@
       "link": "https://www.minascristais.com.br/arvores/"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/leilaominascristais_janeiro.png",
+      "link": "https://www.minascristais.com.br/pages/leilao-online",
+      "mobile_img": "/img/uploads/leilaominascristais_janeiro_m.png"
+    },
+    {
       "type": "page-title",
       "title": "Os mais vendidos"
     },
