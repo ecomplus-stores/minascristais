@@ -10,10 +10,10 @@
         {
           "start": "2024-12-03T03:04:37.822Z",
           "end": "",
-          "img": "/img/uploads/__energizantes_d.webp",
-          "mobile_img": "/img/uploads/__energia-das-pedras.webp",
-          "link": "https://www.minascristais.com.br/alegria-humor-energias-cristais",
-          "alt": "Cristais Energizantes "
+          "img": "/img/uploads/promojaneiro2025.png",
+          "mobile_img": "/img/uploads/promojaneiro2025_m.png",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "Sale Minas Cristais 50% Off"
         }
       ]
     },
@@ -30,26 +30,33 @@
       "page": 1,
       "collection_id": null,
       "sort": "offers",
-      "title": " Diversas Peças com até 50% Off, vem conferir",
+      "title": "ATÉ 50% OFF - CONFIRA",
       "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/leilaominascristais_janeiro.png",
+      "mobile_img": "/img/uploads/leilaominascristais_janeiro_m.png",
+      "link": "https://www.minascristais.com.br/pages/leilao-online",
+      "alt": "LEILÃO ONLINE"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cores2025.png",
-          "link": "https://www.minascristais.com.br/pages/pedras-cristais-cores",
-          "alt": "As Cores de 2025"
-        },
-        {
-          "img": "/img/uploads/cristais-brancos.png",
-          "link": "https://www.minascristais.com.br/pages/cristais-brancos-purifique-e-renove-suas-energias-para-2025",
-          "alt": "Cristais Brancos - Purificação e Limpeza "
-        },
-        {
           "img": "/img/uploads/protecaoespiritual.png",
           "link": "https://www.minascristais.com.br/pages/cristais-e-pedras-para-protecao-espiritual-afaste-as-energias-negativas",
-          "alt": "Cristais para Proteção Espiritual"
+          "alt": "CRISTAIS PARA PROTEÇÃO ESPIRITUAL"
+        },
+        {
+          "img": "/img/uploads/topazio2025.png",
+          "link": "https://www.minascristais.com.br/topazio-branco",
+          "alt": "TOPÁZIO BRANCO - PEDRA DO ANO DE 2025"
+        },
+        {
+          "img": "/img/uploads/corescristais.png",
+          "link": "https://www.minascristais.com.br/pages/pedras-cristais-cores",
+          "alt": "BUSQUE POR COR CRISTAIS E PEDRAS"
         }
       ]
     },
@@ -64,88 +71,24 @@
       "title": "DESTAQUES DA SEMANA"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "title": "GARIMPO DA SEMANA",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/garimpo-da-semana"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cristais-negros-protecao-energetica.png",
-          "link": "https://www.minascristais.com.br/pages/pedras-e-cristais-negros-conheca-o-poder-das-pedras-pretas"
+          "img": "/img/uploads/garimpo1mobile.png",
+          "link": "https://www.minascristais.com.br/garimpo-da-semana",
+          "alt": "GARIMPO MINAS CRISTAIS"
         },
         {
-          "img": "/img/uploads/kits-de-pedras.png",
-          "link": "https://www.minascristais.com.br/kitspedras-esotericas"
-        },
-        {
-          "img": "/img/uploads/cristais-relacionamento-e.png",
-          "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida"
+          "img": "/img/uploads/atacado-mobile-dez24.png",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "ATACADO E REVENDA MINAS CRISTAIS"
         }
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035637963422eeeee597a:categories:Pedras Roladas:/pedras-roladas/",
-      "sort": "news",
-      "title": "LEVE A ENERGIA DOS CRISTAIS PARA SUA VIDA",
-      "link": "https://www.minascristais.com.br/pedras-roladas/"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/aneis-bf.webp",
-          "link": "https://www.minascristais.com.br/aneis/"
-        },
-        {
-          "img": "/img/uploads/prata-bf.webp",
-          "link": "https://www.minascristais.com.br/prata"
-        },
-        {
-          "img": "/img/uploads/pingentes-prata.webp",
-          "link": "https://www.minascristais.com.br/pingentes-pedras/"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/decor-bf.webp",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais"
-        },
-        {
-          "img": "/img/uploads/pedras-bf.webp",
-          "link": "https://www.minascristais.com.br/pedras-na-base/"
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/atacado-desktop-dez24.png",
-      "mobile_img": "/img/uploads/atacado-mobile-dez24.png",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-      "alt": "Revenda nossas peças, use o cupom Atacado e garanta 50% off nas compras a partir de R$1000"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-      "title": "PEDRAS E CRISTAIS POR KILO",
-      "sort": "sales"
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
     },
     {
       "type": "responsive-banner",
