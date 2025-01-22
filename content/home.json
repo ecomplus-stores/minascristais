@@ -34,13 +34,6 @@
       "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/leilaominascristais_janeiro.png",
-      "mobile_img": "/img/uploads/leilaominascristais_janeiro_m.png",
-      "link": "https://www.minascristais.com.br/pages/leilao-online",
-      "alt": "LEILÃO ONLINE"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
