@@ -34,11 +34,6 @@
       "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
