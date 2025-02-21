@@ -34,6 +34,11 @@
       "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -64,29 +69,24 @@
       "title": "DESTAQUES DA SEMANA"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/garimpo1mobile.png",
-          "link": "https://www.minascristais.com.br/garimpo-da-semana",
-          "alt": "GARIMPO MINAS CRISTAIS"
-        },
-        {
-          "img": "/img/uploads/atacado-mobile-dez24.png",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "ATACADO E REVENDA MINAS CRISTAIS"
-        },
-        {
-          "img": "/img/uploads/leilaominascristais_janeiro-faixa-m.png",
-          "link": "https://www.minascristais.com.br/pages/leilao-online",
-          "alt": "Leilão Online Minas Cristais"
-        }
-      ]
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
+      "sort": "views",
+      "title": "Garimpo da Semana ",
+      "link": "https://www.minascristais.com.br/garimpo-da-semana"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
+      "sort": "sales",
+      "title": "Atacado e Revenda - veja aqui",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
     {
       "type": "responsive-banner",
