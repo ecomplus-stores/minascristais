@@ -5,21 +5,6 @@
   "meta_description": "Atacado Minas Cristais - Pedras & Cristais - Compre Online - Revenda - 50% desconto",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2024-12-02T20:16:17.748Z",
-          "end": "",
-          "img": "/img/uploads/atacado-pagina-topo.png",
-          "mobile_img": "",
-          "link": "",
-          "alt": "Use o cupom : Atacado"
-        }
-      ]
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
