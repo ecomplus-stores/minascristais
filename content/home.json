@@ -8,12 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-12-03T03:04:37.822Z",
+          "start": "2025-03-01T02:53:38.060Z",
           "end": "",
-          "img": "/img/uploads/promojaneiro2025-ok1.png",
-          "mobile_img": "/img/uploads/promojaneiro2025_mok.png",
-          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "Sale Minas Cristais 50% Off"
+          "img": "/img/uploads/decore_minas-cristais_w.png",
+          "mobile_img": "/img/uploads/decore_minas-cristais_m.png",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+          "alt": "Decor"
         }
       ]
     },
@@ -22,16 +22,6 @@
       "limit": 24,
       "offset": 0,
       "sort": null
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "ATÉ 50% OFF - CONFIRA",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes"
     },
     {
       "type": "banners-grid",
@@ -54,34 +44,9 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "DESTAQUES DA SEMANA"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "views",
-      "title": "Garimpo da Semana ",
-      "link": "https://www.minascristais.com.br/garimpo-da-semana"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
-      "title": "Atacado e Revenda - veja aqui",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "responsive-banner",
