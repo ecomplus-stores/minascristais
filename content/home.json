@@ -22,6 +22,14 @@
           "mobile_img": "/img/uploads/pedrasecristais-minascristais-m.png",
           "link": "https://www.minascristais.com.br/cristaisepedras/",
           "alt": "Pedras e Cristais Minas Cristais"
+        },
+        {
+          "start": "2025-03-01T03:49:37.145Z",
+          "end": "",
+          "img": "/img/uploads/atacado-minascristais-w.png",
+          "mobile_img": "/img/uploads/atacado-minascristais-m.png",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "Atacado Minas Cristais "
         }
       ]
     },
@@ -30,6 +38,11 @@
       "limit": 24,
       "offset": 0,
       "sort": null
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -50,11 +63,6 @@
           "alt": "BUSQUE POR COR CRISTAIS E PEDRAS"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
     },
     {
       "type": "responsive-banner",
