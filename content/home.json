@@ -3,12 +3,6 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais no Varejo e Atacado envio para Todo Brasil e Exterior. LojasFísicas: Sete Lagoas, Curvelo e BH. Pronta Entrega.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/1.png",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "alt": "FIM DE SEMANA DA MULHER - 30% OFF EM ACESSÓRIOS"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -46,14 +40,20 @@
       "sort": null
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/1.png",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "alt": "FIM DE SEMANA DA MULHER - 30% OFF EM ACESSÓRIOS"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "DESTAQUES DA SEMANA"
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "title": "30% OFF AUTOMÁTICO NO CARRINHO"
     },
     {
       "type": "banners-grid",
