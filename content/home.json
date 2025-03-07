@@ -56,6 +56,36 @@
       "title": "30% OFF AUTOMÁTICO NO CARRINHO"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035657963422eeeee5983:categories:Brincos:/bijuteriasesemijoias-brincos/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "title": "BRINCOS DE PEDRAS DIVERSAS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035ce7963422eeeee5ad7:categories:Anéis:/aneis/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "title": "ANÉIS EM PEDRAS "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035bb7963422eeeee5a98:categories:Pingentes:/pingentes-pedras/",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "title": "PINGENTES"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
