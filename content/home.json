@@ -51,7 +51,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "sales",
+      "sort": "highest_price",
       "link": "https://www.minascristais.com.br/acessorios",
       "title": "30% OFF AUTOMÁTICO NO CARRINHO"
     },
@@ -104,6 +104,16 @@
           "alt": "BUSQUE POR COR CRISTAIS E PEDRAS"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/garimpo-da-semana",
+      "title": "GARIMPO DA SEMANA"
     },
     {
       "type": "responsive-banner",
