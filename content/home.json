@@ -8,20 +8,20 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2025-03-01T02:53:38.060Z",
-          "end": "",
-          "img": "/img/uploads/decore_minas-cristais_w.png",
-          "mobile_img": "/img/uploads/decore_minas-cristais_m.png",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
-          "alt": "Decor"
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/pedrasecristais-minascristais-w.png",
           "mobile_img": "/img/uploads/pedrasecristais-minascristais-m.png",
           "link": "https://www.minascristais.com.br/cristaisepedras/",
           "alt": "Pedras e Cristais Minas Cristais"
+        },
+        {
+          "start": "2025-03-01T02:53:38.060Z",
+          "end": "",
+          "img": "/img/uploads/decore_minas-cristais_w.png",
+          "mobile_img": "/img/uploads/decore_minas-cristais_m.png",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+          "alt": "Decor"
         },
         {
           "start": "2025-03-01T03:49:37.145Z",
