@@ -40,22 +40,6 @@
       "sort": null
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/1.png",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "alt": "FIM DE SEMANA DA MULHER - 30% OFF EM ACESSÓRIOS"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "highest_price",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "title": "30% OFF AUTOMÁTICO NO CARRINHO"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
