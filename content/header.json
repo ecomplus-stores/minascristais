@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "FIM DE SEMANA ESPECIAL | 30% OFF EM ACESSÓRIOS | DESCONTO AUTOMÁTICO NO CARRINHO",
-    "link": "https://www.minascristais.com.br/acessorios",
-    "background": "#601797",
-    "color": "#ffffff"
+    "text": "",
+    "link": "",
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [
