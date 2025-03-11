@@ -8,28 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2025-03-11T20:07:57.042Z",
           "end": "",
-          "img": "/img/uploads/pedrasecristais-minascristais-w.png",
-          "mobile_img": "/img/uploads/pedrasecristais-minascristais-m.png",
+          "img": "/img/uploads/cliente-d.png",
+          "mobile_img": "/img/uploads/cliente-m.png",
           "link": "https://www.minascristais.com.br/cristaisepedras/",
           "alt": "Pedras e Cristais Minas Cristais"
-        },
-        {
-          "start": "2025-03-01T02:53:38.060Z",
-          "end": "",
-          "img": "/img/uploads/decore_minas-cristais_w.png",
-          "mobile_img": "/img/uploads/decore_minas-cristais_m.png",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
-          "alt": "Decor"
-        },
-        {
-          "start": "2025-03-01T03:49:37.145Z",
-          "end": "",
-          "img": "/img/uploads/atacado-minascristais-w.png",
-          "mobile_img": "/img/uploads/atacado-minascristais-m.png",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "Atacado Minas Cristais "
         }
       ]
     },
