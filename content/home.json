@@ -78,10 +78,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/garimpo-da-semana",
-      "title": "GARIMPO DA SEMANA"
+      "collection_id": "66948dfff4e6d85ab2d18416:collections:Cristais e Pedras para Proteção:/cristais-pedras-protecao",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
+      "title": "PEDRAS E CRISTAIS PARA PROTEÇÃO "
     },
     {
       "type": "responsive-banner",
