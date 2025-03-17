@@ -75,6 +75,22 @@
     },
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/__atacado-revenda.webp",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "mobile_img": "/img/uploads/__atacado-revenda-mobile.webp"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
+      "title": "COMPRE POR KILO"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/lojasfisicas_dez24.png",
       "link": "https://www.minascristais.com.br/pages/contato",
       "alt": "Lojas Físicas Minas Cristais",
