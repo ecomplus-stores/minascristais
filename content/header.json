@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "",
-    "link": "",
-    "background": "",
-    "color": ""
+    "text": "FRETE GRÁTIS - envio econômico - Sul e Sudeste: a partir de R$300 até 5kg  | Centro oeste, Norte e Nordeste: a partir de R$500 até 5kg",
+    "link": "https://minascristais.com.br/pages/entrega",
+    "background": "#0d1e72",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
