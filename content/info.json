@@ -2,7 +2,8 @@
   "shipping": {
     "show": true,
     "text": "Enviamos para Todo Brasil | Para Exterior | Lojas Físicas ",
-    "link": "https://minascristais.com.br/pages/entrega"
+    "link": "https://minascristais.com.br/pages/entrega",
+    "title": "FRETE GRÁTIS - envio econômico - consulte promoção do mês "
   },
   "installments": {
     "show": true,
