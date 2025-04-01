@@ -8,12 +8,28 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2025-04-01T03:15:16.398Z",
+          "end": "",
+          "img": "/img/uploads/cianita-d.png",
+          "mobile_img": "/img/uploads/cianita-m.png",
+          "link": "https://www.minascristais.com.br/cianita-azul/",
+          "alt": "ABRIL AZUL- COMPRE E GANHE 01 CIANITA AZUL BRUTA "
+        },
+        {
           "start": "2025-03-17T03:38:47.148Z",
           "end": "",
           "img": "/img/uploads/pedrasecristais-minascristais-w.png",
           "mobile_img": "/img/uploads/pedrasecristais-minascristais-m.png",
           "link": "https://www.minascristais.com.br/cristaisepedras/",
           "alt": "Pedras e Cristais Minas Cristais"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/atacado-minascristais-w.png",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "atacado e revenda - conheça Minas Cristais ",
+          "mobile_img": "/img/uploads/atacado-minascristais-m.png"
         }
       ]
     },
