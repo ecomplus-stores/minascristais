@@ -7,10 +7,10 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2025-04-07T14:43:16.823Z",
           "end": "",
           "img": "/img/uploads/leilao-minascristais-abril.png",
           "link": "https://leilao.minascristais.com.br/",
