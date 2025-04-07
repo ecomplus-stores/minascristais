@@ -5,6 +5,20 @@
   "meta_description": "Leilão de Cristais Online na Minas Cristais! Encontre peças únicas e exclusivas com preços imperdíveis. Participe ",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/leilao-minascristais-abril.png",
+          "link": "https://leilao.minascristais.com.br/",
+          "alt": "2º LEILÃO DE CRISTAIS E PEDRAS SEMI PRECIOSAS"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
