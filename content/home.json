@@ -50,6 +50,13 @@
       "title": "DESTAQUES DA SEMANA"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/leilaoabril-fd.png",
+      "mobile_img": "/img/uploads/leilaoabril-m.png",
+      "alt": "2º LEILÃO DE CRISTAIS E PEDRAS SEMI PRECIOSAS",
+      "link": "https://www.minascristais.com.br/pages/leilao-online"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
