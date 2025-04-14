@@ -45,7 +45,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -55,7 +55,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "views",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA"
     },
@@ -65,7 +65,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "666a535bf4e6d85ab2aa4c0d:collections:Energize seu Humor com Cristais:/alegria-humor-energias-cristais",
-      "sort": "views",
+      "sort": "news",
       "title": "Energize-se: 4 Cristais para Corpo e Alma!",
       "link": "https://www.minascristais.com.br/alegria-humor-energias-cristais"
     },
