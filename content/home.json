@@ -26,6 +26,18 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2025-04-22T17:27:59.977Z",
+          "end": "",
+          "img": "/img/uploads/maes.png"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
