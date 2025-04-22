@@ -1,6 +1,19 @@
 {
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2025-04-22T18:00:40.959Z",
+          "end": "",
+          "img": "/img/uploads/maes.png",
+          "link": "https://www.minascristais.com.br/pages/dia-das-maes"
+        }
+      ]
+    },
+    {
       "type": "document-banner",
       "enabled": true
     },
