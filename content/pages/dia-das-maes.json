@@ -1,6 +1,6 @@
 {
   "title": "Dia das Mães ",
-  "body": "Antecipe suas compras e surpreenda sua mãe, avó ou madrinha com um presente especial, confira o que preparamos para você!\n\nN﻿as compras a partir de **R$300 até 5kg - FRETE GRÁTIS** para **Regiões Sudeste e Sul.** Envio Econômico. \n\nAdquira acima de **R$200** e receba nosso **[combo exclusivo: Purpurita e Sodalita](https://www.minascristais.com.br/combo-especial-purpurita-sodalita-brutas)** para equilíbrio e espiritualidade. Adicionado automaticamente ao seu carrinho!",
+  "body": "Antecipe suas compras e surpreenda sua mãe, avó ou madrinha com um presente especial, confira o que preparamos para você!\n\n<!--StartFragment-->\n\nSurpreenda a mulher mais especial da sua vida com presentes que vão além da beleza. 💖 \n\nNossos cristais e acessórios carregam energias únicas, perfeitos para demonstrar amor, cuidado e admiração. \n\nUse o cupom e garanta um mimo extra para ela!\n\n<!--EndFragment-->\n\n**M﻿IMOS DAS MÃES** : \n\npara compras a partir de **R$100** use **MAE100** e ganhe um lindo [mini pingente](https://www.minascristais.com.br/mini-pingente-cabochao-especial-dias-das-maes) \n\np﻿ara compras a partir de **R$250** use **MAE250** e ganhe um lindo[ porta vela de cascalhinho](https://www.minascristais.com.br/porta-vela-pedras-cascalhinho-especial-dia-das-maes)s\n\np﻿ara compras a partir de **R$500** use **MAE500** e ganhe um lindo[ sino dos ventos de pedras roladas](https://www.minascristais.com.br/sino-de-pedra-rolada-especia-dia-das-maes)\n\n[](https://www.minascristais.com.br/sino-de-pedra-rolada-especia-dia-das-maes)",
   "meta_title": "Pedras e Cristais | Presentes Mês das Mães",
   "meta_description": "Aproveite as ofertas especiais de Mês das Mães da Minas Cristais e expresse amor e gratidão com presentes cheios de significado e energia dos cristais. ",
   "sections": [
@@ -10,10 +10,10 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-04-24T20:57:31.540Z",
+          "start": "2025-04-22T17:33:01.063Z",
           "end": "",
-          "img": "/img/uploads/__slidemaes.webp",
-          "mobile_img": "/img/uploads/__slidemobilemaes.webp"
+          "img": "/img/uploads/maes.png",
+          "mobile_img": ""
         }
       ]
     },
@@ -30,7 +30,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$70:/presentes-pedra-cristais",
+      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$100:/presentes-pedra-cristais",
       "sort": "views",
       "link": "https://www.minascristais.com.br/presentes-pedra-cristais",
       "title": "Ideias de Presentes até R$100"
@@ -62,7 +62,8 @@
       "page": 1,
       "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
       "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-      "title": "Kits de Pedras Naturais e Esotéricas"
+      "title": "Kits de Pedras Naturais e Esotéricas",
+      "sort": "sales"
     },
     {
       "type": "brands-carousel",
@@ -73,19 +74,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__banneresotericos-m.webp",
-          "link": "https://www.minascristais.com.br/esoterismo/",
-          "alt": "Presentes Esotéricos Minas Cristais"
+          "img": "/img/uploads/corescristais.png",
+          "link": "https://www.minascristais.com.br/pages/pedras-cristais-cores",
+          "alt": "Busque por cores"
         },
         {
-          "img": "/img/uploads/__formatos-m.webp",
-          "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos",
-          "alt": "Diversos Formatos em Pedras e Cristais"
+          "img": "/img/uploads/cianitaazul.png",
+          "link": "https://www.minascristais.com.br/cianita-azul/",
+          "alt": "Cianita Azul"
         },
         {
-          "img": "/img/uploads/_decor-m.webp",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
-          "alt": "Décor em Cristais "
+          "img": "/img/uploads/protecaoespiritual.png",
+          "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
+          "alt": "Proteção com Cristais"
         }
       ]
     },
