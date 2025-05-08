@@ -46,12 +46,25 @@
       "sort": null
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/conjuntos.png",
+          "link": "https://www.minascristais.com.br/acessorios"
+        },
+        {
+          "img": "/img/uploads/tercos.png",
+          "link": "https://www.minascristais.com.br/tercos-em-pedras-diversas"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "views",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -81,7 +94,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA"
     },
@@ -97,7 +110,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "news",
+      "sort": "lowest_price",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais",
       "title": "COMPRE POR KILO"
     },
