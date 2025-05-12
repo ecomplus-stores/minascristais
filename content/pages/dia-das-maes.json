@@ -1,22 +1,9 @@
 {
   "title": "Dia das Mães ",
-  "body": "Antecipe suas compras e surpreenda sua mãe, avó ou madrinha com um presente especial, confira o que preparamos para você!\n\n<!--StartFragment-->\n\nSurpreenda a mulher mais especial da sua vida com presentes que vão além da beleza. 💖 \n\nNossos cristais e acessórios carregam energias únicas, perfeitos para demonstrar amor, cuidado e admiração. \n\nUse o cupom e garanta um mimo extra para ela!\n\n<!--EndFragment-->\n\n**M﻿IMOS DAS MÃES** : \n\npara compras a partir de **R$100** use **MAE100** e ganhe um lindo [mini pingente](https://www.minascristais.com.br/mini-pingente-cabochao-especial-dias-das-maes) \n\np﻿ara compras a partir de **R$250** use **MAE250** e ganhe um lindo[ porta vela de cascalhinho](https://www.minascristais.com.br/porta-vela-pedras-cascalhinho-especial-dia-das-maes)s\n\np﻿ara compras a partir de **R$500** use **MAE500** e ganhe um lindo[ sino dos ventos de pedras roladas](https://www.minascristais.com.br/sino-de-pedra-rolada-especia-dia-das-maes)\n\n[](https://www.minascristais.com.br/sino-de-pedra-rolada-especia-dia-das-maes)",
+  "body": "Antecipe suas compras e surpreenda sua mãe, avó ou madrinha com um presente especial, confira o que preparamos para você!\n\n<!--StartFragment-->\n\nSurpreenda a mulher mais especial da sua vida com presentes que vão além da beleza. 💖 \n\nNossos cristais e acessórios carregam energias únicas, perfeitos para demonstrar amor, cuidado e admiração. \n\n[](https://www.minascristais.com.br/sino-de-pedra-rolada-especia-dia-das-maes)",
   "meta_title": "Pedras e Cristais | Presentes Mês das Mães",
   "meta_description": "Aproveite as ofertas especiais de Mês das Mães da Minas Cristais e expresse amor e gratidão com presentes cheios de significado e energia dos cristais. ",
   "sections": [
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2025-04-22T17:33:01.063Z",
-          "end": "",
-          "img": "/img/uploads/maes.png",
-          "mobile_img": "/img/uploads/maesmobile25.png"
-        }
-      ]
-    },
     {
       "type": "breadcrumbs",
       "enabled": true
@@ -52,8 +39,8 @@
       "page": 1,
       "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
       "sort": "news",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "title": "Acessórios Proteção das Pedras em seu Look "
+      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
+      "title": "Procurando um presente especial? "
     },
     {
       "type": "collection-shelf",
@@ -62,7 +49,7 @@
       "page": 1,
       "collection_id": "620035467963422eeeee58e0:categories:Esoterismo:/esoterismo/",
       "link": "https://www.minascristais.com.br/esoterismo/",
-      "title": "Pedras Místicas & Esotéricas",
+      "title": "Presentes Esotéricos",
       "sort": "sales"
     },
     {
