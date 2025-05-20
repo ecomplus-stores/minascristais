@@ -1,92 +1,51 @@
 {
   "title": "♥ O Amor está no Ar  ♥ ",
-  "body": "# **P﻿romoção encerrada.**",
+  "body": "O amor está no ar... e as boas energias também! ✨\n\nNeste Dia dos Namorados, celebre a sua cara metade, seu crush ou quem você ama de um jeito especial. Na Minas Cristais, preparamos uma seleção incrível de presentes que renovam o laço de amor e cuidado, cheios de significado e vibrações positivas.\n\nE para dar aquela forcinha, você encontra peças selecionadas com até **50% OFF**! \n\nExplore também nossos kits e conjuntos especiais com diversas pedras e cristais, perfeitos para surpreender com um presente que transborda amor e boas energias.\n\nNão perca tempo! \n\nEncontre o presente ideal com pronta entrega e envio para todo Brasil. Venha conferir!",
   "meta_title": "Presentes Dia dos Namorados - Minas Cristais - Pedras e Cristais ",
   "meta_description": "Presentes Dia dos Namorados - Minas Cristais - Pedras e Cristais ",
   "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/slidenamorados-2025.png",
+          "mobile_img": "/img/uploads/slidenamorados-2025-mobile.png",
+          "alt": "O amor está no ar... e as boas energias também!"
+        }
+      ]
+    },
     {
       "type": "extra-page",
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035557963422eeeee592d:categories:Coração:/coracao/",
-      "sort": "views",
-      "title": "\t♥",
-      "link": "https://www.minascristais.com.br/coracao/"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/aneis-namorados-off.png",
+          "link": "https://www.minascristais.com.br/aneis-em-promocao",
+          "alt": "Anéis de Pedras e Cristais em Promoção"
+        },
+        {
+          "img": "/img/uploads/brincos-namorados-off.png",
+          "link": "https://www.minascristais.com.br/brincos-em-promocao",
+          "alt": "Brincos em Pedras e Cristais - até 50%off"
+        },
+        {
+          "img": "/img/uploads/pingentes_namorados-off.png",
+          "link": "https://www.minascristais.com.br/pingentes-em-promocao",
+          "alt": "Pingentes com até 50% off"
+        }
+      ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$50:/presentes-pedra-cristais",
-      "sort": "news",
-      "title": "♥ Presentes até R$50 ",
-      "link": "https://www.minascristais.com.br/presentes-pedra-cristais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211c7cc7963422eee0ef5b3:categories:Purpurita:/pedra-purpurita",
-      "sort": "news",
-      "title": "Purpurita : A Pedra da Proteção Psíquica",
-      "link": "https://www.minascristais.com.br/pedra-purpurita"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62045ce67963422eeef73d5a:categories:Acessórios em Prata:/prata",
-      "sort": "news",
-      "title": "♥ Compre 01 peça em prata e Ganhe 01 lindo mini coração de Quartzo Rosa ♥",
-      "link": "https://www.minascristais.com.br/prata"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
-      "sort": "news",
-      "title": "♥ Quartzo Rosa : a Pedra do Amor ♥",
-      "link": "https://www.minascristais.com.br/quartzo-rosa/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035ee7963422eeeee5b3c:categories:Sungita | Shungita | Shungite:/sungita-shungita-shungite/",
-      "sort": "news",
-      "title": "Shungita: A Pedra Poderosa que Purifica, Equilibra e Protege",
-      "link": "https://www.minascristais.com.br/sungita-shungita-shungite/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "639b494a4834634f73129e6d:collections:Presentes até R$100:/pecas-presentes-minas-cristais",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
-      "title": "♥Presentes de R$100 a R$300 "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
-      "sort": "sales",
-      "title": "Acessórios em Pedras e Cristais ",
-      "link": "https://www.minascristais.com.br/mix-acessorios"
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
     },
     {
       "type": "brands-carousel",
