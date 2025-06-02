@@ -85,7 +85,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200361a7963422eeeee5bda:categories:Conjuntos :/conjuntos/",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/conjuntos/",
       "title": "Conjuntos Especiais com Desconto, vem conferir"
     },
@@ -105,7 +105,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA"
     },
