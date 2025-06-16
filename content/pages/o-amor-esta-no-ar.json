@@ -23,56 +23,6 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/aneis-namorados-off.png",
-          "link": "https://www.minascristais.com.br/aneis-em-promocao",
-          "alt": "Anéis de Pedras e Cristais em Promoção"
-        },
-        {
-          "img": "/img/uploads/brincos-namorados-off.png",
-          "link": "https://www.minascristais.com.br/brincos-em-promocao",
-          "alt": "Brincos em Pedras e Cristais - até 50%off"
-        },
-        {
-          "img": "/img/uploads/pingentes_namorados-off.png",
-          "link": "https://www.minascristais.com.br/pingentes-em-promocao",
-          "alt": "Pingentes com até 50% off"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "682fe7f5578b5f795422b1f1:collections:Kit de Presentes:/kit-de-presentes-pedras-cristais",
-      "sort": "offers",
-      "title": "Kits de Presentes - Presente com propósito, vem conferir",
-      "link": "https://www.minascristais.com.br/kit-de-presentes-pedras-cristais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6200361a7963422eeeee5bda:categories:Conjuntos :/conjuntos/",
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/conjuntos/",
-      "title": "Conjuntos Especiais com Desconto, vem conferir"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
-      "title": "Ideias de Presentes em Pedras e Cristais, confira"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
