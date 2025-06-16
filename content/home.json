@@ -8,14 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2025-05-20T02:20:50.760Z",
-          "end": "",
-          "img": "/img/uploads/slidenamorados-2025.png",
-          "link": "https://www.minascristais.com.br/pages/o-amor-esta-no-ar",
-          "mobile_img": "/img/uploads/slidenamorados-2025-mobile.png",
-          "alt": "peças selecionadas com até 50% OFF!"
-        },
-        {
           "start": "2025-03-17T03:38:47.148Z",
           "end": "",
           "img": "/img/uploads/pedrasecristais-minascristais-w.png",
@@ -40,32 +32,12 @@
       "sort": null
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/aneis-namorados-off.png",
-          "link": "https://www.minascristais.com.br/aneis-em-promocao",
-          "alt": "Anéis Pedras e Cristais com até 50% off"
-        },
-        {
-          "img": "/img/uploads/brincos-namorados-off.png",
-          "link": "https://www.minascristais.com.br/brincos-em-promocao",
-          "alt": "Brincos Pedras e Cristais até 50% off"
-        },
-        {
-          "img": "/img/uploads/pingentes_namorados-off.png",
-          "link": "https://www.minascristais.com.br/pingentes-em-promocao",
-          "alt": "Pingentes Pedras e Cristais até 50% off"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "offers",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -74,7 +46,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
+      "sort": "views",
       "collection_id": "682fe7f5578b5f795422b1f1:collections:Kit de Presentes:/kit-de-presentes-pedras-cristais",
       "link": "https://www.minascristais.com.br/kit-de-presentes-pedras-cristais",
       "title": "Kits Presentes - Presente com propósito."
@@ -85,9 +57,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200361a7963422eeeee5bda:categories:Conjuntos :/conjuntos/",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/conjuntos/",
-      "title": "Conjuntos Especiais com Desconto, vem conferir"
+      "title": "Conjuntos "
     },
     {
       "type": "collection-shelf",
@@ -95,7 +67,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
       "title": "Ideias de Presentes , vem conferir"
     },
@@ -105,7 +77,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA"
     },
@@ -121,7 +93,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais",
       "title": "COMPRE POR KILO"
     },
