@@ -44,7 +44,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -54,7 +54,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA"
     },
@@ -63,7 +63,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "collection_id": "620035497963422eeeee58ed:categories:Formatos:/formatos/",
       "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos",
       "title": "PRONTA ENTREGA - VARIEDADE DE FORMATOS "
@@ -74,7 +74,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035667963422eeeee5986:categories:Decoração:/decor-objetos-cristais/",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/decor-objetos-cristais",
       "title": "DECORAÇÃO EM PEDRAS & CRISTAIS"
     },
@@ -90,7 +90,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "news",
+      "sort": "lowest_price",
       "link": "https://www.minascristais.com.br/kg-pedras-cristais",
       "title": "COMPRE POR KILO"
     },
@@ -100,7 +100,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035e47963422eeeee5b1d:categories:Kits Pedras :/kits-pedras/",
-      "sort": "lowest_price",
+      "sort": "views",
       "title": "KITS E COMBOS DE PEDRAS & CRISTAIS",
       "link": "https://www.minascristais.com.br/kitspedras-esotericas"
     },
