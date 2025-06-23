@@ -8,12 +8,26 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__destaquesmes.webp",
+          "mobile_img": "/img/uploads/__destaquesmes-m.webp",
+          "link": "https://www.minascristais.com.br/cristaisepedras/"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__autocuidado.webp",
+          "mobile_img": "/img/uploads/__autocuidadomobile.webp",
+          "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
+        },
+        {
           "start": "2025-06-20T02:15:39.656Z",
           "end": "",
-          "img": "/img/uploads/atacado-fim-de-semana-especial-d.png",
+          "img": "/img/uploads/atacado-minascristais-w.png",
           "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
           "alt": "atacado e revenda - conheça Minas Cristais ",
-          "mobile_img": "/img/uploads/atacado-fim-de-semana-especial-m.png"
+          "mobile_img": "/img/uploads/atacado-minascristais-m.png"
         }
       ]
     },
