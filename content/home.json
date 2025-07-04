@@ -8,27 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2025-07-04T02:58:22.698Z",
           "end": "",
-          "img": "/img/uploads/__decore.webp",
-          "mobile_img": "/img/uploads/__decore-mobile.webp",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/__autocuidado.webp",
-          "mobile_img": "/img/uploads/__autocuidadomobile.webp",
-          "link": "https://www.minascristais.com.br/cristais-pedras-autocuidado-bem-estar",
-          "alt": "Cristais e Pedras para Bem Estar - Autocuidado"
-        },
-        {
-          "start": "2025-06-20T02:15:39.656Z",
-          "end": "",
-          "img": "/img/uploads/atacado-minascristais-w.png",
-          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-          "alt": "atacado e revenda - conheça Minas Cristais ",
-          "mobile_img": "/img/uploads/atacado-minascristais-m.png"
+          "img": "/img/uploads/chamadan-j.webp",
+          "link": "",
+          "alt": "Toda Loja com 50% de desconto - Desconto automático no carrinho",
+          "mobile_img": "/img/uploads/chamadamob.webp"
         }
       ]
     },
