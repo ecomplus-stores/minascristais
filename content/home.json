@@ -33,10 +33,19 @@
       ]
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/kitspedras-j.webp",
+          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
+          "alt": "Kits de Pedras & Cristais ( Brutas e Polidas) Minas Cristais "
+        },
+        {
+          "img": "/img/uploads/kitspresente-j.webp",
+          "link": "https://www.minascristais.com.br/kit-de-presentes-pedras-cristais",
+          "alt": "Kits Presente - Minas Cristais"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -49,24 +58,25 @@
       "title": "DESTAQUES DA SEMANA"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035987963422eeeee5a26:categories:Pirita:/pirita/",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/pirita/",
-      "title": "PIRITA - A Pedra da Prosperidade, Riqueza e Sucesso! "
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/decor-j.webp",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
+          "alt": "Decor e Mesa Posta em Pedras - Minas Cristais"
+        },
+        {
+          "img": "/img/uploads/acessorios-j.webp",
+          "link": "https://www.minascristais.com.br/mix-acessorios",
+          "alt": "Acessórios em Cristais e Prata - Minas Cristais "
+        }
+      ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/garimpo-da-semana",
-      "title": "GARIMPO DA SEMANA"
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
     },
     {
       "type": "collection-shelf",
@@ -79,30 +89,19 @@
       "title": "PRONTA ENTREGA - VARIEDADE DE FORMATOS "
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__atacado-revenda.webp",
-      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
-      "mobile_img": "/img/uploads/__atacado-revenda-mobile.webp"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "lowest_price",
-      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
-      "title": "COMPRE POR KILO"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035e47963422eeeee5b1d:categories:Kits Pedras :/kits-pedras/",
-      "sort": "views",
-      "title": "KITS E COMBOS DE PEDRAS & CRISTAIS",
-      "link": "https://www.minascristais.com.br/kitspedras-esotericas"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/esoterico-j.webp",
+          "link": "https://www.minascristais.com.br/esoterismo/",
+          "alt": "Pedras Místicas e Chakras e Kits Especiais Esotéricos - Minas Cristais "
+        },
+        {
+          "img": "/img/uploads/garimpo-j.webp",
+          "link": "https://www.minascristais.com.br/garimpo-da-semana",
+          "alt": "Garimpo da Semana- Peças únicas, raras Minas Cristais "
+        }
+      ]
     },
     {
       "type": "responsive-banner",
