@@ -4,6 +4,20 @@
   "meta_description": "Ofertas Minas Cristais",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/chamadan-j.webp",
+          "mobile_img": "/img/uploads/chamadamob.webp",
+          "alt": "50% em Toda Loja - Desconto automático no carrinho"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -17,8 +31,8 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "offers"
+      "sort": "views"
     }
   ],
-  "body": "\n\nD﻿escontos Minas Cristais\n\n<!--StartFragment-->\n\n\n\n<!--EndFragment-->\n\n[](https://www.minascristais.com.br/pedrasovais/)"
+  "body": "<!--StartFragment-->\n\n🥳 **34 ANOS DE BRILHO E ENERGIA MINAS CRISTAIS!** ✨\n\nPara celebrar essa jornada incrível com você, toda a loja está com **50% DE DESCONTO AUTOMÁTICO NO CARRINHO!** 🤩\n\nDe 04 a 13 de julho, mergulhe no universo mágico das pedras naturais e cristais com uma super oferta. Encontre suas peças favoritas, renove suas energias e brilhe ainda mais! ✨\n\n<!--EndFragment-->\n\n[](https://www.minascristais.com.br/pedrasovais/)"
 }
