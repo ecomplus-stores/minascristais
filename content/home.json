@@ -68,10 +68,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "highest_price",
-      "collection_id": "620035497963422eeeee58ed:categories:Formatos:/formatos/",
+      "sort": "news",
+      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "link": "https://www.minascristais.com.br/pages/pedras-cristais-formatos",
       "title": "PRONTA ENTREGA - VARIEDADE DE FORMATOS "
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
