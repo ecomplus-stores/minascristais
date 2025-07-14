@@ -110,10 +110,26 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/lojasfisicas_dez24.png",
+      "img": "/img/uploads/atacado-j_d.png",
+      "mobile_img": "/img/uploads/atacado_j-m.png",
+      "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+      "alt": "Garanta 50% de desconto nas compras a partir de R$1.500  Use o cupom : ATACADO no carrinho."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
+      "sort": "news"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/lojasfisicas_j.png",
       "link": "https://www.minascristais.com.br/pages/contato",
       "alt": "Lojas Físicas Minas Cristais",
-      "mobile_img": "/img/uploads/lojasfisicas_dez24_m.png"
+      "mobile_img": "/img/uploads/lojasfisicas_j_l.png"
     },
     {
       "type": "info-bar",
