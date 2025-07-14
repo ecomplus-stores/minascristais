@@ -21,7 +21,7 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "sort": null
+      "sort": "name"
     },
     {
       "type": "collection-shelf",
