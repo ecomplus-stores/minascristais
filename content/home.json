@@ -24,6 +24,16 @@
       "sort": null
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+      "title": "DESTAQUES DA SEMANA"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -43,17 +53,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "DESTAQUES DA SEMANA"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
+      "sort": "news",
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA "
@@ -79,7 +79,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "666a535bf4e6d85ab2aa4c0d:collections:Energize seu Humor com Cristais:/alegria-humor-energias-cristais",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/alegria-humor-energias-cristais",
       "title": "LEVE A ENERGIA DOS CRISTAIS PARA SUA VIDA"
     },
@@ -88,18 +88,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "66948dfff4e6d85ab2d18416:collections:Cristais e Pedras para Proteção:/cristais-pedras-protecao",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
-      "title": "CRISTAIS MÍSTICOS PARA SUA PROTEÇÃO"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "views",
+      "sort": "news",
       "title": "ACESSÓRIOS EM PEDRAS A PRONTA ENTREGA",
       "link": "https://www.minascristais.com.br/acessorios"
     },
