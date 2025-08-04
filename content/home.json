@@ -10,12 +10,37 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/agosto-25-1.png",
+          "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
+          "alt": "Presentes Especiais",
+          "mobile_img": "/img/uploads/agosto-25-1m.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/_chamadageral_julho25.webp",
           "mobile_img": "/img/uploads/_chamadageral_julho25-mob.webp",
           "link": "https://www.minascristais.com.br/cristaisepedras/",
           "alt": "Escolha, Receba, Energize. Produtos Selecionados em Diversos Formatos, Pronta Entrega!"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/brindedagosto.png",
+      "mobile_img": "/img/uploads/brindemagosto.png",
+      "link": "https://www.minascristais.com.br/pingente-turmalina-negra-bruta---unidade",
+      "alt": "Brinde do Mês de Agosto - Compre R$50 e ganhe 01 Pingente de Turmalina Negra"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+      "title": "OS DESTAQUES DA SEMANA"
     },
     {
       "type": "brands-carousel",
@@ -28,23 +53,28 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
+      "collection_id": "65f243ef87ab487fbfe4c622:collections:Para Colecionadores - Raridades e Colecionáveis:/cristais-colecionaveis-raridades",
       "sort": "news",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "DESTAQUES DA SEMANA"
+      "link": "https://www.minascristais.com.br/pedras-de-colecao/",
+      "title": "PEÇAS PARA COLECIONADORES - RARAS E ÚNICAS "
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/kitspedras-j.webp",
-          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-          "alt": "Kits de Pedras & Cristais ( Brutas e Polidas) Minas Cristais "
+          "img": "/img/uploads/leila1208.png",
+          "link": "https://www.minascristais.com.br/pages/leilao-online",
+          "alt": "Leilão Minas Cristais em Agosto - Participe"
         },
         {
-          "img": "/img/uploads/kitspresente-j.webp",
-          "link": "https://www.minascristais.com.br/kit-de-presentes-pedras-cristais",
-          "alt": "Kits Presente - Minas Cristais"
+          "img": "/img/uploads/decor-agosto-25.png",
+          "link": "https://www.minascristais.com.br/decor-objetos-cristais/",
+          "alt": "Decor em Pedras & Cristais - Pronta Entrega"
+        },
+        {
+          "img": "/img/uploads/garimpo-agosto25.png",
+          "link": "https://www.minascristais.com.br/garimpo-da-semana",
+          "alt": "Garimpo da Semana - Peças ùnicas e selecionadas toda semana - Minas Cristais"
         }
       ]
     },
@@ -78,18 +108,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "687bf34c578b5f795469dec1:collections:Cristais Essenciais para Navegar o Ciclo de Revisão e Proteção:/cristais-revisao-protecao",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/cristais-revisao-protecao",
-      "title": "USE OS CRISTAIS COMO ALIADOS PARA CADA CICLO"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "news",
+      "sort": "sales",
       "title": "ACESSÓRIOS EM PEDRAS A PRONTA ENTREGA",
       "link": "https://www.minascristais.com.br/acessorios"
     },
@@ -97,14 +117,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/esoterico-j.webp",
-          "link": "https://www.minascristais.com.br/esoterismo/",
-          "alt": "Pedras Místicas e Chakras e Kits Especiais Esotéricos - Minas Cristais "
+          "img": "/img/uploads/kilo-agosto25.png",
+          "link": "https://www.minascristais.com.br/kg-pedras-cristais",
+          "alt": "PEÇAS POR KILO - CONFIRA"
         },
         {
-          "img": "/img/uploads/garimpo-j.webp",
-          "link": "https://www.minascristais.com.br/garimpo-da-semana",
-          "alt": "Garimpo da Semana- Peças únicas, raras Minas Cristais "
+          "img": "/img/uploads/unidade-agosto25.png",
+          "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
+          "alt": "COMPRE POR UNIDADE PEDRAS & CRISTAIS - MINAS CRISTAIS"
         }
       ]
     },
@@ -122,7 +142,7 @@
       "page": 1,
       "headless": true,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "responsive-banner",
