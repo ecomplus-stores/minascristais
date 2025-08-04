@@ -92,14 +92,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/decor-j.webp",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais",
-          "alt": "Decor e Mesa Posta em Pedras - Minas Cristais"
+          "img": "/img/uploads/kilo-agosto25.png",
+          "link": "https://www.minascristais.com.br/kg-pedras-cristais",
+          "alt": "Compre Pedras e Cristais Minas Cristais - Pronta Entrega"
         },
         {
-          "img": "/img/uploads/acessorios-j.webp",
-          "link": "https://www.minascristais.com.br/mix-acessorios",
-          "alt": "Acessórios em Cristais e Prata - Minas Cristais "
+          "img": "/img/uploads/unidade-agosto25.png",
+          "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
+          "alt": "Peças por unidade - Pedras e Cristais diversos Formatos Minas Cristais"
         }
       ]
     },
@@ -112,21 +112,6 @@
       "sort": "sales",
       "title": "ACESSÓRIOS EM PEDRAS A PRONTA ENTREGA",
       "link": "https://www.minascristais.com.br/acessorios"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/kilo-agosto25.png",
-          "link": "https://www.minascristais.com.br/kg-pedras-cristais",
-          "alt": "PEÇAS POR KILO - CONFIRA"
-        },
-        {
-          "img": "/img/uploads/unidade-agosto25.png",
-          "link": "https://www.minascristais.com.br/pedras-cristais-por-unidade",
-          "alt": "COMPRE POR UNIDADE PEDRAS & CRISTAIS - MINAS CRISTAIS"
-        }
-      ]
     },
     {
       "type": "responsive-banner",
