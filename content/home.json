@@ -10,14 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/agosto-25-1d.png",
-          "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
-          "alt": "Presentes Especiais",
-          "mobile_img": "/img/uploads/agosto-25-1m.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/_chamadageral_julho25.webp",
           "mobile_img": "/img/uploads/_chamadageral_julho25-mob.webp",
           "link": "https://www.minascristais.com.br/cristaisepedras/",
@@ -59,26 +51,6 @@
       "title": "PEÇAS PARA COLECIONADORES - RARAS E ÚNICAS "
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/leila1208.png",
-          "link": "https://www.minascristais.com.br/pages/leilao-online",
-          "alt": "Leilão Minas Cristais em Agosto - Participe"
-        },
-        {
-          "img": "/img/uploads/decor-agosto-25.png",
-          "link": "https://www.minascristais.com.br/decor-objetos-cristais/",
-          "alt": "Decor em Pedras & Cristais - Pronta Entrega"
-        },
-        {
-          "img": "/img/uploads/garimpo-agosto25.png",
-          "link": "https://www.minascristais.com.br/garimpo-da-semana",
-          "alt": "Garimpo da Semana - Peças ùnicas e selecionadas toda semana - Minas Cristais"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -102,16 +74,6 @@
           "alt": "Peças por unidade - Pedras e Cristais diversos Formatos Minas Cristais"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
-      "sort": "news",
-      "title": "PROCURANDO UM PRESENTE ESPECIAL? ",
-      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais"
     },
     {
       "type": "responsive-banner",
