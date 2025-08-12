@@ -30,7 +30,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "OS DESTAQUES DA SEMANA"
     },
@@ -46,7 +46,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65f243ef87ab487fbfe4c622:collections:Para Colecionadores - Raridades e Colecionáveis:/cristais-colecionaveis-raridades",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/pedras-de-colecao/",
       "title": "PEÇAS PARA COLECIONADORES - RARAS E ÚNICAS "
     },
@@ -55,7 +55,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA "
@@ -89,7 +89,7 @@
       "page": 1,
       "headless": true,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "responsive-banner",
