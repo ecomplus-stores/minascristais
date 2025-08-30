@@ -85,11 +85,6 @@
       "sort": "views"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/lojasfisicas_j.png",
       "link": "https://www.minascristais.com.br/pages/contato",
