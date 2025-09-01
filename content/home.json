@@ -22,16 +22,26 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "OS DESTAQUES DA SEMANA"
+      "collection_id": "620035d77963422eeeee5af0:categories:Pedras Amarelas | Laranjas:/pedras-cor-amarelo-alaranjado/",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
+      "title": "Pedras Amarelas : Conectadas à energia solar: disposição e foco."
     },
     {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "sort": "name"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
+      "title": "OS DESTAQUES DA SEMANA"
     },
     {
       "type": "collection-shelf",
