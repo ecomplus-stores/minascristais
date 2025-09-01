@@ -27,7 +27,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035767963422eeeee59b6:categories:Citrino:/citrino/",
-      "sort": "views",
+      "sort": "news",
       "title": "Citrino: Prosperidade, autoconfiança, clareza mental.",
       "link": "https://www.minascristais.com.br/citrino/"
     },
@@ -37,7 +37,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6200356c7963422eeeee5999:categories:Âmbar:/ambar/",
-      "sort": "views",
+      "sort": "news",
       "title": "Âmbar: Proteção, equilíbrio, purificação e beleza única.",
       "link": "https://www.minascristais.com.br/ambar/"
     },
@@ -47,7 +47,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035697963422eeeee5991:categories:Ágata:/agata/",
-      "sort": "views",
+      "sort": "news",
       "title": "Ágata Natural: Cura emocional, alegria.",
       "link": "https://www.minascristais.com.br/agata/"
     },
@@ -57,7 +57,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035867963422eeeee59ec:categories:Jaspe Amarelo:/jaspe-amarelo/",
-      "sort": "views",
+      "sort": "news",
       "title": "Jaspe Amarelo: Alegria e confiança.",
       "link": "https://www.minascristais.com.br/jaspe-amarelo/"
     },
@@ -77,7 +77,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035f87963422eeeee5b61:categories:Calcita Amarela:/calcita-amarela/",
-      "sort": "views",
+      "sort": "news",
       "title": "Calcita Amarela: Clareza e otimismo.",
       "link": "https://www.minascristais.com.br/calcita-amarela/"
     },
@@ -87,7 +87,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035907963422eeeee5a09:categories:Mica:/mica/",
-      "sort": "views",
+      "sort": "news",
       "title": "Mica Amarela: Otimismo, clareza, autenticidade.",
       "link": "https://www.minascristais.com.br/mica/"
     },
@@ -96,7 +96,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "collection_id": "6200359d7963422eeeee5a35:categories:Selenita:/selenita/",
       "title": "Selenita Laranja: Criatividade e alegria.",
       "link": "https://www.minascristais.com.br/selenita/"
