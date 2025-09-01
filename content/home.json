@@ -18,13 +18,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/brindedagosto.png",
-      "mobile_img": "/img/uploads/brindemagosto.png",
-      "link": "https://www.minascristais.com.br/pingente-turmalina-negra-bruta---unidade",
-      "alt": "Brinde do Mês de Agosto - Compre R$50 e ganhe 01 Pingente de Turmalina Negra"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
