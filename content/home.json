@@ -8,19 +8,19 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2025-09-13T02:41:34.343Z",
+          "end": "2025-09-22T03:01:00.000Z",
+          "img": "/img/uploads/semana-do-cliente-2025-minascristais-d.png",
+          "link": "https://www.minascristais.com.br/cristaisepedras/",
+          "mobile_img": "/img/uploads/semana-do-cliente-2025-minascristais-m.png"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/set-brinde.png",
           "mobile_img": "/img/uploads/set-brinde-mob.png",
           "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
           "alt": "Setembro Amarelo - Brinde Minas Cristais Mini Garrafinha de Citrino"
-        },
-        {
-          "start": "2025-09-13T02:24:00.000Z",
-          "end": "2025-09-22T03:01:00.000Z",
-          "img": "/img/uploads/semana-do-cliente-2025-minascristais-d.png",
-          "link": "https://www.minascristais.com.br/cristaisepedras/",
-          "mobile_img": "/img/uploads/semana-do-cliente-2025-minascristais-m.png"
         }
       ]
     },
