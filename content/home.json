@@ -14,24 +14,38 @@
           "mobile_img": "/img/uploads/set-brinde-mob.png",
           "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
           "alt": "Setembro Amarelo - Brinde Minas Cristais Mini Garrafinha de Citrino"
+        },
+        {
+          "start": "2025-09-13T02:24:00.000Z",
+          "end": "2025-09-22T03:01:00.000Z",
+          "img": "/img/uploads/semana-do-cliente-2025-minascristais-d.png",
+          "link": "https://www.minascristais.com.br/cristaisepedras/",
+          "mobile_img": "/img/uploads/semana-do-cliente-2025-minascristais-m.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620035d77963422eeeee5af0:categories:Pedras Amarelas | Laranjas:/pedras-cor-amarelo-alaranjado/",
-      "sort": "lowest_price",
-      "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
-      "title": "Pedras Amarelas : Conectadas à energia solar: disposição e foco."
     },
     {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "sort": "name"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios-set-minascristais-25.png",
+          "link": "https://www.minascristais.com.br/acessorios"
+        },
+        {
+          "img": "/img/uploads/esotericos-minascristais-25.png",
+          "link": "https://www.minascristais.com.br/esoterismo/"
+        },
+        {
+          "img": "/img/uploads/presentes-minascristais-25-set.png",
+          "link": "https://www.minascristais.com.br/presentes-e-kits"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -41,7 +55,7 @@
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
       "sort": "news",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "OS DESTAQUES DA SEMANA"
+      "title": "TODA LOJA COM 15% OFF - desconto automático no carrinho, aproveite!"
     },
     {
       "type": "collection-shelf",
