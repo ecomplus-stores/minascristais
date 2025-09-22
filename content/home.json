@@ -10,13 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/semana-do-cliente-2025-minascristais-d.png",
-          "link": "https://www.minascristais.com.br/cristaisepedras/",
-          "mobile_img": "/img/uploads/semana-do-cliente-2025-minascristais-m.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/set-brinde.png",
           "mobile_img": "/img/uploads/set-brinde-mob.png",
           "link": "https://www.minascristais.com.br/pages/pedras-amarelas-conectadas-a-energia-solar-disposicao-e-foco",
@@ -31,23 +24,6 @@
       "sort": "name"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios-set-minascristais-25.png",
-          "link": "https://www.minascristais.com.br/acessorios"
-        },
-        {
-          "img": "/img/uploads/esotericos-minascristais-25.png",
-          "link": "https://www.minascristais.com.br/esoterismo/"
-        },
-        {
-          "img": "/img/uploads/presentes-minascristais-25-set.png",
-          "link": "https://www.minascristais.com.br/presentes-e-kits"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -55,14 +31,14 @@
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
       "sort": "sales",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "TODA LOJA COM 15% OFF - desconto automático no carrinho, aproveite!"
+      "title": "DESTAQUES DA SEMANA"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA "
@@ -72,8 +48,18 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$100:/presentes-pedra-cristais",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/presentes-pedra-cristais",
+      "title": "DICAS DE PRESENTES ATÉ R$100"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "620035457963422eeeee58dc:categories:Cristais e Pedras:/cristaisepedras/",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/cristaisepedras/",
       "title": "DIVERSOS FORMATOS , VEJA AS NOVIDADES "
     },
