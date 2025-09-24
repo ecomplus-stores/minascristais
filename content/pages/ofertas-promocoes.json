@@ -4,20 +4,6 @@
   "meta_description": "Descubra ofertas imperdíveis de Cristais e Pedras Naturais na Minas Cristais! Peças místicas, decorativas, energéticas, acessórios, esculturas e cubas com pronta entrega para Brasil e Exterior.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/chamadan-j.webp",
-          "mobile_img": "/img/uploads/chamadamob.webp",
-          "alt": "50% em Toda Loja - Desconto automático no carrinho"
-        }
-      ]
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
