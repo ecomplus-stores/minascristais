@@ -15,9 +15,54 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/descontos-do-mes",
+      "title": "VEJA TODOS "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes",
+      "sort": "views",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes",
+      "sort": "news",
+      "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes",
+      "sort": "offers",
+      "headless": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<center><div><br><br><a href=\"https://www.minascristais.com.br/descontos-do-mes\" class=\"bt1\" target=\"_blank\">ver todos</a></div></center>"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ],
   "body": "Bem-vindo(a) à nossa **Seção de Ofertas Minas Cristais**, seu portal para encontrar a beleza e a energia das pedras naturais com condições especiais! Aqui, a magia dos cristais em promoção te espera com preços imperdíveis.\n\nExplore uma vasta seleção de [pedras naturais e cristais em diversos formatos](https://www.minascristais.com.br/pages/pedras-cristais-formatos), incluindo [peças místicas](https://www.minascristais.com.br/esoterismo/) para meditação, itens incríveis para[ decorar](https://www.minascristais.com.br/decor-objetos-cristais) e energizar seus ambientes, [acessórios](https://www.minascristais.com.br/acessorios) , esculturas imponentes,[ capelas](https://www.minascristais.com.br/grutas-capelas/) de ametista e até [cubas de pedras](https://www.minascristais.com.br/pages/cubas-esculpidas-em-pedras-naturais) exclusivas.\n\nTodas as ofertas ativas estão disponíveis para pronta entrega, com envio rápido para todo o Brasil e Exterior. Não perca a chance de adquirir seus cristais favoritos ou aquele presente especial com a qualidade e energia que só a Minas Cristais oferece. \n\n<!--StartFragment-->\n\n**Outubro é um convite para resgatar a magia, e nós preparamos um portal de encantos para você!**\n\nEste não é apenas um saldão; é a sua chance de encontrar aquele amuleto que vai despertar suas memórias mais doces e seus sonhos mais ousados. Selecionamos a dedo tesouros energéticos com **até 30% de desconto** para você se presentear e honrar a criança alegre e sonhadora que vive em você.\n\nPermita-se encantar, reconecte-se com sua essência e aproveite para levar para casa a energia que faltava para transformar seus desejos em realidade.\n\n**E a magia não para por aí! Além dos descontos, você ainda aproveita:**\n\n* 🚚 **Frete Grátis** para todo o Brasil (nas compras a partir de R$300 até 5kg).\n* 💖 **Brinde Exclusivo:** Um lindo Mini Coração de Quartzo Rosa para selar seu pacto de amor-próprio.\n\n**Não espere a magia acabar! Explore nossa seleção de ofertas e garanta os cristais que vibram com a sua alma.**\n\n<!--EndFragment-->\n\n[](https://www.minascristais.com.br/pedrasovais/)"
