@@ -53,7 +53,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<center><div><br><br><a href=\"https://www.minascristais.com.br/descontos-do-mes\" class=\"bt1\" target=\"_blank\">ver todos</a></div></center>"
+      "html": "<center><div><br>\n  Não espere a magia acabar! Explore nossa seleção de ofertas e garanta os cristais que vibram com a sua alma.\n  \n  <br><a href=\"https://www.minascristais.com.br/descontos-do-mes\" class=\"bt1\" target=\"_blank\">ver todos</a></div></center>"
     },
     {
       "type": "brands-carousel",
