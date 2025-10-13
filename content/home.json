@@ -48,7 +48,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "title": "SALDÃO - ATÉ 30% OFF ",
       "link": "https://www.minascristais.com.br/descontos-do-mes",
       "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes"
@@ -58,7 +58,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "sales",
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA "
@@ -69,7 +69,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620036207963422eeeee5bee:categories:Pedras na Base:/pedras-na-base/",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/drusas-pedras-na-base-minas-cristais",
       "title": "PEDRAS NA BASE "
     },
