@@ -24,26 +24,6 @@
       "sort": "name"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/decor-agosto-25.png",
-          "link": "https://www.minascristais.com.br/decoracao-e-amuletos",
-          "alt": "Decor em Pedras Naturais"
-        },
-        {
-          "img": "/img/uploads/leilao.png",
-          "link": "https://www.minascristais.com.br/pages/leilao-online",
-          "alt": "Leilão Minas Cristais"
-        },
-        {
-          "img": "/img/uploads/garimpo-agosto25.png",
-          "link": "https://www.minascristais.com.br/garimpo-da-semana",
-          "alt": "Garimpo Minas Cristais"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
