@@ -28,7 +28,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "title": "SALDÃO - ATÉ 30% OFF ",
       "link": "https://www.minascristais.com.br/descontos-do-mes",
       "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes"
@@ -48,7 +48,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news",
+      "sort": "views",
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO DA SEMANA "
@@ -59,7 +59,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "68f776a1578b5f7954d62e89:collections:7 Cristais de Alta Frequência e Conexão Celestial:/7-cristais-alta-frequencia-conexao-celestial",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/7-cristais-alta-frequencia-conexao-celestial",
       "title": "Cristais Raros de Alta Frequência: Desperte sua Transformação Interior"
     },
