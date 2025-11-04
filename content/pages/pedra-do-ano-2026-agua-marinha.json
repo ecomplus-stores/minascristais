@@ -81,6 +81,16 @@
       "link": "https://www.minascristais.com.br/cristais-e-pedras-howlita/"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "690a2b42578b5f7954e7ab3e:collections:Jaspes e Calcitas: A Estrutura para seus Novos Começos:/jaspes-calcitas",
+      "sort": "views",
+      "link": "https://www.minascristais.com.br/jaspes-calcitas",
+      "title": "Jaspes e Calcitas: A Estrutura para seus Novos Começos"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
