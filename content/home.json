@@ -28,7 +28,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "news",
       "title": "Nosso Esquenta Black Friday Começou! 🔥+ BRINDE DO MÊS: LEVE UMA CIANITA AZUL",
       "link": "https://www.minascristais.com.br/descontos-do-mes",
       "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes"
@@ -38,8 +38,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200356a7963422eeeee5994:categories:Água Marinha:/agua-marinha/",
-      "sort": "news",
+      "collection_id": "6200356a7963422eeeee5994:categories:Água Marinha: A Pedra do Ano 2026:/agua-marinha/",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pages/pedra-do-ano-2026-agua-marinha",
       "title": "ÁGUA MARINHA : A PEDRA DO ANO DE 2026"
     },
@@ -59,7 +59,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035d87963422eeeee5af3:categories:Pedras Vermelhas:/pedras-cor-vermelha/",
-      "sort": "news",
+      "sort": "lowest_price",
       "link": "https://www.minascristais.com.br/pedras-cor-vermelha/",
       "title": "A COR DE 2026: PEDRAS VERMELHAS PARA AÇÃO E VITALIDADE NO ANO DE MARTE"
     },
@@ -69,7 +69,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "690a2b42578b5f7954e7ab3e:collections:Jaspes e Calcitas: A Estrutura para seus Novos Começos:/jaspes-calcitas",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pages/pedra-do-ano-2026-agua-marinha",
       "title": "POTENCIALIZE SEU 2026: CRISTAIS COMPLEMENTARES"
     },
