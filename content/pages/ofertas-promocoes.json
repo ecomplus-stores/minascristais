@@ -22,7 +22,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "info-bar",
