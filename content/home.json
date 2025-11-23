@@ -8,12 +8,29 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2025-11-23T02:21:24.559Z",
           "end": "",
-          "img": "/img/uploads/slide-esquenta.png",
-          "mobile_img": "/img/uploads/slide-esquenta-mob.png",
-          "link": "https://www.minascristais.com.br/descontos-do-mes",
-          "alt": "Saldão Minas Cristais: Cuidado, Sonhos e Cristais com até 30% OFF! "
+          "img": "/img/uploads/blackfriday-minascristais20251.webp",
+          "mobile_img": "/img/uploads/blackfriday-minascristais2025.webp",
+          "link": "",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios-bf2025.webp",
+          "link": "https://www.minascristais.com.br/acessorios"
+        },
+        {
+          "img": "/img/uploads/decoracao2025bf.webp",
+          "link": "https://www.minascristais.com.br/decoracao-e-amuletos"
+        },
+        {
+          "img": "/img/uploads/drusasemais.webp",
+          "link": "https://www.minascristais.com.br/drusas-pedras-na-base-minas-cristais"
         }
       ]
     },
@@ -22,6 +39,10 @@
       "limit": 24,
       "offset": 0,
       "sort": "name"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/\">DESCONTO AUTOMÁTICO NO CARRINHO</a></h4>"
     },
     {
       "type": "dynamic-showcase",
