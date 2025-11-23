@@ -42,7 +42,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/\">DESCONTO AUTOMÁTICO NO CARRINHO</a></h4>"
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/pages/ofertas-promocoes\">Desconto automático em seu carrinho - Ver toda loja</a></h4>"
     },
     {
       "type": "dynamic-showcase",
