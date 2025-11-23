@@ -1,8 +1,13 @@
 {
   "title": "Esquenta Black Friday JÁ COMEÇOU!",
-  "meta_title": "Esquenta Black Friday JÁ COMEÇOU!",
-  "meta_description": "Esquenta Black Friday JÁ COMEÇOU!",
+  "meta_title": " Black Friday JÁ COMEÇOU!",
+  "meta_description": "Black Friday JÁ COMEÇOU!",
   "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/blackfriday-minascristais20251.webp",
+      "mobile_img": "/img/uploads/blackfriday-minascristais2025.webp"
+    },
     {
       "type": "breadcrumbs",
       "enabled": true
@@ -15,55 +20,14 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/descontos-do-mes",
-      "title": "VEJA TODOS "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes",
-      "sort": "views",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes",
-      "sort": "news",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "633e053f73321213f89e19fd:collections:Saldão Minas Cristais:/descontos-do-mes",
-      "sort": "offers",
-      "headless": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<center><div><br>\n  Não espere a magia acabar! Explore nossa seleção de ofertas e garanta os cristais que vibram com a sua alma.\n  \n  <br><a href=\"https://www.minascristais.com.br/descontos-do-mes\" class=\"bt1\" target=\"_blank\">ver todos</a></div></center>"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "info-bar",
       "enabled": true
     }
   ],
-  "body": "<!--StartFragment-->\n\n🔥 **Nosso Esquenta Black Friday Começou!** 🔥 Aproveite produtos com **até 30% OFF** e 🚚 **Frete Grátis** para todo o Brasil! *(Nas compras a partir de R$300 até 5kg)*\n\n\n\n<!--EndFragment-->\n\n[](https://www.minascristais.com.br/pedrasovais/)"
+  "body": "<!--StartFragment-->\n\nA espera acabou! A **Black Friday da Minas Cristais** está no ar, e simplificamos tudo para você garantir as suas peças favoritas com o maior desconto do ano!\n\n**É FÁCIL, RÁPIDO E AUTOMÁTICO!**\n\nEsqueça códigos e cupons! Para ter acesso aos 50% de desconto em **TODA A NOSSA LOJA**, basta escolher os cristais, geodos, acessórios de mesa posta e artigos de decoração que mais te encantam e **adicionar ao carrinho**.\n\n**O desconto de 50% é aplicado automaticamente** no valor final da sua compra!\n\n* ✅ **50% de Desconto** em **TODOS** os produtos.\n* ✅ **Desconto Automático** no carrinho.\n* ✅ **Qualidade e energia** dos cristais que você já conhece.\n\n**Não perca tempo!** Essa oportunidade é válida apenas até **30 de Novembro**. Transforme sua casa, seu presente ou sua energia com a beleza incomparável dos cristais pela metade do preço.\n\n<!--EndFragment-->\n\n[](https://www.minascristais.com.br/pedrasovais/)"
 }
