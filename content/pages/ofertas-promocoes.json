@@ -1,13 +1,8 @@
 {
-  "title": "Black Friday JÁ COMEÇOU!",
-  "meta_title": " Black Friday JÁ COMEÇOU!",
-  "meta_description": "Black Friday JÁ COMEÇOU!",
+  "title": "Ofertas",
+  "meta_title": "Ofertas",
+  "meta_description": "Ofertas",
   "sections": [
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/blackfriday-minascristais20251.webp",
-      "mobile_img": "/img/uploads/blackfriday-minascristais2025.webp"
-    },
     {
       "type": "breadcrumbs",
       "enabled": true
@@ -29,5 +24,5 @@
       "enabled": true
     }
   ],
-  "body": "<!--StartFragment-->\n\nA espera acabou! A **Black Friday da Minas Cristais** está no ar, e simplificamos tudo para você garantir as suas peças favoritas com o maior desconto do ano!\n\n**É FÁCIL, RÁPIDO E AUTOMÁTICO!**\n\nEsqueça códigos e cupons! Para ter acesso aos 50% de desconto em **TODA A NOSSA LOJA**, basta escolher os cristais, geodos, acessórios de mesa posta e artigos de decoração que mais te encantam e **adicionar ao carrinho**.\n\n**O desconto de 50% é aplicado automaticamente** no valor final da sua compra!\n\n* ✅ **50% de Desconto** em **TODOS** os produtos.\n* ✅ **Desconto Automático** no carrinho.\n* ✅ **Qualidade e energia** dos cristais que você já conhece.\n\n<!--StartFragment-->\n\n⚠️ **ATENÇÃO:** Esta promoção não é cumulativa. **Não insira nenhum cupom adicional** para garantir que seu desconto de 50% seja aplicado corretamente no carrinho.\n\n<!--EndFragment-->\n\n**Não perca tempo!** Essa oportunidade é válida apenas até **30 de Novembro**. Transforme sua casa, seu presente ou sua energia com a beleza incomparável dos cristais pela metade do preço.\n\n<!--EndFragment-->\n\n[](https://www.minascristais.com.br/pedrasovais/)"
+  "body": "\n\nC﻿onfira as Ofertas da Minas Cristais [](https://www.minascristais.com.br/pedrasovais/)"
 }
