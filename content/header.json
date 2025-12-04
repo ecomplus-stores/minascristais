@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "",
-    "link": "",
-    "background": "",
-    "color": ""
+    "text": "FRETE GRÁTIS - envio econômico - BR : a partir de R$400 até 5kg  | Brinde do Mês nas compras a partir de R$50 ",
+    "link": "https://www.minascristais.com.br/pages/entrega",
+    "background": "#23368c",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
