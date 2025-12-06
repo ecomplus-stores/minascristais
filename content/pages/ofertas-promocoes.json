@@ -17,7 +17,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "views"
+      "sort": "offers"
     },
     {
       "type": "info-bar",
