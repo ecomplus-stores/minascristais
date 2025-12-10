@@ -12,7 +12,7 @@
           "end": "",
           "img": "/img/uploads/natal_2025.webp",
           "mobile_img": "/img/uploads/natal_20251.webp",
-          "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
           "alt": "Especial de Natal - Presentes - Minas Cristais"
         }
       ]
@@ -34,6 +34,36 @@
       "title": "💖🎄 Os Queridinhos de Natal e Ano Novo: Os Cristais para Brilhar no Fim de Ano e em 2026!"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios.webp",
+          "link": "https://www.minascristais.com.br/desconto-em-acessorios",
+          "alt": "Até 50% acessorios"
+        },
+        {
+          "img": "/img/uploads/kits-natal.webp",
+          "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham",
+          "alt": "30% off em kits de pedras"
+        },
+        {
+          "img": "/img/uploads/pecas.webp",
+          "link": "https://www.minascristais.com.br/descontos-do-mes",
+          "alt": "até 30% off em peças"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null,
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+      "title": "🎅🎄 Natal Minas Cristais Chegou! Presentes, Brinde e Frete Grátis Esperam por Você!"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -48,16 +78,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais",
-      "title": "🎅🎄 Natal Minas Cristais Chegou! Presentes, Brinde e Frete Grátis Esperam por Você!"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
       "sort": "sales",
       "title": "🔥 ATACADO 50% OFF! Confira as Condições Exclusivas! 💎",
@@ -65,7 +85,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://minascristais.com.br/pages/contato\">✨ Encontre Seu Cristal Perfeito! 🛍️\nVisite Nossas Lojas ou Compre pelo WhatsApp!</a></h4>"
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://minascristais.com.br/pages/contato\">✨ Encontre Seu Cristal Perfeito! 🛍️\nVisite Nossas Lojas </a></h4>"
     },
     {
       "type": "responsive-banner",
