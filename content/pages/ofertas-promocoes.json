@@ -15,6 +15,26 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios.webp",
+          "link": "https://www.minascristais.com.br/desconto-em-acessorios",
+          "alt": "Seleção de Acessórios em Pedras Naturais para completar seu look e elevar sua energia. "
+        },
+        {
+          "img": "/img/uploads/kits-natal.webp",
+          "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham",
+          "alt": "30% OFF -  Kits de Pedras Naturais"
+        },
+        {
+          "img": "/img/uploads/pecas.webp",
+          "link": "https://www.minascristais.com.br/descontos-do-mes",
+          "alt": "PROMOÇÕES DO MÊS"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
