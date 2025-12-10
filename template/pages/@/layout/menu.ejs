@@ -88,7 +88,7 @@ if (mainCategories) {
           <% } %>
 
           <div class="menu__list">
-         <a class="menu__list" href="https://www.minascristais.com.br/pages/ofertas-promocoes">✦PROMOÇÕES </a>
+         
             <% categoryParents[slug].forEach((subcategory, index) => { %>
               <% const hasSubmenu = Array.isArray(categoryParents[subcategory.slug]) %>
               <a
@@ -122,7 +122,7 @@ if (mainCategories) {
               </a>
             <% }) %>
           </div>
-
+<a class="menu__item" href="https://www.minascristais.com.br/pages/ofertas-promocoes">✦PROMOÇÕES </a>
           <% if (category && category.slug) { %>
             <a href="/<%= category.slug %>" class="menu__link">
               <%= _.dictionary('seeAll$1Category').replace('$1', category.name) %>
