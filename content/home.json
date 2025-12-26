@@ -29,9 +29,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
+      "sort": "highest_price",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "💖🎄 Os Queridinhos de Natal e Ano Novo: Os Cristais para Brilhar no Fim de Ano e em 2026!"
+      "title": "Os mais pedidos do mês "
     },
     {
       "type": "banners-grid",
@@ -58,10 +58,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65ea802087ab487fbfdb6f60:collections:Acessórios com Desconto Especial:/desconto-em-acessorios",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "title": "🎅🎄 Natal Minas Cristais Chegou! Presentes, Brinde e Frete Grátis Esperam por Você!"
+      "collection_id": "68f776a1578b5f7954d62e89:collections:7 Cristais de Alta Frequência e Conexão Celestial:/7-cristais-alta-frequencia-conexao-celestial",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/7-cristais-alta-frequencia-conexao-celestial",
+      "title": "Brinde e Frete Grátis Esperam por Você!"
     },
     {
       "type": "collection-shelf",
@@ -70,7 +70,7 @@
       "page": 1,
       "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
       "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-      "sort": "sales",
+      "sort": "news",
       "title": "Seu Portal de Energia: Escolha seu Kit"
     },
     {
@@ -89,7 +89,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
+      "sort": "views",
       "title": "🔥 ATACADO 50% OFF! Confira as Condições Exclusivas! 💎",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
