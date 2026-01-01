@@ -11,9 +11,9 @@
           "start": "2025-11-23T02:21:24.559Z",
           "end": "",
           "img": "/img/uploads/anonovo-2026.png",
-          "mobile_img": "/img/uploads/brindejaneiro-m.png",
+          "mobile_img": "/img/uploads/anonovo-2026_m.png",
           "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "Especial de Natal - Presentes - Minas Cristais"
+          "alt": "2026  Minas Cristais"
         }
       ]
     },
@@ -22,6 +22,21 @@
       "limit": 24,
       "offset": 0,
       "sort": "name"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2026-01-01T17:52:45.717Z",
+          "end": "",
+          "img": "/img/uploads/brindejaneiro.png",
+          "mobile_img": "/img/uploads/brindejaneiro-m.png",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "BRINDE DE JANEIRO "
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -37,19 +52,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/acessorios.webp",
-          "link": "https://www.minascristais.com.br/desconto-em-acessorios",
-          "alt": "Até 50% acessorios"
-        },
-        {
-          "img": "/img/uploads/kits-natal.webp",
-          "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham",
-          "alt": "30% off em kits de pedras"
-        },
-        {
-          "img": "/img/uploads/pecas.webp",
-          "link": "https://www.minascristais.com.br/descontos-do-mes",
-          "alt": "até 30% off em peças"
+          "img": "/img/uploads/liquidajaneiro.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "LIQUIDA MINAS CRISTAIS ",
+          "mobile_img": "/img/uploads/liquidajaneiro-m.webp"
         }
       ]
     },
@@ -59,9 +65,29 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620035d07963422eeeee5adb:categories:Busque por Signos:/busque-por-signos/",
-      "sort": "news",
+      "sort": "offers",
       "link": "https://www.minascristais.com.br/pages/signos",
       "title": "Busque por Signo: Brinde e Frete Grátis Esperam por Você!"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/trioaguamarinha.webp",
+          "link": "https://www.minascristais.com.br/pages/pedra-do-ano-2026-agua-marinha",
+          "alt": "PEDRA DO ANO 2026"
+        },
+        {
+          "img": "/img/uploads/triodecor.webp",
+          "link": "https://www.minascristais.com.br/decoracao-e-amuletos",
+          "alt": "DECOR CRISTAIS"
+        },
+        {
+          "img": "/img/uploads/triosignos.webp",
+          "link": "https://www.minascristais.com.br/pages/signos",
+          "alt": "SIGNOS & CRISTAIS 2026"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -84,6 +110,21 @@
       "title": "🍀💎 Garimpo da Semana: Cristais para Brilhar no Natal e no Ano Novo! 🥂"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2026-01-01T17:52:24.077Z",
+          "end": "",
+          "img": "/img/uploads/atacado1.webp",
+          "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
+          "alt": "ATACADO MINAS CRISTAIS",
+          "mobile_img": "/img/uploads/atacado-2026_m.webp"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -99,10 +140,10 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/lojasfisicas_dez24.png",
+      "img": "/img/uploads/lojasfisicas-2026.webp",
       "link": "https://minascristais.com.br/pages/contato",
       "alt": "LOJAS FÍSICAS ",
-      "mobile_img": "/img/uploads/lojasfisicas_dez24_m.png"
+      "mobile_img": "/img/uploads/lojasfisicas-2026-m.png"
     },
     {
       "type": "info-bar",
