@@ -24,21 +24,6 @@
       "sort": "name"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2026-01-01T17:52:45.717Z",
-          "end": "",
-          "img": "/img/uploads/brindejaneiro.png",
-          "mobile_img": "/img/uploads/brindejaneiro-m.png",
-          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "BRINDE DE JANEIRO "
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
