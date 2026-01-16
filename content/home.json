@@ -29,7 +29,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -49,8 +49,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035c97963422eeeee5ac6:categories:♑Capricórnio:/capricornio/",
-      "sort": "views",
+      "collection_id": "620035d07963422eeeee5adb:categories:Busque por Signos:/busque-por-signos/",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/pages/signos",
       "title": "Busque por Signo: Brinde e Frete Grátis Esperam por Você!"
     },
@@ -81,7 +81,7 @@
       "page": 1,
       "collection_id": "6211c7147963422eee0ef584:brands:Kits de Pedras Minas Cristais:/kitspedras-esotericas",
       "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-      "sort": "offers",
+      "sort": "sales",
       "title": "Seu Portal de Energia: Escolha seu Kit"
     },
     {
@@ -115,7 +115,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "633774fc73321213f896669c:collections:Atacado Semana Destaque:/desconto-especial-atacado",
-      "sort": "news",
+      "sort": "highest_price",
       "title": "🔥 ATACADO 50% OFF! Confira as Condições Exclusivas! 💎",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
