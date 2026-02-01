@@ -10,10 +10,10 @@
         {
           "start": "2025-11-23T02:21:24.559Z",
           "end": "",
-          "img": "/img/uploads/anonovo-2026.png",
-          "mobile_img": "/img/uploads/anonovo-2026_m.png",
+          "img": "/img/uploads/foliaminas2026.webp",
+          "mobile_img": "/img/uploads/foliaminas2026-m.webp",
           "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "2026  Minas Cristais"
+          "alt": "FOLIA DE CRISTAIS : Peças Selecionadas com até 30% off"
         }
       ]
     },
@@ -34,17 +34,6 @@
       "title": "DESTAQUES DA SEMANA"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/liquidajaneiro.webp",
-          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "LIQUIDA MINAS CRISTAIS ",
-          "mobile_img": "/img/uploads/liquidajaneiro-m.webp"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -58,19 +47,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/trioaguamarinha.webp",
-          "link": "https://www.minascristais.com.br/pages/pedra-do-ano-2026-agua-marinha",
-          "alt": "PEDRA DO ANO 2026"
-        },
-        {
-          "img": "/img/uploads/triodecor.webp",
-          "link": "https://www.minascristais.com.br/decoracao-e-amuletos",
-          "alt": "DECOR CRISTAIS"
-        },
-        {
-          "img": "/img/uploads/triosignos.webp",
-          "link": "https://www.minascristais.com.br/pages/signos",
-          "alt": "SIGNOS & CRISTAIS 2026"
+          "img": "/img/uploads/brindefev.webp",
+          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+          "alt": "BRINDE DO MÊS",
+          "mobile_img": "/img/uploads/brindefev-m.webp"
         }
       ]
     },
