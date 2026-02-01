@@ -1,7 +1,7 @@
 {
-  "title": "LIQUIDA MINAS: Renove Suas Energias com até 50% OFF",
-  "meta_title": "LIQUIDA MINAS: Renove Suas Energias com até 50% OFF",
-  "meta_description": "Preparamos ofertas especiais, frete grátis e um presente exclusivo para purificar seu 2026. Ganhe Frete Grátis* + Brinde Exclusivo na caixa. Estoque limitado, confira!",
+  "title": "FOLIA DE CRISTAIS: Peças selecionadas com até 30% off",
+  "meta_title": "Promoção de Cristais: Até 30% OFF + Brinde Ametista | Minas Cristais",
+  "meta_description": "Aproveite o fevereiro na Minas Cristais! Peças selecionadas com até 30% OFF e Frete Grátis. Ganhe 01 Mini Drusa de Ametista em compras acima de R$ 99. Confira!",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -15,26 +15,6 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios.webp",
-          "link": "https://www.minascristais.com.br/desconto-em-acessorios",
-          "alt": "Seleção de Acessórios em Pedras Naturais para completar seu look e elevar sua energia. "
-        },
-        {
-          "img": "/img/uploads/kits-natal.webp",
-          "link": "https://www.minascristais.com.br/30-off-ofertas-que-brilham",
-          "alt": "30% OFF -  Kits de Pedras Naturais"
-        },
-        {
-          "img": "/img/uploads/pecas.webp",
-          "link": "https://www.minascristais.com.br/descontos-do-mes",
-          "alt": "PROMOÇÕES DO MÊS"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
@@ -44,5 +24,5 @@
       "enabled": true
     }
   ],
-  "body": "<!--StartFragment-->\n\nPreparamos ofertas especiais, frete grátis e um presente exclusivo para purificar seu 2026.\n\n<!--EndFragment-->\n\n[](https://www.minascristais.com.br/pedrasovais/)\n\nO ano começou e a Minas Cristais quer garantir que você tenha as melhores vibrações ao seu lado. Chegou o LIQUIDA JANEIRO: a oportunidade perfeita para você adquirir aquele cristal que sempre sonhou, repor seu estoque ou presentear alguém especial com a força da natureza.\n\nReunimos três benefícios incríveis para você aproveitar agora:\n\n1. 🔥 Descontos Imperdíveis\n   Selecionamos centenas de produtos em nossa loja com até 50% de DESCONTO. São pedras brutas, lapidadas, acessórios e itens de decoração.\n2. 💎 O \"Compre e Ganhe\" VOLTOU!\n   Para purificar seu 2026, trouxemos um presente cheio de luz. Nas compras acima de R$ 99,00, você ganha 01 Mini Drusinha de Cristal. A Drusa de Cristal é poderosa para limpeza de ambientes, clareza mental e recarga de outras pedras. Um amuleto essencial para o novo ciclo.\n3. 🚚 Frete Grátis\n   Quer mais? Liberamos FRETE GRÁTIS para que você receba seus cristais no conforto de casa sem se preocupar com a entrega. Nas compras acima de R$ 400 (até 5kg) para todo o Brasil."
+  "body": "Na folia ou no descanso: RENOVE-SE! \n\n💎 Fevereiro chegou com a energia da transmutação. Garanta seus cristais favoritos com até 30% OFF e purifique seu 2026 com nosso presente especial: nas compras acima de R$ 99, você ganha 01 Mini Drusa de Ametista.\n\nAproveite o Frete Grátis para todo o Brasil em pedidos acima de R$ 400 (até 5kg) e receba luz e boas vibrações na sua casa."
 }
