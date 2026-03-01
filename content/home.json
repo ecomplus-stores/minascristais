@@ -44,6 +44,10 @@
       "title": "GARIMPO DA SEMANA"
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/cristaisepedras/\">TODA LOJA COM 15% DE DESCONTO- AUTOMÁTICO NO CARRINHO</a></h4>"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
