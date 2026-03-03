@@ -50,7 +50,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "banner-slider",
