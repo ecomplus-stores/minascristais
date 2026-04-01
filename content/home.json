@@ -5,13 +5,14 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2026-04-01T04:36:19.924Z",
           "end": "",
           "img": "/img/uploads/brindemd.jpg",
-          "mobile_img": "/img/uploads/brindem.jpg"
+          "mobile_img": "/img/uploads/brindem.jpg",
+          "link": "https://www.minascristais.com.br/cristaisepedras/"
         }
       ]
     },
@@ -20,6 +21,16 @@
       "limit": 24,
       "offset": 0,
       "sort": "name"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/acessorios",
+      "title": "NOVIDADES EM ACESSÓRIOS"
     },
     {
       "type": "collection-shelf",
@@ -50,16 +61,6 @@
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "sort": "news",
       "title": "GARIMPO DA SEMANA, VEM CONFERIR"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "69bc892fc650040a8cb86e85:collections:Coleção de Cristais Grandes: Pedras Brutas, Matrizes e Capelas:/cristais-grandes-e-pecas-exclusivas",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/cristais-grandes-e-pecas-exclusivas",
-      "title": "Imponentes e Poderosas: Transforme seu Espaço com Pedras em Grandes Formatos"
     },
     {
       "type": "banner-slider",
