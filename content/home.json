@@ -3,21 +3,6 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais no Varejo e Atacado envio para Todo Brasil e Exterior. LojasFísicas: Sete Lagoas, Curvelo e BH. Pronta Entrega.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2026-03-01T03:02:45.681Z",
-          "end": "",
-          "img": "/img/uploads/marco-2026-minascristais.png",
-          "mobile_img": "/img/uploads/marco-2026-minascristais-m.png",
-          "link": "https://www.minascristais.com.br/pingente-pedrinha-rolada-trolita",
-          "alt": "TODA LOJA 15% OFF + FRETE GRÁTIS*"
-        }
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
@@ -31,7 +16,7 @@
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
       "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
-      "title": "ÚLTIMOS DIAS-  15% OFF em TODA LOJA- DESCONTO AUTOMÁTICO NO CARRINHO"
+      "title": "DESTAQUES DA SEMANA"
     },
     {
       "type": "collection-shelf",
