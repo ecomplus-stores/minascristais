@@ -1,0 +1,60 @@
+{
+  "title": "Drusas Selecionadas a partir de 1kg",
+  "body": "<!--StartFragment-->\n\nGaranta peças exclusivas de **[Ametista](https://www.minascristais.com.br/drusa-de-ametista-1kg), [Citrino](https://www.minascristais.com.br/drusa-de-citrino---kg), [Cristal](https://www.minascristais.com.br/drusas-de-cristal-kg) e Turmalina Negra** com condições especiais de lote. Ideal para colecionadores, terapeutas e decoração de alto padrão.\n\n<!--EndFragment-->",
+  "meta_title": "Drusas de Cristais 1kg+ | Ametista, Citrino e Turmalina | Minas Cristais",
+  "meta_description": "Garanta drusas legítimas a partir de 1kg! Seleção exclusiva de Ametista, Citrino e Turmalina Negra para decoração e energia. Oferta especial na Minas Cristais. Confira!",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1ametistas-drusas2.png",
+          "link": "https://www.minascristais.com.br/drusa-de-ametista-1kg",
+          "alt": "Peças de 1kg a 5kg com cristais de violeta intenso."
+        },
+        {
+          "img": "/img/uploads/drusas-de-citrino.png",
+          "link": "https://www.minascristais.com.br/drusa-de-citrino---kg",
+          "alt": "Brilho dourado impecável para atrair abundância."
+        },
+        {
+          "img": "/img/uploads/drusas-de-cristal.png",
+          "link": "https://www.minascristais.com.br/drusas-de-cristal-kg",
+          "alt": "Drusa de Cristal"
+        }
+      ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n**Condições Exclusivas para Lotes acima de 5kg – Tradição desde 1991.**\n\n<!--EndFragment-->\n\nNa **Minas Cristais**, entendemos que grandes ambientes exigem cristais à altura. Por isso, abrimos nosso estoque de peças robustas de Ametista, Citrino, Cristal e Turmalina Negra com condições de negociação diferenciadas.\n\nSeja para um projeto de design de interiores, terapia holística ou revenda, garantimos a procedência e o brilho que só o autêntico cristal mineiro possui.\n\n**Enviamos para todo o Brasil e exterior.**"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2026-04-09T18:25:50.357Z",
+          "end": "",
+          "img": "/img/uploads/turmalinanegra-1-.png",
+          "link": "https://wa.me/553198604393"
+        }
+      ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
