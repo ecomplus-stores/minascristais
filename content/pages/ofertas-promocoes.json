@@ -1,7 +1,7 @@
 {
-  "title": "Ofertas & Promoções ",
-  "meta_title": "Promoção de Cristais: Até 30% OFF + Brinde Ametista | Minas Cristais",
-  "meta_description": "Aproveite o fevereiro na Minas Cristais! Peças selecionadas com até 30% OFF e Frete Grátis. Ganhe 01 Mini Drusa de Ametista em compras acima de R$ 99. Confira!",
+  "title": "Dia das Mães Minas Cristais: Presentes com Significado e 25% OFF",
+  "meta_title": "Dia das Mães Minas Cristais: Presentes com Significado e 25% OFF",
+  "meta_description": "Encontre o presente de Dia das Mães perfeito na Minas Cristais. Ofertas de até 25% OFF em Esmeralda, Quartzo Rosa e mais. Ganhe o Potinho de Amor e Frete Grátis!",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -15,6 +15,46 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200359a7963422eeeee5a2a:categories:Quartzo Rosa:/quartzo-rosa/",
+      "sort": "offers",
+      "title": "Amor Incondicional: A Doçura do Quartzo Rosa",
+      "link": "https://www.minascristais.com.br/quartzo-rosa/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6200357f7963422eeeee59d2:categories:Esmeralda :/esmeralda/",
+      "sort": "offers",
+      "title": "Preciosidade e Cura: O Brilho da Esmeralda",
+      "link": "https://www.minascristais.com.br/esmeralda/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035877963422eeeee59f0:categories:Jaspe Vermelho:/jaspe-vermelho/",
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/jaspe-vermelho/",
+      "title": "Força e Proteção: O Poder do Jaspe Vermelho"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620035797963422eeeee59c2:categories:Cristal:/cristal/",
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/cristal/",
+      "title": "Clareza e Luz: A Pureza do Cristal"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
@@ -24,5 +64,5 @@
       "enabled": true
     }
   ],
-  "body": "<!--StartFragment-->\n\nSabemos que 2026 tem exigido muito de todos nós. Marte está agitado e, às vezes, a sensação é de que estamos nadando contra a correnteza, não é?\n\nNa **Minas Cristais**, acreditamos que o cristal certo não é apenas um acessório, mas uma ferramenta de ancoragem. Por isso, para celebrar o **Mês do Cliente** e o **Dia da Mulher**, escolhemos a dedo um presente que é um verdadeiro \"abraço em forma de pedra\": o **Pingente de Trolita**.\n\n## 💎 O Poder da Trolita: Por que ela é o presente perfeito?\n\nConhecida como a **\"Pedra do Alinhamento e da Serenidade\"**, a Trolita é uma combinação rara que atua como um bálsamo para os dias agitados.\n\n* **A Força da Calma (Dia da Mulher):** Ser mulher hoje é equilibrar mil pratinhos ao mesmo tempo. A Trolita atua nos Chakras Laríngeo e do Terceiro Olho, auxiliando na **comunicação assertiva**. Ela te ajuda a dizer a sua verdade com clareza, sem perder a doçura. É o empoderamento que nasce do equilíbrio, não do esforço.\n* **Seu Momento de Pausa (Mês do Cliente):** Nossa gratidão por sua confiança se traduz em bem-estar. A Trolita dissipa a ansiedade e facilita o foco. Ter este pingente próximo ao peito é como carregar um **\"botão de pausa\"**, lembrando que você merece serenidade em meio ao caos.\n\n- - -\n\n## 🎁 DOSE DUPLA DE PODER ATIVADA:\n\nPreparamos condições especiais para você renovar sua energia agora:\n\n1. **PRESENTE DO MÊS:** Ganhe 01 Pingente de Trolita em compras a partir de **R$99**.\n2. **DESCONTO REAL:** **15% OFF AUTOMÁTICO** em todo o site (sem precisar de cupom!).\n3. **CUSTO ZERO:** **Frete Grátis** em compras acima de R$299 (até 5kg).\n\n<!--EndFragment-->"
+  "body": "**Presentes de Dia das Mães: A Energia que Fortalece**\n\nNa **Minas Cristais**, acreditamos que o amor de mãe é a força mais pura da natureza. Por isso, preparamos uma curadoria exclusiva de pedras naturais especialmente escolhidas para honrar quem sempre cuidou de você.\n\nAproveite nossa campanha de Dia das Mães com ofertas imperdíveis de até **25% de desconto** em peças selecionadas que vibram amor e proteção:\n\n**[Quartzo Rosa](https://www.minascristais.com.br/quartzo-rosa/)**: Para celebrar o amor incondicional.\n\n**[Esmeralda](https://www.minascristais.com.br/esmeralda/)**: Para atrair saúde, beleza e fartura.\n\n**[Jaspe Vermelho](https://www.minascristais.com.br/jaspe-vermelho/)**: Para trazer força e aterramento.\n\n**[Cristal](https://www.minascristais.com.br/cristal/)**: Para purificar as energias e trazer clareza.\n\nUm toque de magia extra: Sabe aquela pessoa que a gente gostaria de guardar em um potinho? Criamos o nosso **[Potinho de Amor como o brinde do mês](https://www.minascristais.com.br/potinho-cascalhinho-surpresa)!** Nas compras deste período, você recebe esse amuleto surpresa — pois acreditamos que, em momentos assim, a pedra é quem escolhe você.\n\n🎁 Vantagens Exclusivas:\n\n**Frete Grátis para compras acima de R$299 (até 5kg).**\n\n**[Brinde Exclusivo](https://www.minascristais.com.br/potinho-cascalhinho-surpresa)**: Ganhe 01 Potinho de Amor surpresa.\n\nDesconto: Peças com até 25% OFF \n\n***Não deixe para a última hora aproveite as ofertas.***"
 }
