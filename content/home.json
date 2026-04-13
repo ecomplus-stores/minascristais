@@ -28,7 +28,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -37,10 +37,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "news",
-      "link": "https://www.minascristais.com.br/acessorios",
-      "title": "NOVIDADES EM ACESSÓRIOS"
+      "collection_id": null,
+      "sort": "offers",
+      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
+      "title": "PEÇAS SELECIONADAS COM 25% OFF"
     },
     {
       "type": "collection-shelf",
@@ -49,7 +49,7 @@
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
-      "sort": "news",
+      "sort": "views",
       "title": "GARIMPO DA SEMANA, VEM CONFERIR"
     },
     {
@@ -73,7 +73,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "633774fc73321213f896669c:collections:Atacado Semana Destaque:/desconto-especial-atacado",
-      "sort": "news",
+      "sort": "sales",
       "title": "🔥 ATACADO 50% OFF! Confira as Condições Exclusivas! 💎",
       "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online"
     },
