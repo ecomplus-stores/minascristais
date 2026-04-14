@@ -39,20 +39,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035877963422eeeee59f0:categories:Jaspe Vermelho:/jaspe-vermelho/",
+      "collection_id": "620035797963422eeeee59c2:categories:Cristal:/cristal/",
       "sort": "offers",
-      "link": "https://www.minascristais.com.br/jaspe-vermelho/",
-      "title": "Força e Proteção: O Poder do Jaspe Vermelho"
+      "link": "https://www.minascristais.com.br/cristal/",
+      "title": "Clareza e Luz: A Pureza do Cristal"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035797963422eeeee59c2:categories:Cristal:/cristal/",
+      "collection_id": "620035877963422eeeee59f0:categories:Jaspe Vermelho:/jaspe-vermelho/",
       "sort": "offers",
-      "link": "https://www.minascristais.com.br/cristal/",
-      "title": "Clareza e Luz: A Pureza do Cristal"
+      "link": "https://www.minascristais.com.br/jaspe-vermelho/",
+      "title": "Força e Proteção: O Poder do Jaspe Vermelho"
     },
     {
       "type": "dynamic-showcase",
