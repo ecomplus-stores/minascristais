@@ -8,10 +8,10 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2026-04-01T04:44:07.068Z",
+          "start": "2026-05-11T03:37:45.672Z",
           "end": "",
-          "img": "/img/uploads/brindemd.jpg",
-          "mobile_img": "/img/uploads/brindem.jpg",
+          "img": "/img/uploads/brinde1.png",
+          "mobile_img": "/img/uploads/brinde-mobile.png",
           "link": "https://www.minascristais.com.br/cristaisepedras/"
         }
       ]
@@ -31,16 +31,6 @@
       "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "offers",
-      "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-      "title": "PEÇAS SELECIONADAS COM 25% OFF"
     },
     {
       "type": "collection-shelf",
