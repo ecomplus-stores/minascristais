@@ -23,12 +23,31 @@
       "sort": "name"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/colecaoamor.png",
+          "link": "https://www.minascristais.com.br/cristais-para-relacionamento",
+          "alt": "Cristais para Relacionamento: Conexão, Verdade e Amor Além do Óbvio"
+        },
+        {
+          "img": "/img/uploads/combo-alquimico.png",
+          "link": "https://www.minascristais.com.br/combo-alquimia-sagrada",
+          "alt": "Combo Alquimia Sagrada: Proteção e Renovação Energética. Kit Alquimia: A Arte da Transmutação Energética."
+        },
+        {
+          "img": "/img/uploads/presentesacessorios.png",
+          "link": "https://www.minascristais.com.br/acessorios"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "news",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -39,7 +58,7 @@
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
-      "sort": "sales",
+      "sort": "news",
       "title": "GARIMPO DA SEMANA, VEM CONFERIR"
     },
     {
