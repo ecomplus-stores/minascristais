@@ -10,8 +10,8 @@
         {
           "start": "2026-05-11T03:46:05.439Z",
           "end": "",
-          "img": "/img/uploads/brinde1.png",
-          "mobile_img": "/img/uploads/brinde-mobile-maio.png",
+          "img": "/img/uploads/amuleto-junho-d.webp",
+          "mobile_img": "/img/uploads/amuleto-junho-mob.webp",
           "link": "https://www.minascristais.com.br/cristaisepedras/"
         }
       ]
@@ -20,24 +20,24 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "sort": "name"
+      "sort": null
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/colecaoamor.png",
+          "img": "/img/uploads/acessorioscopa.webp",
+          "link": "https://www.minascristais.com.br/pages/pedras-cristais-cores",
+          "alt": "Cristais para Relacionamento: Conexão, Verdade e Amor Além do Óbvio"
+        },
+        {
+          "img": "/img/uploads/cristaisamornobvios.webp",
           "link": "https://www.minascristais.com.br/cristais-para-relacionamento",
           "alt": "Cristais para Relacionamento: Conexão, Verdade e Amor Além do Óbvio"
         },
         {
-          "img": "/img/uploads/combo-alquimico.png",
-          "link": "https://www.minascristais.com.br/combo-alquimia-sagrada",
-          "alt": "Combo Alquimia Sagrada: Proteção e Renovação Energética. Kit Alquimia: A Arte da Transmutação Energética."
-        },
-        {
-          "img": "/img/uploads/presentesacessorios.png",
-          "link": "https://www.minascristais.com.br/acessorios"
+          "img": "/img/uploads/kits.webp",
+          "link": "https://www.minascristais.com.br/kitspedras-esotericas"
         }
       ]
     },
@@ -69,10 +69,10 @@
         {
           "start": "2026-01-01T17:52:24.077Z",
           "end": "",
-          "img": "/img/uploads/atacado1.webp",
+          "img": "/img/uploads/atacadojunho26.webp",
           "link": "https://www.minascristais.com.br/pages/atacado-minas-cristais-pedras-cristais-compre-online",
           "alt": "ATACADO MINAS CRISTAIS",
-          "mobile_img": "/img/uploads/atacado-2026_m.webp"
+          "mobile_img": "/img/uploads/atacadojunho26_m.webp"
         }
       ]
     },
