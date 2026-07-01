@@ -8,6 +8,14 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2026-07-01T03:02:40.614Z",
+          "end": "",
+          "img": "/img/uploads/julho-garimpo.png",
+          "link": "https://www.minascristais.com.br/garimpo-da-semana",
+          "alt": "GARIMPO MINAS CRISTAIS ",
+          "mobile_img": "/img/uploads/julho-garimpo-m.png"
+        },
+        {
           "start": "2026-05-11T03:46:05.439Z",
           "end": "",
           "img": "/img/uploads/amuleto-junho-d.webp",
@@ -26,17 +34,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/acessorioscopa.webp",
+          "img": "/img/uploads/colecaocopa.png",
           "link": "https://www.minascristais.com.br/colecao-as-cores-do-brasil",
           "alt": "Componha seu look de torcida com a força e os amuletos da nossa terra."
         },
         {
-          "img": "/img/uploads/cristaisamornobvios.webp",
-          "link": "https://www.minascristais.com.br/cristais-para-relacionamento",
-          "alt": "Cristais para Relacionamento: Conexão, Verdade e Amor Além do Óbvio"
+          "img": "/img/uploads/chamadagrupovip.png",
+          "link": "https://www.minascristais.com.br/pages/minas-cristais-swx-sobre-a-empresa",
+          "alt": "35 ANOS MINAS CRISTAIS - GRUPO VIP - PRÉ ANIVERSÁRIO"
         },
         {
-          "img": "/img/uploads/kits.webp",
+          "img": "/img/uploads/chamada-kits.png",
           "link": "https://www.minascristais.com.br/kitspedras-esotericas"
         }
       ]
