@@ -21,6 +21,15 @@
       "sort": "news"
     },
     {
+      "type": "custom-content",
+      "markdown": "## **V﻿EJA TAMBÉM**"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
+    },
+    {
       "type": "page-title",
       "title": "Navegue também por :"
     },
