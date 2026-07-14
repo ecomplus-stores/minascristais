@@ -24,20 +24,6 @@
       "sort": null
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/chamadagrupovip.png",
-          "link": "https://www.minascristais.com.br/pages/minas-cristais-swx-sobre-a-empresa",
-          "alt": "35 ANOS MINAS CRISTAIS - GRUPO VIP - PRÉ ANIVERSÁRIO"
-        },
-        {
-          "img": "/img/uploads/chamada-kits.png",
-          "link": "https://www.minascristais.com.br/kitspedras-esotericas"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
