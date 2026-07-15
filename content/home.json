@@ -73,13 +73,6 @@
       "html": "<h4 class=\"products-carousel__title\"><a href=\"https://minascristais.com.br/pages/contato\">✨ Encontre Seu Cristal Perfeito! 🛍️\nVisite Nossas Lojas </a></h4>"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/lojasfisicas-2026.webp",
-      "link": "https://minascristais.com.br/pages/contato",
-      "alt": "LOJAS FÍSICAS ",
-      "mobile_img": "/img/uploads/lojasfisicas-2026-m.png"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
