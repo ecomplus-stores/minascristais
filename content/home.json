@@ -14,6 +14,13 @@
           "link": "https://www.minascristais.com.br/cristaisepedras/",
           "alt": "50% off ",
           "mobile_img": "/img/uploads/slidemm.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/slidem.png",
+          "mobile_img": "/img/uploads/slidemm.png",
+          "link": "https://www.minascristais.com.br/cristaisepedras/"
         }
       ]
     },
