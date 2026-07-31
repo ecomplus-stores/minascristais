@@ -10,19 +10,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63877a2e73321213f8fb992b:collections:Presentes até R$50:/presentes-pedra-cristais",
-      "sort": "views",
-      "title": "Presentes até R$50 ",
-      "link": "https://www.minascristais.com.br/presentes-pedra-cristais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
       "sort": "views",
-      "title": "Presentes Especiais - Para Decorar e Energizar seu ambiente",
+      "title": "Mesa Posta e Utilitários Premium",
       "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais"
     },
     {
@@ -30,10 +20,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63876f6273321213f8fb7db2:collections:Pedras Brutas e Roladas Unidade a partir de R$6,99:/pedras-cristais-unidade",
+      "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
       "sort": "views",
-      "title": "Pedras Brutas e Roladas -unidade ",
-      "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
+      "title": "Garimpo da Semana Especial Dia dos Pais",
+      "link": "https://www.minascristais.com.br/garimpo-da-semana"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
+      "sort": "news",
+      "title": "Destaques da Semana dos Pais",
+      "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais"
     },
     {
       "type": "custom-content",
@@ -44,19 +44,19 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63af4f424834634f73242eba:collections:Lua - Planeta Regente de 2023:/lua-planeta-2023",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/lua-planeta-2023",
-      "title": "Lua - Planeta Regente de 2023"
+      "collection_id": "65f243ef87ab487fbfe4c622:collections:Para Colecionadores - Raridades e Colecionáveis:/cristais-colecionaveis-raridades",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/cristais-colecionaveis-raridades",
+      "title": "Histórias que ficam para sempre: eternize os melhores momentos com ele."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "621416d27963422eee127ca6:brands:Acessórios Minas Cristais:/mix-acessorios",
+      "collection_id": "65ea802087ab487fbfdb6f60:collections:Acessórios com Desconto Especial:/desconto-em-acessorios",
       "sort": "views",
-      "link": "https://www.minascristais.com.br/mix-acessorios",
+      "link": "https://www.minascristais.com.br/acessorios-masculinos",
       "title": "Acessórios e Prata"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n### Visite Nossas Lojas Físicas em Minas Gerais\n\nSe você prefere vivenciar a energia dos nossos cristais de perto e escolher pessoalmente o presente ideal para o seu pai, convidamos você para uma experiência única em nossas unidades. Venha nos visitar:\n\n* **Minas Cristais Sete Lagoas:** <!--StartFragment-->\n\n  Segunda a Sexta das 8:30h às18h Sábados das 8h às 12h\n\n  Av. Múcio José Reis, 330 A – Nossa Sra. das Graças, Sete Lagoas – MG, 35700-640G\n\n  <!--EndFragment-->\n* #### **[Gruta Gifts & Stone by Minas Cristais - Sete Lagoas/ MG](https://www.instagram.com/p/Cey5WQCgSxe/)**\n\n  Presentes, Decoração e Acessórios em Pedras e Cristais.💎\n\n  A Gruta Rei do Mato fica a 62 quilômetros de Belo Horizonte, pela BR-040, junto ao trevo de acesso a Sete Lagoas.\n\n  Rodovia BR-040, Km 472, s/n - Universitário, Sete Lagoas - MG\n\n  De segunda a domingo das 9h às 17h.\n\n  <!--EndFragment-->\n* Associação de Artesãos Coração de Minas\n\n  <!--StartFragment-->\n\n  📍 Onde: Teatro Redenção (ao lado do Mercadão)\\\n  🗓️ Quando: Nos finais de semana\\\n  ⏰ Horário: Das 8h às 16h\n\n  <!--EndFragment-->\n* **Minas Cristais Curvelo:** <!--StartFragment-->\n\n  Rodovia BR135 , km 629,5\n\n  ( ao lado do Recanto do Tiziu)\n\n  **[Agende sua visita](https://web.whatsapp.com/send?phone=%2B553131765634)**\n\n  <!--EndFragment-->\n\nDescubra o presente que combina com a história do homem que te ensinou a valorizar o que é eterno. **Explore a coleção abaixo e antecipe o seu pedido com frete seguro!**\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment-->\n\n### Visite Nossas Lojas Físicas em Minas Gerais\n\nSe você prefere vivenciar a energia dos nossos cristais de perto e escolher pessoalmente o presente ideal para o seu pai, convidamos você para uma experiência única em nossas unidades. Venha nos visitar:\n\n* **Minas Cristais Sete Lagoas:** <!--StartFragment-->\n\n  Segunda a Sexta das 8:30h às18h Sábados das 8h às 12h\n\n  Av. Múcio José Reis, 330 A – Nossa Sra. das Graças, Sete Lagoas – MG, 35700-640G\n* #### **[Gruta Gifts & Stone by Minas Cristais - Sete Lagoas/ MG](https://www.instagram.com/p/Cey5WQCgSxe/)**\n\n  Presentes, Decoração e Acessórios em Pedras e Cristais.💎\n\n  A Gruta Rei do Mato fica a 62 quilômetros de Belo Horizonte, pela BR-040, junto ao trevo de acesso a Sete Lagoas.\n\n  Rodovia BR-040, Km 472, s/n - Universitário, Sete Lagoas - MG\n\n  De segunda a domingo das 9h às 17h.\n* Associação de Artesãos Coração de Minas\n\n  📍 Onde: Teatro Redenção (ao lado do Mercadão)\\\n  🗓️ Quando: Nos finais de semana\\\n  ⏰ Horário: Das 8h às 16h\n* **Minas Cristais Curvelo:** <!--StartFragment-->\n\n  Rodovia BR135 , km 629,5\n\n  ( ao lado do Recanto do Tiziu)\n\n  **[Agende sua visita](https://web.whatsapp.com/send?phone=%2B553131765634)**\n\nDescubra o presente que combina com a história do homem que te ensinou a valorizar o que é eterno. **Explore a coleção abaixo e antecipe o seu pedido com frete seguro!**\n\n<!--EndFragment-->"
     },
     {
       "type": "brands-carousel",
