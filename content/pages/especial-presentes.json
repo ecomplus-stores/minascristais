@@ -1,5 +1,5 @@
 {
-  "title": "Especial Presentes ",
+  "title": "Coleção Dia dos Pais: Presentes Eternos em Cristais e Pedras Naturais ",
   "sections": [
     {
       "type": "extra-page",
@@ -36,6 +36,10 @@
       "link": "https://www.minascristais.com.br/pedras-cristais-unidade"
     },
     {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n### Tradição Mineira com Envio Global\n\nA **Minas Cristais** une a força da tradição mineral de Minas Gerais com a comodidade do mercado digital. Se você deseja comprar online, oferecemos **envio seguro para todo o Brasil e exterior**, garantindo embalagens especiais que protegem a integridade e o luxo de cada mineral até a sua entrega.\n\n<!--EndFragment-->"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -66,21 +70,20 @@
       "title": "Diversos Esotéricos"
     },
     {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n### Visite Nossas Lojas Físicas em Minas Gerais\n\nSe você prefere vivenciar a energia dos nossos cristais de perto e escolher pessoalmente o presente ideal para o seu pai, convidamos você para uma experiência única em nossas unidades. Venha nos visitar:\n\n* **Minas Cristais Sete Lagoas:** <!--StartFragment-->\n\n  Segunda a Sexta das 8:30h às18h Sábados das 8h às 12h\n\n  Av. Múcio José Reis, 330 A – Nossa Sra. das Graças, Sete Lagoas – MG, 35700-640G\n\n  <!--EndFragment-->\n* #### **[Gruta Gifts & Stone by Minas Cristais - Sete Lagoas/ MG](https://www.instagram.com/p/Cey5WQCgSxe/)**\n\n  Presentes, Decoração e Acessórios em Pedras e Cristais.💎\n\n  A Gruta Rei do Mato fica a 62 quilômetros de Belo Horizonte, pela BR-040, junto ao trevo de acesso a Sete Lagoas.\n\n  Rodovia BR-040, Km 472, s/n - Universitário, Sete Lagoas - MG\n\n  De segunda a domingo das 9h às 17h.\n\n  <!--EndFragment-->\n* Associação de Artesãos Coração de Minas\n\n  <!--StartFragment-->\n\n  📍 Onde: Teatro Redenção (ao lado do Mercadão)\\\n  🗓️ Quando: Nos finais de semana\\\n  ⏰ Horário: Das 8h às 16h\n\n  <!--EndFragment-->\n* **Minas Cristais Curvelo:** <!--StartFragment-->\n\n  Rodovia BR135 , km 629,5\n\n  ( ao lado do Recanto do Tiziu)\n\n  **[Agende sua visita](https://web.whatsapp.com/send?phone=%2B553131765634)**\n\n  <!--EndFragment-->\n\nDescubra o presente que combina com a história do homem que te ensinou a valorizar o que é eterno. **Explore a coleção abaixo e antecipe o seu pedido com frete seguro!**\n\n<!--EndFragment-->"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
     },
     {
       "type": "info-bar",
       "enabled": true
     }
   ],
-  "body": "<!--StartFragment-->\n\nDescubra o poder dos cristais com a Minas Cristais! Nós oferecemos uma variedade de peças únicas em diferentes formatos, cada uma delas com qualidade excepcional e preços imbatíveis, prontas para serem entregues diretamente em sua casa.\n\nSurpreenda seus amigos e familiares com nossas seleções especiais, com opções de presentes . E para aqueles que estão sempre em busca de pedras novas para sua coleção, temos uma variedade de opções de pedras vendidas por unidade.\n\nEm 2023, o planeta regente é a Lua, e nós criamos uma seção especial dedicada a essa energia cósmica. Descubra nossas peças exclusivas e sinta a força da Lua em sua vida.\n\nE não se esqueça, se esta é sua primeira vez comprando conosco, utilize o cupom \"**primeiracompra**\" para garantir **15% de desconto** em seu pedido. Não perca a chance de se conectar com os cristais e melhorar sua vida!\n\n<!--EndFragment-->",
+  "body": "<!--StartFragment-->\n\nO tempo corre, mas os brindes sinceros, as conversas sem pressa e as grandes histórias em família permanecem gravados para sempre. Neste **Dia dos Pais**, vá além dos presentes comuns. A **Minas Cristais** apresenta uma curadoria exclusiva de pedras naturais e minerais raros, perfeita para pais colecionadores e que valorizam a sofisticação na decoração de interiores.<!--StartFragment-->\n\n*Cada peça de nossa coleção é esculpida pela própria natureza, tornando-se um presente único e inesquecível.* Transforme o escritório, a sala de estar ou os momentos de lazer do seu pai com o magnetismo e a imponência dos cristais\n\n<!--EndFragment-->\n\n\n\n<!--EndFragment-->",
   "meta_title": "Descubra o poder dos cristais com a Minas Cristais! Seção especial de Presentes até R$100 ",
   "meta_description": "Surpreenda seus amigos e familiares com nossas seleções especiais, com opções de presentes que até**R$50 a R$100**. E para aqueles que estão sempre em busca de pedras novas para sua coleção, temos uma variedade de opções de pedras vendidas por unidade."
 }
