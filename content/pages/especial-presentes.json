@@ -11,7 +11,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "639b494a4834634f73129e6d:collections:Presentes Especiais:/pecas-presentes-minas-cristais",
-      "sort": "news",
+      "sort": "sales",
       "title": "Mesa Posta e Utilitários Premium",
       "link": "https://www.minascristais.com.br/pecas-presentes-minas-cristais"
     },
@@ -21,7 +21,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "views",
+      "sort": "news",
       "title": "Garimpo da Semana Especial Dia dos Pais",
       "link": "https://www.minascristais.com.br/garimpo-da-semana"
     },
@@ -45,7 +45,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "65f243ef87ab487fbfe4c622:collections:Para Colecionadores - Raridades e Colecionáveis:/cristais-colecionaveis-raridades",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/cristais-colecionaveis-raridades",
       "title": "Histórias que ficam para sempre: eternize os melhores momentos com ele."
     },
@@ -55,7 +55,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6a6bfbbf568e8331251a31a3:collections:Acessórios Masculinos:/acessorios-masculinos",
-      "sort": "views",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/acessorios-masculinos",
       "title": "Acessórios e Prata"
     },
@@ -65,7 +65,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66948dfff4e6d85ab2d18416:collections:Cristais e Pedras para Proteção:/cristais-pedras-protecao",
-      "sort": "views",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
       "title": "Cristais para Proteção"
     },
@@ -90,7 +90,7 @@
       "page": 1,
       "collection_id": "682fe7f5578b5f795422b1f1:collections:Kit de Presentes:/kit-de-presentes-pedras-cristais",
       "link": "https://www.minascristais.com.br/kit-de-presentes-pedras-cristais",
-      "sort": "views",
+      "sort": "news",
       "title": "Kits para Presentes"
     },
     {
