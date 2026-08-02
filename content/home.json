@@ -55,18 +55,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
-      "title": "POR KILO"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "68c4634c578b5f7954ab0e59:categories:Decoração e Amuletos:/decoracao-e-amuletos",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/decoracao-e-amuletos",
       "title": "DÉCOR"
     },
@@ -75,20 +65,30 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620035467963422eeeee58e0:categories:Esoterismo:/esoterismo/",
-      "link": "https://www.minascristais.com.br/esoterismo/",
-      "title": "ESOTERISMO",
-      "sort": "sales"
+      "collection_id": "68c4b127578b5f7954ab5ebe:categories:Presentes e Kits:/presentes-e-kits",
+      "link": "https://www.minascristais.com.br/presentes-e-kits",
+      "title": "PRESENTES E KITS",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6200354d7963422eeeee58ff:categories:Acessórios:/acessorios",
-      "sort": "sales",
+      "collection_id": "6a6bfbbf568e8331251a31a3:collections:Acessórios Masculinos:/acessorios-masculinos",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/acessorios",
       "title": "ACESSÓRIOS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
+      "sort": "sales",
+      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
+      "title": "POR KILO"
     },
     {
       "type": "custom-html",
