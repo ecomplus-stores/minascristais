@@ -28,7 +28,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -38,7 +38,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO "
     },
@@ -50,7 +50,7 @@
       "collection_id": "66948dfff4e6d85ab2d18416:collections:Cristais e Pedras para Proteção:/cristais-pedras-protecao",
       "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
       "title": "CRISTAIS PARA PROTEÇÃO",
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
@@ -58,7 +58,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "68f776a1578b5f7954d62e89:collections:7 Cristais de Alta Frequência e Conexão Celestial:/7-cristais-alta-frequencia-conexao-celestial",
-      "sort": "news",
+      "sort": "sales",
       "link": "https://www.minascristais.com.br/7-cristais-alta-frequencia-conexao-celestial",
       "title": "7 Cristais de Alta Frequência e Conexão Celestial"
     },
@@ -67,7 +67,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6211bbd67963422eee0eece9:brands:Decoração:/decor-objetos-cristais",
+      "collection_id": "68c4634c578b5f7954ab0e59:categories:Decoração e Amuletos:/decoracao-e-amuletos",
       "sort": "news",
       "link": "https://www.minascristais.com.br/decoracao-e-amuletos",
       "title": "DÉCOR"
@@ -77,10 +77,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6211ba9f7963422eee0eeb7d:brands:Kilo Minas Cristais:/kg-pedras-cristais",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/kg-pedras-cristais",
-      "title": "POR KILO"
+      "collection_id": "633774fc73321213f896669c:collections:Atacado Semana Destaque:/desconto-especial-atacado",
+      "sort": "highest_price",
+      "link": "https://www.minascristais.com.br/desconto-especial-atacado",
+      "title": "ATACADO - SAIBA MAIS"
     },
     {
       "type": "custom-html",
