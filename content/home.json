@@ -18,6 +18,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/9cristais.png",
+          "link": "https://www.minascristais.com.br/pages/9-cristais-para-cura-emocional-e-sabedoria"
+        },
+        {
+          "img": "/img/uploads/citrino.png",
+          "link": "https://www.minascristais.com.br/citrino/"
+        },
+        {
+          "img": "/img/uploads/cuidados.png",
+          "link": "https://www.minascristais.com.br/cristais-pedras-autocuidado-bem-estar"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
@@ -52,16 +69,6 @@
       "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
       "title": "CRISTAIS PARA PROTEÇÃO",
       "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "66948f0ff4e6d85ab2d184d8:collections:Cristais e Pedras para Bem Estar - Autocuidado:/cristais-pedras-autocuidado-bem-estar",
-      "sort": "sales",
-      "link": "https://www.minascristais.com.br/cristais-pedras-autocuidado-bem-estar",
-      "title": "Cristais e Pedras para Bem Estar - Autocuidado"
     },
     {
       "type": "collection-shelf",
