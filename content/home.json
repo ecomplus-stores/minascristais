@@ -56,16 +56,6 @@
       "title": "GARIMPO "
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "66948dfff4e6d85ab2d18416:collections:Cristais e Pedras para Proteção:/cristais-pedras-protecao",
-      "link": "https://www.minascristais.com.br/cristais-pedras-protecao",
-      "title": "CRISTAIS PARA PROTEÇÃO",
-      "sort": "sales"
-    },
-    {
       "type": "custom-html",
       "html": "<h4 class=\"products-carousel__title\"><a href=\"https://minascristais.com.br/pages/contato\">✨ Encontre Seu Cristal Perfeito! 🛍️\nVisite Nossas Lojas </a></h4>"
     },
