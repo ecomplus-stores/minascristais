@@ -3,28 +3,6 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais no Varejo e Atacado envio para Todo Brasil e Exterior. LojasFísicas: Sete Lagoas, Curvelo e BH. Pronta Entrega.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2026-09-01T03:37:41.853Z",
-          "end": "",
-          "img": "/img/uploads/kitvibrealto-d.png",
-          "link": "https://www.minascristais.com.br/kit-vibre-alto-3-pedras-brutas-de-sabedoria-alegria-e-alivio-diario",
-          "mobile_img": "/img/uploads/kitvibrealto-m.png",
-          "alt": "Kit Vibre Alto: 3 Pedras Brutas de Sabedoria, Alegria e Alívio Diário"
-        },
-        {
-          "start": "2026-09-01T04:09:11.366Z",
-          "end": "",
-          "img": "/img/uploads/kitvibrealto-d.png",
-          "link": "https://www.minascristais.com.br/kit-vibre-alto-3-pedras-brutas-de-sabedoria-alegria-e-alivio-diario",
-          "mobile_img": "/img/uploads/kitvibrealto-m.png"
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -86,16 +64,6 @@
       "sort": "sales",
       "link": "https://www.minascristais.com.br/kitspedras-esotericas",
       "title": "Kits de Pedras & Cristais"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "633774fc73321213f896669c:collections:Atacado Semana Destaque:/desconto-especial-atacado",
-      "sort": "views",
-      "link": "https://www.minascristais.com.br/desconto-especial-atacado",
-      "title": "ATACADO - SAIBA MAIS"
     },
     {
       "type": "custom-html",
