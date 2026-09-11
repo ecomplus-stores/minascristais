@@ -16,6 +16,12 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/semanacliente.png",
       "mobile_img": "/img/uploads/semanaclientem.png"
@@ -36,12 +42,6 @@
           "link": "https://www.minascristais.com.br/cristais-pedras-autocuidado-bem-estar"
         }
       ]
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
     },
     {
       "type": "collection-shelf",
