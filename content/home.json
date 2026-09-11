@@ -22,11 +22,6 @@
       "sort": null
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/semanacliente.png",
-      "mobile_img": "/img/uploads/semanaclientem.png"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
