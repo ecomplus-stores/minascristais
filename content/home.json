@@ -3,6 +3,19 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais no Varejo e Atacado envio para Todo Brasil e Exterior. LojasFísicas: Sete Lagoas, Curvelo e BH. Pronta Entrega.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2026-09-11T04:57:15.434Z",
+          "end": "",
+          "img": "/img/uploads/semanacliente.png",
+          "mobile_img": "/img/uploads/semanaclientem.png"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/semanacliente.png",
       "mobile_img": "/img/uploads/semanaclientem.png"
