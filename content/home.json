@@ -3,27 +3,25 @@
   "meta_description": "Minas Cristais SWX - Loja de Pedras e Cristais no Varejo e Atacado envio para Todo Brasil e Exterior. LojasFísicas: Sete Lagoas, Curvelo e BH. Pronta Entrega.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2026-10-01T03:24:13.033Z",
+          "end": "",
+          "img": "/img/uploads/slide-outubro-2026.png",
+          "mobile_img": "/img/uploads/slide-outubro-2026m.png",
+          "link": "https://www.minascristais.com.br/pages/pedras-rosas-amor-e-afeto-em-sua-vida",
+          "alt": "Outubro Rosa : Cristais de Destaque do Mês - Pedras Rosas - Minas Cristais "
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "sort": null
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/9cristais.png",
-          "link": "https://www.minascristais.com.br/pages/9-cristais-para-cura-emocional-e-sabedoria"
-        },
-        {
-          "img": "/img/uploads/citrino.png",
-          "link": "https://www.minascristais.com.br/citrino/"
-        },
-        {
-          "img": "/img/uploads/cuidados.png",
-          "link": "https://www.minascristais.com.br/cristais-pedras-autocuidado-bem-estar"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
