@@ -26,12 +26,6 @@
       ]
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
@@ -55,6 +49,12 @@
       "sort": "news",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO "
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
     },
     {
       "type": "custom-html",
