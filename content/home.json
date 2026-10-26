@@ -52,7 +52,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "sales"
+      "sort": "offers"
     },
     {
       "type": "brands-carousel",
