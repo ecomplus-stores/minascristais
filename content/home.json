@@ -30,15 +30,18 @@
       "banners": [
         {
           "img": "/img/uploads/acessorios.jpg",
-          "link": "https://www.minascristais.com.br/acessorios"
+          "link": "https://www.minascristais.com.br/acessorios",
+          "alt": "acessórios, veja aqui"
         },
         {
           "img": "/img/uploads/esotericos.jpg",
-          "link": "https://www.minascristais.com.br/esoterismo/"
+          "link": "https://www.minascristais.com.br/esoterismo/",
+          "alt": "esotéricos"
         },
         {
           "img": "/img/uploads/kits.jpg",
-          "link": "https://www.minascristais.com.br/kitspedras-esotericas"
+          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
+          "alt": "kits de pedras"
         }
       ]
     },
