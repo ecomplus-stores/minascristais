@@ -8,14 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2026-10-22T03:03:25.952Z",
-          "end": "",
-          "img": "/img/uploads/bannerdiadasbruxas.png",
-          "mobile_img": "/img/uploads/bannermobile.png",
-          "link": "https://www.minascristais.com.br/pages/ofertas-promocoes",
-          "alt": "PROMOÇÃO "
-        },
-        {
           "start": "2026-10-01T03:38:48.809Z",
           "end": "",
           "img": "/img/uploads/slide-outubro-2026a.png",
@@ -24,35 +16,6 @@
           "alt": "Banho e Cuidado Pessoal - Cristais para Autocuidado"
         }
       ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios.jpg",
-          "link": "https://www.minascristais.com.br/acessorios",
-          "alt": "acessórios, veja aqui"
-        },
-        {
-          "img": "/img/uploads/esotericos.jpg",
-          "link": "https://www.minascristais.com.br/esoterismo/",
-          "alt": "esotéricos"
-        },
-        {
-          "img": "/img/uploads/kits.jpg",
-          "link": "https://www.minascristais.com.br/kitspedras-esotericas",
-          "alt": "kits de pedras"
-        }
-      ]
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.minascristais.com.br/pages/ofertas-promocoes\">\n  🛍️VEJA MAIS OFERTAS </a></h4>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
     },
     {
       "type": "brands-carousel",
@@ -66,7 +29,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63af532b4834634f7324304d:collections:Mais Populares : Encontre sua peça aqui também!:/os-queridinhos-minas-cristais",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://www.minascristais.com.br/os-queridinhos-minas-cristais",
       "title": "DESTAQUES DA SEMANA"
     },
@@ -76,7 +39,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66db10f3fc4aac27a2c8e025:collections:Garimpo da Semana:/garimpo-da-semana",
-      "sort": "offers",
+      "sort": "views",
       "link": "https://www.minascristais.com.br/garimpo-da-semana",
       "title": "GARIMPO "
     },
