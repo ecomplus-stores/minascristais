@@ -25,11 +25,11 @@ jobs:
 
     steps:
       - name: Set remote repo URL
+        id: remote_repo
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "::set-output name=url::https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-        id: remote_repo
+          echo "url=https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" >> $GITHUB_OUTPUT
 
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,10 +39,10 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20.x'
+          node-version: '22.x'
 
       - name: Cache dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -62,34 +62,38 @@ jobs:
         id: changed_files
 
       - name: Run partial build
+        id: partial_build
         env:
           CHANGED_FILES: ${{ steps.changed_files.outputs.all }}
         run: |
-          IS_ECOMPLUS_CD=$(node -p "const f = JSON.parse('${CHANGED_FILES}'); f.length === 1 && f[0] === '.ecomplus.cd.json'");
-          if [ $IS_ECOMPLUS_CD != false ]; then
+          IS_ECOMPLUS_CD=$(node -p "const f = JSON.parse('${CHANGED_FILES:-[]}'); f.length === 1 && f[0] === '.ecomplus.cd.json'");
+          if [ "$IS_ECOMPLUS_CD" != "false" ]; then
             BUILD_SLUG=$(node -p "require('./.ecomplus.cd.json').slug || false");
             STORE_DOMAIN=$(node -p "require('./content/settings.json').domain || false");
-            if [ $BUILD_SLUG != false ] && [ $STORE_DOMAIN != false ]; then
+            if [ "$BUILD_SLUG" != "false" ] && [ "$STORE_DOMAIN" != "false" ]; then
               IFS=",";
               read -ra slug <<< "$BUILD_SLUG";
               for i in "${slug[@]}"; do
                 curl -X PURGE "https://$STORE_DOMAIN/$i"
               done;
-              echo "::set-output name=isg::2";
+              echo "isg=2" >> $GITHUB_OUTPUT;
               exit 0;
             fi
           fi
           npm run build -- --prerender=index,app/index,search,404,blog,admin/index --prerender-limit=0;
-          echo "::set-output name=isg::0";
-        id: partial_build
+          echo "isg=0" >> $GITHUB_OUTPUT;
 
       - name: Config Git and check diff
+        id: git_diff
         run: |
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
           git add content template
-          (git diff-index --quiet HEAD && echo "::set-output name=diff::0") || echo "::set-output name=diff::1"
-        id: git_diff
+          if git diff-index --quiet HEAD; then
+            echo "diff=0" >> $GITHUB_OUTPUT
+          else
+            echo "diff=1" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit local file changes
         continue-on-error: true
@@ -111,7 +115,7 @@ jobs:
         run: |
           if [ -f .bundles.json ] && [ -f dist/storefront.js ]; then
             export GOOGLE_APPLICATION_CREDENTIALS=".firebase-adminsdk.json";
-            echo $GCP_ACCOUNT_KEY > $GOOGLE_APPLICATION_CREDENTIALS;
+            echo "$GCP_ACCOUNT_KEY" > "$GOOGLE_APPLICATION_CREDENTIALS";
             PROJECT_ID=$(node -p "require('./$GOOGLE_APPLICATION_CREDENTIALS').project_id");
-            GOOGLE_APPLICATION_CREDENTIALS=$GOOGLE_APPLICATION_CREDENTIALS npx firebase deploy --project=$PROJECT_ID;
+            GOOGLE_APPLICATION_CREDENTIALS="$GOOGLE_APPLICATION_CREDENTIALS" npx firebase deploy --project="$PROJECT_ID";
           fi
