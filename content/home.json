@@ -43,6 +43,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "6200355c7963422eeeee5958:categories:Pontas:/pontas/",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/pontas/",
+      "title": "PONTAS "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "68c4b127578b5f7954ab5ebe:categories:Presentes e Kits:/presentes-e-kits",
       "sort": "news",
       "title": "IDEIAS DE PRESENTES",
