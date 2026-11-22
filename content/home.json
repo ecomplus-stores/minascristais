@@ -69,6 +69,16 @@
       "title": "KITS DE CRISTAIS"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6204b09d7963422eeef79f9b:categories:Mesa Posta:/mesa-posta",
+      "sort": "news",
+      "link": "https://www.minascristais.com.br/mesa-posta",
+      "title": "MESA POSTA"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/lojasfisicas.png",
       "link": "https://minascristais.com.br/pages/contato",
