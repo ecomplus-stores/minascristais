@@ -11,11 +11,25 @@ if (showcaseType === 'related' && _.state.related_products) {
 }
 if (!productIds && showcaseType) {
   const url = `/products/${_.state._id}/${showcaseType}.json`
-  try {
-    const { data } = await _.ecomClient.graphs({ url })
-    productIds = _.ecomUtils.recommendedIds(data)
-  } catch (err) {
-    console.error(err)
+  // The graphs API is optional for the page: do not hold the render for it.
+  // Give it 2.5s, and after a timeout or server error skip it for a minute.
+  if (!(globalThis.$graphsDownUntil > Date.now())) {
+    let timer
+    try {
+      const { data } = await Promise.race([
+        _.ecomClient.graphs({ url }),
+        new Promise((resolve, reject) => {
+          timer = setTimeout(() => reject(new Error('Graphs API timeout')), 2500)
+        })
+      ])
+      productIds = _.ecomUtils.recommendedIds(data)
+    } catch (err) {
+      if (!err.response || !(err.response.status < 500)) {
+        globalThis.$graphsDownUntil = Date.now() + 60000
+      }
+      console.error(err.message)
+    }
+    clearTimeout(timer)
   }
 }
 if (Array.isArray(productIds) && productIds.length) {
