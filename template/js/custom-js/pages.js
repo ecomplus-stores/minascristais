@@ -8,7 +8,8 @@
  * blocks the next click until the slide transition ends. A click where the
  * pointer moves a couple of pixels (mouse jitter, finger tap) therefore does
  * nothing and the user has to click twice. We swallow those tiny movements
- * before they reach Glide's listener on the `.glide` root, so a press only
+ * at the document (capture phase) before they reach Glide's listeners, which
+ * are bound inside the `.glide` root (on `.glide__slides`), so a press only
  * becomes a swipe after a real drag.
  */
 const CLICK_TOLERANCE_PX = 8
