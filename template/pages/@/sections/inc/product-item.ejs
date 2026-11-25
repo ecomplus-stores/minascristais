@@ -64,11 +64,25 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
       <div class="product-card__pictures">
         <!-- Picture(s) will be inserted and loaded dynamically within `ProductCard` -->
         <% if (imgObj) { %>
+          <%
+          // Render the picture with the browser's native lazy loading instead of
+          // `lozad-delay fade`: that class kept the image at opacity 0 (and
+          // without `src`) until the JS bundle ran and `ProductCard` hydrated,
+          // so on slow devices the showcase looked like blank cards.
+          const [imgWidth, imgHeight] = typeof imgObj.size === 'string'
+            ? imgObj.size.split('x').map(px => parseInt(px, 10))
+            : []
+          %>
           <picture class="product-card__picture">
             <img
-              data-src="<%= imgObj.url %>"
+              src="<%= imgObj.url %>"
               alt="<%= imgObj.alt %>"
-              class="lozad-delay fade"
+              loading="lazy"
+              decoding="async"
+              <% if (imgWidth > 0 && imgHeight > 0) { %>
+                width="<%= imgWidth %>"
+                height="<%= imgHeight %>"
+              <% } %>
               <% if (imgObj.url.startsWith('https://ecoms1.com/')) { %>
                 crossorigin="anonymous"
               <% } %>
