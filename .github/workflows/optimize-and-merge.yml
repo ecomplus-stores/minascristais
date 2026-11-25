@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Optimize with Calibre's image actions
         # The action's `GITHUB_TOKEN` input already defaults to github.token;
