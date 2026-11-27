@@ -8,7 +8,7 @@
       },
       {
         "source": "/anel-em-pedras",
-        "destination": "/anel-em-pedras-8001",
+        "destination": "/aneis/",
         "type": 301
       },
       {
@@ -138,7 +138,7 @@
       },
       {
         "source": "/decorativosemcristais/",
-        "destination": "/decorativosemcristais/",
+        "destination": "/decor-objetos-cristais/",
         "type": 301
       },
       {
@@ -148,7 +148,7 @@
       },
       {
         "source": "/kit-mesa-tabua-para-frios-porta-copos-em-agata",
-        "destination": "/bandeja-agata-3919-mesa-posta",
+        "destination": "/mesa-posta",
         "type": 301
       },
       {
